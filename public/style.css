@@ -15,7 +15,9 @@ body {
 }
 
 #img-header {
-  width: 100%;
+  width: 50%;
+  margin: auto;
+  display: block;
 }
 
 #gear-animation {
@@ -25,7 +27,7 @@ body {
 }
 
 #announcement {
-  float: left;
-  margin: 0 0 0 5%;
-  width: 80%;
+  margin: auto;
+  width: 60%;
+  display: block;
 }
