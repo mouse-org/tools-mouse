@@ -21,13 +21,17 @@ body {
 }
 
 #gear-animation {
-  float: left;
-  width: 15%;
-  margin-top: 1em;
+  width: 8%;
 }
 
-#announcement {
+.announcement {
   margin: auto;
   width: 60%;
   display: block;
+}
+
+.separator {
+  text-align: center;
+  width: 100%;
+  font-size: 200%;
 }
