@@ -6,15 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mouse Tools</title>
   <link rel="stylesheet" href="https://create.mouse.org/css/MyFontsWebfontsKit.css" />
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="favicon.ico">
 </head>
-<body>
-  Mouse Tools<br>
-  tools.mouse.org<br>
-  <br>
-  Updated 9/19/16
+<body ng-app="tools">
 
+  <div ng-controller="header">
+    <ul>
+      <div ng-repeat="page in pages">
+        <li><a href="{{page.url}}">{{page.name}}</a></li>
+      </div>
+    </ul>
+  </div>
 
 
   <script>
@@ -25,8 +28,10 @@
 
   ga('create', 'UA-84363943-1', 'auto');
   ga('send', 'pageview');
-
   </script>
+
+  <script src="/js/angular.min.js"></script>
+  <script src="/js/script.js"></script>
 
 </body>
 </html>
