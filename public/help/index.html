@@ -1,3 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mouse Tools and Help</title>
+  <link rel="stylesheet" href="https://create.mouse.org/css/MyFontsWebfontsKit.css" />
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="favicon.ico">
+</head>
+<body ng-app="tools">
+
+  <div ng-controller="header">
+    <ul>
+      <div ng-repeat="page in pages">
+        <li><a href="{{page.url}}">{{page.name}}</a></li>
+      </div>
+    </ul>
+  </div>
+
+
+
 <h2>
       About Mouse Create
     </h2>
@@ -5,3 +28,10 @@
     
     
     <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
+
+
+<script src="/js/angular.min.js"></script>
+<script src="/js/script.js"></script>
+
+</body>
+</html>
