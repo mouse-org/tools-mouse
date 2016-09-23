@@ -15,11 +15,13 @@
     <img src="/images/mousecreate.png" id="mouse-create-logo"><br>
     <h1 id="site-title">Mouse Help and Tools</h1>
     <ul id="nav">
-      <a href="{{page.url}}">
-        <div ng-repeat="page in pages">
-          <li>{{page.name}}</li>
-        </div>
-      </a>
+      <div ng-repeat="page in pages">
+        <a href="{{page.url}}">
+          <div id="nav-item" >
+            <li>{{page.name}}</li>
+          </div><br/>
+        </a>
+      </div>
     </ul>
   </div>
 

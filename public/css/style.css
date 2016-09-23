@@ -1,12 +1,12 @@
 body {
   margin:0;
   padding:40px;
-  font-family: 'Basetica-Regular';
-  line-height: 1.5em;
+  font-family: 'Basetica-Regular', sans-serif;
 }
 
 p {
   color: #555;
+  line-height: 1.5em;
 }
 
 video {
@@ -26,10 +26,11 @@ ul#nav {
   text-align: center;
 }
 
-ul#nav div {
-  margin: 3px 43%;
+ul#nav div div#nav-item {
   background-color: #e7e5e1;
-  width: 14%;
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
 }
 
 #mouse-create-logo {
