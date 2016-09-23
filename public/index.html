@@ -12,12 +12,25 @@
 <body ng-app="tools">
 
   <div ng-controller="header">
-    <ul>
-      <div ng-repeat="page in pages">
-        <li><a href="{{page.url}}">{{page.name}}</a></li>
-      </div>
+    <img src="/images/mousecreate.png" id="mouse-create-logo"><br>
+    <h1 id="site-title">Mouse Help and Tools</h1>
+    <ul id="nav">
+      <a href="{{page.url}}">
+        <div ng-repeat="page in pages">
+          <li>{{page.name}}</li>
+        </div>
+      </a>
     </ul>
   </div>
+
+
+  <h1>
+      About Mouse Create
+  </h1>
+  <p>Mouse Create is currently in Beta. We are working hard to iterate on the experience for both Educators and Youth and appreciate any feedback you have. You can send questions, comments, or ideas to help@mouse.org.</p>
+  
+  
+  <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
 
 
   <script>

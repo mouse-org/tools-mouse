@@ -12,10 +12,6 @@ var pages_array = [
 				"url": "/courses"
 			},
 			{
-				"name": "Help",
-				"url": "/help"
-			},
-			{
 				"name": "Help: Accounts and Registration",
 				"url": "/help/accounts-and-registration"
 			},
