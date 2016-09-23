@@ -20,7 +20,7 @@ angular.module('tools', [])
 			},
 			{
 				"name": "Help: Badges and Credly",
-				"url": "help/badges-and-credly"
+				"url": "/help/badges-and-credly"
 			},
 			{
 				"name": "Help: Frequently Asked Questions",
@@ -28,11 +28,11 @@ angular.module('tools', [])
 			},
 			{
 				"name": "Help: Groups and Playlists",
-				"url": "help/groups-and-playlists"
+				"url": "/help/groups-and-playlists"
 			},
 			{
 				"name": "Help: Projects",
-				"url": "help/projects"
+				"url": "/help/projects"
 			}
 			]
 	}]);
