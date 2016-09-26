@@ -7,13 +7,12 @@
   <title>Mouse Tools</title>
   <link rel="stylesheet" href="https://create.mouse.org/css/MyFontsWebfontsKit.css" />
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" href="favicon.ico">
+  <link rel="icon" href="/favicon.ico">
 </head>
 <body ng-app="tools">
 
   <div ng-controller="header">
-    <img src="/images/mousecreate.png" id="mouse-create-logo"><br>
-    <h1 id="site-title">Mouse Help and Tools</h1>
+    <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
     <ul id="nav">
       <div ng-repeat="page in pages">
         <a href="{{page.url}}">

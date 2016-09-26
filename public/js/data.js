@@ -26,5 +26,9 @@ var pages_array = [
 			{
 				"name": "Help: Projects",
 				"url": "/help/projects"
+			},
+			{
+				"name": "↩ Back to Mouse Create",
+				"url": "https://create.mouse.org/"
 			}
 			]
