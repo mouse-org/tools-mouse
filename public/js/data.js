@@ -5,7 +5,7 @@ var pages_array = [
 				"url": "/course-directory"
 			},
 			{
-				"name": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+				"name": "	 	 	 	 	 	 	 👀	 	 	 	 	 	 	 ",
 				"url": "http://meredithisonvacation.biz"
 			},
 			{
