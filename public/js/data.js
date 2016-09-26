@@ -13,7 +13,7 @@ var pages_array = [
 				"url": "/help/accounts-and-registration"
 			},
 			{
-				"name": "Help: Badges",
+				"name": "Help: Badges and Credly.com",
 				"url": "/help/badges"
 			},
 			{
