@@ -5,6 +5,10 @@ var pages_array = [
 				"url": "/course-directory"
 			},
 			{
+				"name": "       👀       ",
+				"url": "http://meredithisonvacation.biz"
+			},
+			{
 				"name": "Badge Directory",
 				"url": "/badge-directory"
 			},
