@@ -1,19 +1,20 @@
 var pages_array = [
+			
 			{
-				"name": "About Badges",
-				"url": "/badges"
+				"name": "Course Directory",
+				"url": "/course-directory"
 			},
 			{
 				"name": "Badge Directory",
 				"url": "/badge-directory"
 			},
 			{
-				"name": "About Courses",
-				"url": "/courses"
-			},
-			{
 				"name": "Help: Accounts and Registration",
 				"url": "/help/accounts-and-registration"
+			},
+			{
+				"name": "Help: Badges",
+				"url": "/help/badges"
 			},
 			{
 				"name": "Help: Frequently Asked Questions",
