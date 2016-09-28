@@ -64,3 +64,16 @@ a:hover {
 a:active {
     color: #2C328C;
 }
+
+.error-message {
+  padding: 10px;
+  border: 1px solid red;
+  background-color: #FF8888;
+  text-align: center;
+}
+
+.known-issues {
+  background-color: #FFBBBB;
+  padding: 5px;
+  margin: -5px;
+}

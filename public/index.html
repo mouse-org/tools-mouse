@@ -17,7 +17,7 @@
       <div ng-repeat="page in pages">
         <a href="{{page.url}}">
           <div id="nav-item" >
-            <li>{{page.name}}</li>
+            <li class="{{page.class}}">{{page.name}}</li>
           </div><br/>
         </a>
       </div>
@@ -47,6 +47,7 @@
   <script src="/js/angular.min.js"></script>
   <script src="/js/data.js"></script>
   <script src="/js/script.js"></script>
+  
 
 </body>
 </html>
