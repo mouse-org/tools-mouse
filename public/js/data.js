@@ -39,10 +39,5 @@ var pages_array = [
 				"name": "↩ Back to Mouse Create",
 				"url": "https://create.mouse.org/",
 				"class": "menu-item"
-			},
-			{
-				"name": "Why Doesn't My Educator Code Work?",
-				"url": "/known-issues",
-				"class": "known-issues"
 			}
 			]
