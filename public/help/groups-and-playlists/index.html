@@ -12,10 +12,10 @@
 <body ng-app="tools">
 
 
-  <div ng-controller="header">
+  <div ng-controller="HeaderController as header">
     <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
     <ul id="nav">
-      <div ng-repeat="page in pages">
+      <div ng-repeat="page in header.pages">
         <a href="{{page.url}}">
           <div id="nav-item" >
             <li class="{{page.class}}">{{page.name}}</li>
