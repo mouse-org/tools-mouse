@@ -45,7 +45,7 @@
     <ul id="standards-list">
       <div ng-repeat="project in standards.projects">
         <li class="project" ng-show="project.display">
-        {{project.name}} ** {{<br>
+        {{project.name}}<br>
           <ul>
             <div ng-repeat="alignment in project.alignments">
               <li ng-show="standards.select_all || (standards.selection.indexOf(alignment.standard_set) != -1)">
