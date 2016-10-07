@@ -36,6 +36,11 @@ var pages_array = [
 				"class": "menu-item"
 			},
 			{
+				"name": "Help: Schedule a Check-In",
+				"url": "/help/check-in",
+				"class": "menu-item"
+			},
+			{
 				"name": "↩ Back to Mouse Create",
 				"url": "https://create.mouse.org/",
 				"class": "menu-item"
