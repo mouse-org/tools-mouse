@@ -41,6 +41,11 @@ var pages_array = [
 				"class": "menu-item"
 			},
 			{
+				"name": "Changes and Updates",
+				"url": "/updates",
+				"class": "menu-item"
+			},
+			{
 				"name": "↩ Back to Mouse Create",
 				"url": "https://create.mouse.org/",
 				"class": "menu-item"
