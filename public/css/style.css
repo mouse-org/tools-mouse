@@ -77,3 +77,8 @@ a:active {
   padding: 5px;
   margin: -5px;
 }
+
+#alert {
+  border: 2px solid #ff3333;
+  padding: 10px;
+}
