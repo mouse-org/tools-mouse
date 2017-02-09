@@ -28,6 +28,10 @@ ul#nav {
   text-align: center;
 }
 
+ul#nav div {
+  display: inline-block;
+}
+
 ul#nav div div#nav-item {
   background-color: #e7e5e1;
   display: inline-block;
