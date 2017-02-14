@@ -32,6 +32,10 @@ ul#nav {
   text-align: center;
 }
 
+ul#nav a {
+  color: #000;
+}
+
 ul#nav div {
   display: inline-block;
 }
