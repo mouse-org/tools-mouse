@@ -7,6 +7,10 @@ body {
   margin-right: auto;
 }
 
+a {
+  color: #2C328C;
+}
+
 p, li {
   line-height: 1.5em;
 }
@@ -47,26 +51,6 @@ h1#site-title {
 #site-title-link {
   text-decoration: none;
   color: #FF3333;
-}
-
-/* unvisited link */
-a:link {
-    color: #202020;
-}
-
-/* visited link */
-a:visited {
-    color: #202020;
-}
-
-/* mouse over link */
-a:hover {
-    color: #2C328C;
-}
-
-/* selected link */
-a:active {
-    color: #2C328C;
 }
 
 .error-message {
