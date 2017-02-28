@@ -5,24 +5,7 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 var mime = require('mime');
-var request = require('request');
-var mysql = require("mysql");
-
-var connection = mysql.createConnection({
-	host: process.env.CREATE_PROD_DB_HOST,
-	user: process.env.CREATE_PROD_DB_USERNAME,
-	password: process.env.CREATE_PROD_DB_PASSWORD,
-	database: "Mouse Create Production"
-})
-
-connection.connect(function(err){
-	if(!err) {
-	    console.log("Database is connected ... nn");
-	} else {
-	    console.log("Error connecting database . . .");
-			console.log(err)
-	}
-});
+var request = require('request')
 
 
 var app = express();
