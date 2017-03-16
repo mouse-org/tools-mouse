@@ -30,7 +30,7 @@ app.get('/', function(req,res){
 });
 
 app.get('/.well-known/acme-challenge/' + process.env.SSLDIR, function(req, res) {
-  res.send('process.env.SSLCONTENT');
+  res.send(process.env.SSLCONTENT);
 })
 
 app.listen(port, function(){
