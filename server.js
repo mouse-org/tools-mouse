@@ -29,6 +29,10 @@ app.get('/', function(req,res){
 	res.sendFile(__dirname + '/templates/index.html');
 });
 
+app.get('/.well-known/acme-challenge/' + process.env.SSLDIR, function(req, res) {
+  res.send('process.env.SSLCONTENT');
+})
+
 app.listen(port, function(){
   console.log('Gulp is running on PORT: ' + port);
 })
