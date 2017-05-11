@@ -2325,7 +2325,7 @@ var projects = [
 	},
 
 	{
-		"name": "Ring ToS",
+		"name": "Paper ToS",
 		"standards": [
 			"8604890998",
 			"7634263003",
