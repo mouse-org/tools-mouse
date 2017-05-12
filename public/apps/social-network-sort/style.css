@@ -6,6 +6,7 @@ span.clear { clear: both; display: block; }
 
 body {
   font-family: "Open Sans", sans-serif;
+  margin: 0;
 }
 
 h1, h2, h3 {
@@ -30,6 +31,7 @@ ul {
   height: 100%;
   background-color:rgba(0, 60, 60, 0.2);
   position: absolute;
+  top: -20px;
   overflow: visible;
   display: none;
 }
@@ -45,21 +47,27 @@ ul {
 
 #networks {
   width: 63%;
-  float: left;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
 }
 
 .network {
   width: 30%;
-  float: left;
-  margin: 1em 1%;
+  position: relative;
+  display: inline-block;
+  margin: 0 1%;
   padding: 10px;
   background-color: lightgrey;
+  vertical-align: top;
 }
 
 .privacy-sliders {
-  float: left;
+  position: relative;
   width: 50%;
   margin: 5px 25%;
+  cursor: pointer;
+  display: block;
 
 }
 
@@ -68,7 +76,8 @@ ul {
   width: 100%;
   min-width: 40px;
   border-radius: 10px;
-  float: left;
+  position: relative;
+  display: block;
   background-color: white;
   padding: 5px;
 }
@@ -115,28 +124,54 @@ ul {
   display: block;
 }
 
-#status-updates {
+#status-updates-container {
   width: 31%;
-  float: left;
+  display: inline-block;
+}
+
+#status-updates-library-header {
+  width: 100%;
+  position: relative;
+  display:block;
+  margin-left: 2%;
+  margin-right: 2%;
+  background-color: darkturquoise;
+  border-left: 10px solid darkturquoise;
+  border-right: 10px solid darkturquoise;
+  border-top: 10px solid darkturquoise;
+}
+
+#status-updates {
+  width: 100%;
+  position: relative;
+  display: block;
   max-height: 35em;
   overflow: scroll;
   margin-left: 2%;
   margin-right: 2%;
   background-color: darkturquoise;
   padding: 5px;
-  border: 10px solid darkturquoise;
+  border-left: 10px solid darkturquoise;
+  border-right: 10px solid darkturquoise;
+  border-bottom: 10px solid darkturquoise;
+}
+
+#status-updates h2 {
+  margin: 0;
 }
 
 #type-updates-buttons {
-  float: left;
+  position: relative;
+  left: 5px;
 }
 
 .updates-button {
-  display: inline;
-  border: 2px solid black;
+  display: inline-block;
+  border: 1px solid black;
   padding: 5px;
   background-color: #00a886;
   margin: 5px;
+  border-radius: 5px;
 }
 
 .updates-button:hover {
@@ -147,8 +182,13 @@ ul {
   float: left;
 }
 
+#update-categories {
+  width: 100%;
+}
+
 .status-update-category {
   float: left;
+  width: 100%;
 }
 
 #text-updates {
@@ -167,10 +207,12 @@ ul {
   display: none;
 }
 
+#new-updates {
+  display: none;
+}
+
 .status-list {
   min-height: 50px;
-  border: 1px dotted grey;
-  float: left;
   width: 100%;
   padding: 5px 5px 0px;
 }
@@ -178,10 +220,11 @@ ul {
 .status-update {
   background-color: #EAEAEA;
   padding: 5px;
-  cursor: move; 
-  float: left;
+  cursor: move;
+  position: relative;
   width: 100%;
   margin-bottom: 5px;
+  display: inline-block;
 }
 
 .blank-status-update {
@@ -194,8 +237,8 @@ ul {
 
 .status-avatar {
   width: 20%;
-  float: left;
-  display: block;
+  position: relative;
+  display: inline-block;
 }
 
 .status-avatar img {
@@ -205,8 +248,8 @@ ul {
 
 .status-text {
   width: 75%;
-  float: right;
-  display: block;
+  position: relative;
+  display: inline-block;
 }
 
 .status-preview {
@@ -215,7 +258,7 @@ ul {
   margin: 3px;
   margin-left: 20%;
   background-color: lightcyan;
-  float: left;
+  position: relative;
   width: 80%;
 }
 
@@ -248,9 +291,86 @@ ul {
   min-width: 40px;
   width: 30%;
   margin: 0 35%;
+  background-color: #FFF;
+  border-radius: 10px;
 }
 
 #chosen-networks {
   display: none;
-  float: left;
+  position: relative;
+}
+
+.print-button {
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: auto;
+  padding: 0 10px 10px;
+  background-color: #ACE2D4;
+  border: 1px solid black;
+}
+
+.printer-icon {
+  position: relative;
+  top: 10px;
+  width: 30px;
+}
+
+.arrow-icon {
+  position: relative;
+  top: 10px;
+  width: 30px;
+}
+
+#printer-friendly {
+  display: none;
+  min-height: 100px;
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+#printer-friendly h3 {
+  margin-top: 2em;
+  margin-bottom: .5em;
+}
+
+#printer-friendly img {
+  width: 200px;
+  height: auto;
+}
+
+.new-status-input {
+  width: 100%;
+  font-size: 125%;
+  line-height: 150%;
+}
+
+#new-status-preview {
+  display: none;
+}
+
+.close-status {
+  position: absolute;
+  top: 0px;
+  right: 2px;
+  cursor: pointer;
+  color: #8F8F8F;
+}
+
+.print-privacy {
+  text-align: center;
+  width: 20%;
+  margin: 0 40%;
+}
+
+.print-public {
+  background-color: #ACE2D4;
+}
+
+.print-private {
+  background-color: #F9D0C2;
 }

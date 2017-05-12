@@ -1,30 +1,27 @@
 // Only execute this code once the DOM (all other content) is loaded.
 document.addEventListener("DOMContentLoaded", function(event) {
+  console.log(window.location.search);
 
 
   // Generates a list of social networks to choose from:
   var socialNetworkHTML;
 
-  for (i in availableSocialNetworks) {
-    socialNetworkHTML = "<li onclick='chooseNetwork(" + i + ")' class='social-network-choice' id='" + availableSocialNetworks[i][0] + "'>" + "<img class='logo' src='images/" + availableSocialNetworks[i][1] + "'><br>" + availableSocialNetworks[i][0] + "</li>";
+  for (i in networkList) {
+    socialNetworkHTML = "<li onclick='chooseNetwork(" + i + ")' class='social-network-choice' id='" + networkList[i].name + "'>" + "<img class='logo' src='images/logos/" + networkList[i].imageURL + "'><br>" + networkList[i].name + "</li>";
     socialNetworkList.insertAdjacentHTML("beforeend", socialNetworkHTML);
   }
-  
-  var statusUpdateHTML;
 
+  // Generates the list of status updates in the library in 4 categories.
   updates = availableStatusUpdates;
+  var statusUpdateHTML = "";
+  // Generates the buttons to select each category of update.
 
-  statusUpdateHTML = "<div id='status-update-library'><div id='type-updates-buttons'><div class='updates-button' id='text-updates-button'>Text</div><div class='updates-button' id='image-updates-button'>Images</div><div class='updates-button' id='video-updates-button'>Videos</div><div class='updates-button' id='media-updates-button'>Audio</div></div>"
-
-
+  // Populates each update category with the available updates.
   for (cat in updates){
-
-    console.log(cat + ": " + updates[cat]);
-
     statusUpdateHTML += "<div class='status-update-category drag-container' id='" + cat + "-updates'>";
-  
+
     for (j = 0; j < updates[cat].length; j++) {
-      statusUpdateHTML += "<div class='status-update'><div class='status-avatar'><img src='images/speaking-user.png'></div><div class='status-text'>" + updates[cat][j][0] + "</div>";
+      statusUpdateHTML += "<div class='status-update'><div class='close-status'>x</div><div class='status-avatar'><img src='images/speaking-user.png'></div><div class='status-text'>" + updates[cat][j][0] + "</div>";
       if (updates[cat][j].length > 1) {
         if (updates[cat][j][1] == "text") {
           statusUpdateHTML += "<div class='status-preview'>" + updates[cat][j][2] + "</div>";
@@ -37,144 +34,203 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     statusUpdateHTML += "</div>";
   }
+  statusUpdateLib.insertAdjacentHTML("afterbegin", statusUpdateHTML);
 
-  statusUpdateHTML += "</div>";
-  statusUpdateList.insertAdjacentHTML("beforeend", statusUpdateHTML);
-
-    // See dragula.js 
+  // See dragula.js
   var arraylike = document.getElementsByClassName("drag-container");
+  var placeholders = document.getElementsByClassName("blank-status-update");
   var containers = Array.prototype.slice.call(arraylike);
-  dragula({ containers: containers });
 
+  dragula(containers, {
+    invalid: function (el, handle) {
+      if (el.className.includes("blank-status-update")) {
+        return true;
+      }
+
+    },
+
+    copy: function(el) {
+      if(el.className.includes("new-status-update")) {
+        return true;
+      }
+    }
+  })
+  .on("drop", function(el) {
+    $(el).siblings(".blank-status-update").hide();
+    if (el.className.includes("new-status-update")) {
+      $(el).children("#new-status-text").removeAttr("id");
+      $(el).children("#new-status-preview").children("#new-status-image").removeAttr("id");
+      if ($("#new-status-image").attr("src") === "#") {
+        $("#new-status-preview").hide();
+      }
+      $(el).children("#new-status-preview").removeAttr("id");
+      $(".new-status-input").val("");
+      $("#new-status-text").html("");
+      $("#new-status-image").attr("src", "#");
+
+    }
+  })
+  .on("drag", function(el) {
+    sibs = $(el).siblings(".status-update");
+    if ($(el).siblings(".status-update").length == 1){
+      $(el).siblings(".blank-status-update").show();
+    }
+  });
 });
 
-// This code executes when this file is loaded.
-
+// This code starts executing when this file is loaded.
 var socialNetworkList = document.getElementById("social-network-list");
-var statusUpdateList = document.getElementById("status-list");
+var statusUpdateLib = document.getElementById("update-categories");
 var chosenNetworks = document.getElementById("chosen-networks");
 var networks = document.getElementById("networks");
 var loading = document.getElementById("loading");
-
-var availableSocialNetworks =
-    [
-      ["Facebook", "facebook.png", "#3b5998"],
-      ["Flickr", "flickr.jpeg", "#ff0084"], 
-      ["Instagram","instagram.png", "#bc2a8d"],
-      ["LinkedIn", "linkedin.jpeg", "#007bb5"],
-      ["Periscope", "periscope.jpeg", "#D95343"],
-      ["Pinterest", "pintrest.jpeg", "#cb2027"],
-      ["Snapchat", "snapchat.png", "#fffc00"],
-      ["SoundCloud", "soundcloud.png", "#f50"],
-      ["Tumblr", "tumblr.png", "#32506d"],
-      ["Twitter", "twitter.jpeg", "#55acee"],
-      ["Vine", "vine.jpeg", "#00bf8f"],
-      ["YouTube", "youtube.png", "#bb0000"]
-    ]
-
-var availableStatusUpdates = 
-    {
-      text: [
-        ["just failed another math quiz, I think mrs. smith hates me hsxfdf"],
-        ["GO COUGARS BASKETBALL!!!!!"],
-        ["know i should apply for summer jobs, but i’m just gonna watch movies all day instead lol"],
-        ["Hey everyone! i wrote an article for the school blog on the new tablets we’re getting in the computer lab. check it out!", "text", 
-         "Cougars Blog: Computer Lab gets Brand New Tablets! Have you ever thought that having a tablet at school would make school easier? *Click here* to keep reading…"],
-        ["ms. garcia just asked me to be the computer lab assistant after school every monday, so come by if you need help with any tech!"],
-        ["lost my phone and all my contacts, so text your number to my new phone: 555-012-3456."],
-        ["ate garlic fries at lunch and now i have the worst breath :/"],
-        ["🏊 🏖 🍔 🌞 🕕 🕙 🕓 🕥 🕞 😟 😖 😫"],
-        ["Everytime I eat 5 hotdogs in a row I get the worst stomach ache. #doingitanyway"],
-        ["I finally got the video game I’ve been saving for! Homework can wait right?"]
-      ],
-
-      image: [
-        ["Reading about Tetris for my history report, makes me want to play!", "image", "images/tetris.png"],
-        ["Beagles are my favorite kind of dog! So cute!", "image", "images/beagle.jpg"],
-        ["Finally finished my Arduino project for my computer science class!", "image", "images/arduino.jpg"],
-        ["My family is all packed up for our summer trip, going to miss our house being gone for a month!", "image", "images/house.jpg"],
-        ["Look at this amazing picture of the sunset I took!", "image", "images/sunset.jpg"],
-        ["I found this old picture of our school in a book. Wow things have changed!", "image", "images/oldschool.jpg"],
-        
+var directions = document.getElementById("directions");
+var network0 = document.getElementById("network0");
+var c0 = document.getElementById("c0");
 
 
-      ],
-      video: [
-        ["Hey @tommie and @gracie, just uploaded that hilarious video I took at your pool party! LOL!", "image", "images/pool.png"],
-        ["Coding all day, learning a lot!", "image", "images/terminal.gif"],
-        ["This is my favorite new dance!", "image", "images/dancing.gif"],
-        ["Making an electronics project", "image", "images/circuit.gif"],
-        ["OMG wut???!!1!!1", "image", "images/hamburger.png"],
-        ["Can't stop watching 👀", "image", "images/tesseract.gif"],
-        ["TFW I'm skipping math class cause ¯\\_(ツ)_/¯", "image", "images/walk.gif"],
-        ["Game last night was soooo close ⚽️😅", "image", "images/soccer.gif"],
-        ["My lunch lol", "image", "images/food.gif"]
-
-      ],
-
-      media: [
-        ["remixed a beatles song. Tell me if you like it!", "image", "images/bulldog.png"],
-        ["Sampling this trombone sound in my new song", "image", "images/trombone.png"],
-        ["I like to program electronic drums, this is my newest track:", "image", "images/drums.png"],
-        ["My new favorite song!", "image", "images/song2.png"],
-        ["This Ghandi recording is so inspiring!!", "image", "images/ghandi.png"]
-
-      ]
-    }
 
 var socialNetworks = []
 var numberOfNetworksChosen = 0;
 
+
+
+//<div class="status-update blank-status-update">
+//+
+//</div>
+
 function chooseNetwork(networkID) {
-  socialNetwork = availableSocialNetworks[networkID]
+  socialNetwork = networkList[networkID];
   selectedNetwork = "network" + numberOfNetworksChosen;
   socialNetworks += socialNetwork;
-  
+
   network = document.getElementById(selectedNetwork);
   networkName = document.getElementById(selectedNetwork + "-name");
   firstStatus = document.getElementById(selectedNetwork + "-first-status");
-  $(document.getElementById(socialNetwork[0])).addClass("selected");
-  
-  network.style.background = socialNetwork[2];
-  networkName.insertAdjacentHTML("afterbegin", socialNetwork[0]);
-  networkName.insertAdjacentHTML("afterend", "<img src='images/" + socialNetwork[1] + "' class='logo-small'>");
-  firstStatus.insertAdjacentHTML("beforeend", socialNetwork[0]);
-  
+  $(document.getElementById(socialNetwork.name)).addClass("selected");
+
+  network.style.background = socialNetwork.color;
+  networkName.insertAdjacentHTML("afterbegin", socialNetwork.name);
+  networkName.insertAdjacentHTML("afterend", "<img src='images/logos/" + socialNetwork.imageURL + "' class='logo-small'>");
+  firstStatus.insertAdjacentHTML("beforeend", socialNetwork.name);
+
   numberOfNetworksChosen += 1;
+
+  // When the user chooses 3 networks:
   if (numberOfNetworksChosen >= 3) {
     loading.style.display = "inline";
     setTimeout(function(){
       socialNetworkList.style.display = "none";
       loading.style.display = "none";
-      chosenNetworks.style.display = "inline";
+      chosenNetworks.style.display = "inline-block";
+      directions.innerHTML = "Move statuses from the library into the appropriate network."
     }, 500);
   }
 
-$('#text-updates-button').click(function(){
-    $('.status-update-category').css('display', 'none');
-    $('#text-updates').css('display', 'block');
-});
 
-$('#image-updates-button').click(function(){
-    $('.status-update-category').css('display', 'none');
-    $('#image-updates').css('display', 'block');
-});
 
-$('#video-updates-button').click(function(){
-    $('.status-update-category').css('display', 'none');
-    $('#video-updates').css('display', 'block');
-});
+  $('#text-updates-button').click(function(){
+      $('.status-update-category').css('display', 'none');
+      $('#text-updates').css('display', 'block');
+  });
 
-$('#media-updates-button').click(function(){
-    $('.status-update-category').css('display', 'none');
-    $('#media-updates').css('display', 'block');
-});
+  $('#image-updates-button').click(function(){
+      $('.status-update-category').css('display', 'none');
+      $('#image-updates').css('display', 'block');
+  });
 
-$('.slider').click(function(){
-    $(this).children('.public').toggle();
-    $(this).children('.private').toggle();
-});
+  $('#video-updates-button').click(function(){
+      $('.status-update-category').css('display', 'none');
+      $('#video-updates').css('display', 'block');
+  });
+
+  $('#media-updates-button').click(function(){
+      $('.status-update-category').css('display', 'none');
+      $('#media-updates').css('display', 'block');
+  });
+
+  $('#new-updates-button').click(function(){
+      $('.status-update-category').css('display', 'none');
+      $('#new-updates').css('display', 'block');
+  });
+
+  $('.slider').click(function(){
+      if ($(this).parent().parent().hasClass("set-public")){
+        $(this).parent().parent().addClass("set-private");
+        $(this).parent().parent().removeClass("set-public");
+      } else {
+        $(this).parent().parent().addClass("set-public");
+        $(this).parent().parent().removeClass("set-private");
+      }
+
+      $(this).children('.public').toggle();
+      $(this).children('.private').toggle();
+  });
+
 
 }
 
+function populateNewStatus() {
+  $("#new-status-text").html($("#new-status-text-input").val());
+}
 
+function addImageToStatus() {
+  $("#new-status-image").attr("src", $("#new-status-image-input").val());
+  $("#new-status-preview").show();
+}
+
+function togglePrint() {
+  $("#main-container").toggle();
+  $("#printer-friendly").toggle();
+  $(".print-button").toggle();
+}
+
+function addToPrint(html) {
+  $("#printer-friendly").append(html);
+  $("#printer-friendly").append("<br>");
+}
+
+function printList(){
+
+  addToPrint("<h2>My Social Network Sort:</h2>");
+  var lists = document.getElementsByClassName("network");
+  for (l = 0; l < lists.length; l++) {
+    name = lists[l].getElementsByClassName("network-name")[0].innerHTML;
+    addToPrint("<h3>" + name + "</h3>");
+    if ($( lists[l] ).hasClass("set-public")){
+      addToPrint("<h4 class='print-public print-privacy'>Public</h4>");
+    } else {
+      addToPrint("<h4 class='print-private print-privacy'>Private</h4>");
+    }
+    updatesList = lists[l].getElementsByClassName("drag-container")[0];
+    updates = updatesList.getElementsByClassName("status-update");
+    for (u = 0; u < updates.length; u++) {
+      anUpdate = updates[u].getElementsByClassName("status-text")[0];
+      if (anUpdate) {
+        updateText = anUpdate.innerHTML;
+        addToPrint((u + 1) + ": " + updateText);
+        aPreview = updates[u].getElementsByClassName("status-preview")[0];
+        if (aPreview) {
+          if ($( aPreview.firstChild ).attr("src") != "#") {
+            updatePreview = aPreview.innerHTML;
+            addToPrint(updatePreview);
+          }
+        }
+      }
+    }
+  }
+  togglePrint();
+
+}
+
+function backToSort() {
+  togglePrint();
+  document.getElementById("printer-friendly").innerHTML = "";
+}
+
+jQuery(document).on('click','.close-status', function() {
+  if ($( this ).parent().parent().children().length <= 3){
+    $( this ).parent().parent().children().show();
+  }
+  $( this ).parent().remove();
+})
