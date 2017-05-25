@@ -1,5 +1,5 @@
 var pages_array = [
-			
+
 			{
 				"name": "Course Directory",
 				"url": "/course-directory",
@@ -29,6 +29,11 @@ var pages_array = [
 				"name": "Help: Groups and Playlists",
 				"url": "/help/groups-and-playlists",
 				"class": "menu-item"
+			},
+			{
+				"name": "Help: Notifications",
+				"url": "/help/notifications",
+				"clas": "menu-item"
 			},
 			{
 				"name": "Help: Projects",
