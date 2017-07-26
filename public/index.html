@@ -10,33 +10,33 @@
   <link rel="icon" href="/favicon.ico">
 </head>
 <body ng-app="tools">
+  <div id="main">
+    <div ng-controller="HeaderController as header">
+      <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
+      <ul id="nav">
+        <div ng-repeat="page in header.pages">
+          <a href="{{page.url}}">
+            <div id="nav-item" >
+              <li class="{{page.class}}">{{page.name}}</li>
+            </div><br/>
+          </a>
+        </div>
+      </ul>
+    </div>
 
-  <div ng-controller="HeaderController as header">
-    <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
-    <ul id="nav">
-      <div ng-repeat="page in header.pages">
-        <a href="{{page.url}}">
-          <div id="nav-item" >
-            <li class="{{page.class}}">{{page.name}}</li>
-          </div><br/>
-        </a>
-      </div>
-    </ul>
+    <h2 id="alert" style="display: none;">
+
+    </h2>
+
+
+    <h1>
+        About Mouse Create
+    </h1>
+    <p>Mouse Create is currently in Beta. We are working hard to iterate on the experience for both Educators and Youth and appreciate any feedback you have. You can send questions, comments, or ideas to help@mouse.org.</p>
+
+
+    <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
   </div>
-
-  <h2 id="alert" style="display: none;">
-  
-  </h2>
-
-
-  <h1>
-      About Mouse Create
-  </h1>
-  <p>Mouse Create is currently in Beta. We are working hard to iterate on the experience for both Educators and Youth and appreciate any feedback you have. You can send questions, comments, or ideas to help@mouse.org.</p>
-  
-  
-  <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
-
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -51,7 +51,7 @@
   <script src="/js/angular.min.js"></script>
   <script src="/js/data.js"></script>
   <script src="/js/script.js"></script>
-  
+
 
 </body>
 </html>
