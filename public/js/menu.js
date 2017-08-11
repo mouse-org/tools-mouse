@@ -1,4 +1,3 @@
-
 var menu = [
 	{
 		"name": "Course Directory",

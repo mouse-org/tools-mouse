@@ -32,6 +32,20 @@
 
 
 
+    <div id="updates">
+      <h1>Updates!</h1>
+      <ul v-for="update in updates" id="updates-list">
+        <li>
+          <h3>{{ update.date }} {{ update.title }}</h3>
+          <div v-for="item in update.updates">
+            <p>{{ item }}</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+
+
     <h1>Updates</h1>
 
     <ul>
@@ -206,6 +220,7 @@
 
   <script src="https://unpkg.com/vue"></script>
   <script src="/js/menu.js"></script>
+  <script src="/js/updates.js"></script>
   <script src="/js/client.js"></script>
 
 </body>
