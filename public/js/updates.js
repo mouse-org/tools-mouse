@@ -197,7 +197,6 @@ var updates = [
 var vueUpdates = new Vue({
   el: '#updates',
   data: {
-    header: 'Mouse Create Help & Tools',
-    menu: menu
+    updates: updates
   }
 });
