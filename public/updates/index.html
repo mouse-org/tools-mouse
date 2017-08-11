@@ -38,7 +38,7 @@
         <li>
           <h3>{{ update.date }} {{ update.title }}</h3>
           <div v-for="item in update.updates">
-            <p>{{ item }}</p>
+            <p v-html="item"></p>
           </div>
         </li>
       </ul>
