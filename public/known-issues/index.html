@@ -9,26 +9,32 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="/favicon.ico">
 </head>
-<body ng-app="tools">
+<body>
 
-  <div ng-controller="HeaderController as header">
-    <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
+  <div id="app">
+    <a href="/" id="site-title-link">
+      <h1 id="site-title">
+        {{ header }}
+      </h1>
+    </a>
+
     <ul id="nav">
-      <div ng-repeat="page in header.pages">
-        <a href="{{page.url}}">
-          <div id="nav-item" >
-            <li class="{{page.class}}">{{page.name}}</li>
-          </div><br/>
+      <div v-for="item in menu">
+        <a v-bind:href="item.url">
+          <div id="nav-item">
+            <li v-bind:class="item.class">
+              {{ item.name }}
+            </li>
+          </div>
         </a>
       </div>
     </ul>
+
+
+
+    <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
+
   </div>
-
-  
-  
-  <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
-
-
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -39,9 +45,9 @@
   ga('send', 'pageview');
   </script>
 
-  <script src="/js/angular.min.js"></script>
-  <script src="/js/data.js"></script>
-  <script src="/js/script.js"></script>
+  <script src="https://unpkg.com/vue"></script>
+  <script src="/js/menu.js"></script>
+  <script src="/js/client.js"></script>
 
 </body>
 </html>

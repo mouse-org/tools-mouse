@@ -9,97 +9,101 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="/favicon.ico">
 </head>
-<body ng-app="tools">
+<body>
 
-  <div ng-controller="HeaderController as header">
-    <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
+  <div id="app">
+    <a href="/" id="site-title-link">
+      <h1 id="site-title">
+        {{ header }}
+      </h1>
+    </a>
+
     <ul id="nav">
-      <div ng-repeat="page in header.pages">
-        <a href="{{page.url}}">
-          <div id="nav-item" >
-            <li class="{{page.class}}">{{page.name}}</li>
-          </div><br/>
+      <div v-for="item in menu">
+        <a v-bind:href="item.url">
+          <div id="nav-item">
+            <li v-bind:class="item.class">
+              {{ item.name }}
+            </li>
+          </div>
         </a>
       </div>
     </ul>
+
+
+    <h1>Help: Projects</h1>
+    <h3>Getting Started: Finding the right Projects</h3>
+    Mouse Create has 100+ projects across 30+ competency areas.  To help you find the right projects for your group, we recommend these steps:
+    <ul>
+    <li>Take the Mouse Educator Course: Select the “Projects" button in the top menu.  Then, within the Project Finder, select the “Educator Course" tag.  Then complete each first project within the course.</li>
+    <li>Use the Project Finder (on the “Projects" page) to filter the projects by course, skill, or setting tags.</li>
+    <li>Browse the <a href="https://tools.mouse.org/course-directory/">Course Directory</a> and click to read the course descriptions.</li>
+    <li><a href="https://docs.google.com/spreadsheets/d/1QOvwKpa3Zs986fKYV_0o580_B2Urcrdwn31_EACgzqg/edit?usp=sharing">Browse this spreadsheet</a> to search for projects by Common Core Standards, Next Generation Science Standards (NGSS) or International Society for Technology in Education (ISTE) Standards.</li>
+
+    </ul>
+    <h3>Preparing to Facilitate a Project</h3>
+    <ul>
+    <li>Projects that require facilitation are often tagged “With a Group"—meaning this project can not be done by a student on their own.</li>
+    <li>To facilitate a project on Mouse Create, first open it by clicking on the project from the Project Finder or within your Group’s Playlist.</li>
+    <li>Before leading it, read through the Project Background to find a list of outcomes, materials, and instructions on how to prep the activity.  You will also find a link to the project’s standards alignment, debrief/reflection questions, and any suggested prerequisite or follow-up projects.</li>
+    <li>On Windows or Mac, you can find the Project Background step within the Steps menu to the right of the project, at the bottom. On Android or iOS devices, touch the “See All Steps" button to open the steps menu, then scroll to the bottom and tap “Project Background".</li>
+    <li>We recommend going through each of the project’s steps on your own before leading with youth.</li>
+    </ul>
+    <h3>Working on a Project</h3>
+
+    <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_workingonproject.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+
+    <ul>
+    <li>Students, or small groups of students, can either follow along step-by-step on their own devices or you can display the steps on a projector or smartboard for the whole group.</li>
+    <li>Show your Work: On each step, there is a “Show your Work" area at the bottom.  This area often has required reflection questions, or a request to document their work with an image or text. Youth are not required to upload work on every step.</li>
+    <li>Review & Submit: At the end of each project, students must review and submit their work to receive credit for having completed the project.</li>
+    <li>Select Collaborators: If students are working in teams, or as a whole group, they can tag other users in your group as “collaborators" before submitting the project. This will give those users credit for having completed the project as well.</li>
+    <li>Submitted projects need to be reviewed by the group educator—you can find these on your group page at the bottom, in an area called “Project Review".</li>
+    <li>Note: students in multiple groups need to make sure the correct group is active at the top of the page before starting a project. If a student wants to submit a project do a different group they will need to switch groups by going to the “My Groups" page from the “More" menu.</li>
+    </ul>
+
+    <h3>Students: Viewing & Commenting Project Work submitted by others</h3>
+
+    <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_comments_students.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+
+    <ul>
+    <li>To find a user’s Project Work, go to your Group home Members area, below the Playlist.</li>
+    <li>Click on a username in the list to go to their Profile. </li>
+    <li>Scroll to the bottom of the Profile to get to the “Recent Work Log”.  All project work created by this user will appear in this area.</li>
+    <li>Click on the Project’s name to open the user’s Project Work window.</li>
+    <li>There are 2 tabs in this window: Project Work & Discussion.</li>
+    <li>The Project Work tab has all of the text, images or attachments submitted by the user.  The Discussion tab is where you can leave comments or start a discussion. </li>
+    <li>When leaving a comment, you can choose to attach a star icon (to share something you like about the work), a question mark icon (to ask a question), a lightbulb icon (to share an idea or suggestion about the work) or just leave a comment without an icon.</li>
+    <li>You will receive a notification if another user replies to your comment, or if another user leaves a comment on your own Project Work.</li>
+    </ul>
+
+    <h3>Editing or Deleting Comments</h3>
+    <ul>
+    <li>To edit your own comment or reply, click the edit button at the end of your message text.</li>
+    <li>Click “Submit” or press the enter/return key to save your edited message.</li>
+    <li>To delete your own comment or reply, click the delete button at the end of your message text. </li>
+    <li>If you notice an inappropriate comment from another user:
+    <ul><li>Leave a reply with feedback about why you think it is inappropriate, asking them to edit</li>
+    <li>Speak to the user in person (if they are in your group) and ask them to remove or edit their comment</li>
+    <li>Educators: if it is not possible to resolve through feedback directly with the user who submitted the comment, if the user is in your group, you can edit their password from the Manage Members link on the Group Page and log in with their account to delete the comment.</li></ul></il>
+    </ul>
+    <h3>Educators Only: Reviewing Projects & Leaving Feedback</h3>
+    <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_comments_educator.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+
+    <ul>
+    <li>You will receive a notification when your group members have finished a project. </li>
+    <li>You can click the message from the Notifications Area to review the work and leave feedback there. </li>
+    <li>You can also view all submitted work from your group members on your Group page under the Playlist—in the Project Review area.</li>
+    <li>Click on the project name to open a window that will show all of the submitted work. </li>
+    <li>Click the Discussion Tab to leave feedback for the project creator/s or to monitor their discussion. Your comments will send out a notification to each of the project creators (each student who collaborated on it).</li>
+    <li>If you are satisfied with their work, go back to the “Project Work” tab, scroll to the bottom and  check the “Mark as Reviewed" box and close the window.</li>
+    <li>This will send a notification to each creator of the project (the student who submitted the project and all collaborators)</li>
+    </ul>
+
+
   </div>
 
-
-
-
-  <h1>Help: Projects</h1>
-  <h3>Getting Started: Finding the right Projects</h3>
-  Mouse Create has 100+ projects across 30+ competency areas.  To help you find the right projects for your group, we recommend these steps:
-  <ul>
-  <li>Take the Mouse Educator Course: Select the “Projects" button in the top menu.  Then, within the Project Finder, select the “Educator Course" tag.  Then complete each first project within the course.</li>
-  <li>Use the Project Finder (on the “Projects" page) to filter the projects by course, skill, or setting tags.</li>
-  <li>Browse the <a href="https://tools.mouse.org/course-directory/">Course Directory</a> and click to read the course descriptions.</li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1QOvwKpa3Zs986fKYV_0o580_B2Urcrdwn31_EACgzqg/edit?usp=sharing">Browse this spreadsheet</a> to search for projects by Common Core Standards, Next Generation Science Standards (NGSS) or International Society for Technology in Education (ISTE) Standards.</li>
-
-  </ul>
-  <h3>Preparing to Facilitate a Project</h3>
-  <ul>
-  <li>Projects that require facilitation are often tagged “With a Group"—meaning this project can not be done by a student on their own.</li>
-  <li>To facilitate a project on Mouse Create, first open it by clicking on the project from the Project Finder or within your Group’s Playlist.</li>
-  <li>Before leading it, read through the Project Background to find a list of outcomes, materials, and instructions on how to prep the activity.  You will also find a link to the project’s standards alignment, debrief/reflection questions, and any suggested prerequisite or follow-up projects.</li>
-  <li>On Windows or Mac, you can find the Project Background step within the Steps menu to the right of the project, at the bottom. On Android or iOS devices, touch the “See All Steps" button to open the steps menu, then scroll to the bottom and tap “Project Background".</li>
-  <li>We recommend going through each of the project’s steps on your own before leading with youth.</li>
-  </ul>
-  <h3>Working on a Project</h3>
-
-  <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_workingonproject.mp4" type="video/mp4">Your browser does not support HTML5.</video>
-
-  <ul>
-  <li>Students, or small groups of students, can either follow along step-by-step on their own devices or you can display the steps on a projector or smartboard for the whole group.</li>
-  <li>Show your Work: On each step, there is a “Show your Work" area at the bottom.  This area often has required reflection questions, or a request to document their work with an image or text. Youth are not required to upload work on every step.</li>
-  <li>Review & Submit: At the end of each project, students must review and submit their work to receive credit for having completed the project.</li>
-  <li>Select Collaborators: If students are working in teams, or as a whole group, they can tag other users in your group as “collaborators" before submitting the project. This will give those users credit for having completed the project as well.</li>
-  <li>Submitted projects need to be reviewed by the group educator—you can find these on your group page at the bottom, in an area called “Project Review".</li>
-  <li>Note: students in multiple groups need to make sure the correct group is active at the top of the page before starting a project. If a student wants to submit a project do a different group they will need to switch groups by going to the “My Groups" page from the “More" menu.</li>
-  </ul>
-
-  <h3>Students: Viewing & Commenting Project Work submitted by others</h3>
-
-  <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_comments_students.mp4" type="video/mp4">Your browser does not support HTML5.</video>
-
-  <ul>
-  <li>To find a user’s Project Work, go to your Group home Members area, below the Playlist.</li>
-  <li>Click on a username in the list to go to their Profile. </li>
-  <li>Scroll to the bottom of the Profile to get to the “Recent Work Log”.  All project work created by this user will appear in this area.</li>
-  <li>Click on the Project’s name to open the user’s Project Work window.</li>
-  <li>There are 2 tabs in this window: Project Work & Discussion.</li>
-  <li>The Project Work tab has all of the text, images or attachments submitted by the user.  The Discussion tab is where you can leave comments or start a discussion. </li>
-  <li>When leaving a comment, you can choose to attach a star icon (to share something you like about the work), a question mark icon (to ask a question), a lightbulb icon (to share an idea or suggestion about the work) or just leave a comment without an icon.</li>
-  <li>You will receive a notification if another user replies to your comment, or if another user leaves a comment on your own Project Work.</li>
-  </ul>
-
-  <h3>Editing or Deleting Comments</h3>
-  <ul>
-  <li>To edit your own comment or reply, click the edit button at the end of your message text.</li>
-  <li>Click “Submit” or press the enter/return key to save your edited message.</li>
-  <li>To delete your own comment or reply, click the delete button at the end of your message text. </li>
-  <li>If you notice an inappropriate comment from another user:
-  <ul><li>Leave a reply with feedback about why you think it is inappropriate, asking them to edit</li>
-  <li>Speak to the user in person (if they are in your group) and ask them to remove or edit their comment</li>
-  <li>Educators: if it is not possible to resolve through feedback directly with the user who submitted the comment, if the user is in your group, you can edit their password from the Manage Members link on the Group Page and log in with their account to delete the comment.</li></ul></il>
-  </ul>
-  <h3>Educators Only: Reviewing Projects & Leaving Feedback</h3>
-  <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_comments_educator.mp4" type="video/mp4">Your browser does not support HTML5.</video>
-
-  <ul>
-  <li>You will receive a notification when your group members have finished a project. </li>
-  <li>You can click the message from the Notifications Area to review the work and leave feedback there. </li>
-  <li>You can also view all submitted work from your group members on your Group page under the Playlist—in the Project Review area.</li>
-  <li>Click on the project name to open a window that will show all of the submitted work. </li>
-  <li>Click the Discussion Tab to leave feedback for the project creator/s or to monitor their discussion. Your comments will send out a notification to each of the project creators (each student who collaborated on it).</li>
-  <li>If you are satisfied with their work, go back to the “Project Work” tab, scroll to the bottom and  check the “Mark as Reviewed" box and close the window.</li>
-  <li>This will send a notification to each creator of the project (the student who submitted the project and all collaborators)</li>
-  </ul>
-
-
-
-
-<script>
+  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -110,9 +114,9 @@
   </script>
 
 
-<script src="/js/angular.min.js"></script>
-<script src="/js/data.js"></script>
-<script src="/js/script.js"></script>
+  <script src="https://unpkg.com/vue"></script>
+  <script src="/js/menu.js"></script>
+  <script src="/js/client.js"></script>
 
 </body>
 </html>

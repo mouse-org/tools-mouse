@@ -9,45 +9,51 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="/favicon.ico">
 </head>
-<body ng-app="tools">
+<body>
 
-  <div ng-controller="HeaderController as header">
-    <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
+  <div id="app">
+    <a href="/" id="site-title-link">
+      <h1 id="site-title">
+        {{ header }}
+      </h1>
+    </a>
+
     <ul id="nav">
-      <div ng-repeat="page in header.pages">
-        <a href="{{page.url}}">
-          <div id="nav-item" >
-            <li class="{{page.class}}">{{page.name}}</li>
-          </div><br/>
+      <div v-for="item in menu">
+        <a v-bind:href="item.url">
+          <div id="nav-item">
+            <li v-bind:class="item.class">
+              {{ item.name }}
+            </li>
+          </div>
         </a>
       </div>
     </ul>
+
+
+    <h1>Help: Badges and Credly.com
+    </h1>
+    <p>On Mouse Create users age 13 and older can be awarded digital badges issued through a third party site, <a href="https://credly.com/">credly.com</a>. To be eligible to receive badges users need to either create a Credly account through Mouse Create, or connect an existing Credly account. Users can create a Credly account or connect to Credly through their <a href="https://create.mouse.org/profile">profile page</a>.</p>
+
+    <p>When projects associated with a badge are added to a group’s playlist the badge image will display on the project card in the playlist. As users submit projects for review they will appear to Educators in a table of submitted projects on the group page.</p>
+
+    <img class="screenshot" src="/images/project-gif.gif">
+
+    <p>Once each of the following steps has happened users will be eligible to be awarded a badge:</p>
+
+    <ul>
+    <li>User is age 13 or older</li>
+    <li>User has connected to Credly</li>
+    <li>User has submitted or been tagged as a collaborator on every project associated with the badge to be reviewed</li>
+    <li>Educator has reviewed every project associated with the badge, and marked the project as reviewed in the Project Tracking section of the group page</li>
+    </ul>
+
+    <img class="screenshot" src="/images/badge-gif.gif">
+
+    <p>Once a user is eligible to be awarded a badge, the badge and their name will be listed in the  Badge Tracking table beneath the Project Tracking table. To award the badge an educator will click on the name of the badge, agree to terms and click "Award Badge." This will award the badge through the user’s Credly account, and create a publicly shareable URL with the user’s project work shown. Once the badge has been awarded it will display on the user’s Mouse Create profile and the user will be able to accept and share the badge on Credly.</p>
+
   </div>
-
-
-  <h1>Help: Badges and Credly.com
-</h1>
-<p>On Mouse Create users age 13 and older can be awarded digital badges issued through a third party site, <a href="https://credly.com/">credly.com</a>. To be eligible to receive badges users need to either create a Credly account through Mouse Create, or connect an existing Credly account. Users can create a Credly account or connect to Credly through their <a href="https://create.mouse.org/profile">profile page</a>.</p>
-
-<p>When projects associated with a badge are added to a group’s playlist the badge image will display on the project card in the playlist. As users submit projects for review they will appear to Educators in a table of submitted projects on the group page.</p>
-
-<img class="screenshot" src="/images/project-gif.gif">
-
-<p>Once each of the following steps has happened users will be eligible to be awarded a badge:</p>
-
-<ul>
-<li>User is age 13 or older</li>
-<li>User has connected to Credly</li>
-<li>User has submitted or been tagged as a collaborator on every project associated with the badge to be reviewed</li>
-<li>Educator has reviewed every project associated with the badge, and marked the project as reviewed in the Project Tracking section of the group page</li>
-</ul>
-
-<img class="screenshot" src="/images/badge-gif.gif">
-
-<p>Once a user is eligible to be awarded a badge, the badge and their name will be listed in the  Badge Tracking table beneath the Project Tracking table. To award the badge an educator will click on the name of the badge, agree to terms and click "Award Badge." This will award the badge through the user’s Credly account, and create a publicly shareable URL with the user’s project work shown. Once the badge has been awarded it will display on the user’s Mouse Create profile and the user will be able to accept and share the badge on Credly.</p>
-
-
-<script>
+  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -58,9 +64,9 @@
   </script>
 
 
-<script src="/js/angular.min.js"></script>
-<script src="/js/data.js"></script>
-<script src="/js/script.js"></script>
+  <script src="https://unpkg.com/vue"></script>
+  <script src="/js/menu.js"></script>
+  <script src="/js/client.js"></script>
 
 </body>
 </html>

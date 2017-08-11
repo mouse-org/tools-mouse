@@ -9,157 +9,163 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="/favicon.ico">
 </head>
-<body ng-app="tools">
+<body>
 
-  <div ng-controller="HeaderController as header">
-    <a href="/" id="site-title-link"><h1 id="site-title">Mouse Create Help and Tools</h1></a>
+  <div id="app">
+    <a href="/" id="site-title-link">
+      <h1 id="site-title">
+        {{ header }}
+      </h1>
+    </a>
+
     <ul id="nav">
-      <div ng-repeat="page in header.pages">
-        <a href="{{page.url}}">
-          <div id="nav-item" >
-            <li class="{{page.class}}">{{page.name}}</li>
-          </div><br/>
+      <div v-for="item in menu">
+        <a v-bind:href="item.url">
+          <div id="nav-item">
+            <li v-bind:class="item.class">
+              {{ item.name }}
+            </li>
+          </div>
         </a>
       </div>
     </ul>
+
+
+    <h1>Help: Accounts and Registration</h1>
+    <h2>Account Registration</h2>
+    <p>Mouse Create is currently only available to Mouse member sites. If you are not a Mouse Member <a href="https://mouse.org/join">learn more about joining the Mouse learning network</a> on mouse.org.</p>
+    <h3>First, find your Educator Code</h3>
+    <p>Each Mouse location (typically a school or other youth-serving organization) receives a unique Educator Code by email when they join or renew Mouse membership. For the protection of our students, adults will not be able to join Mouse Create without a valid Educator Code.  This code upgrades your user and gives you special access to create a group for your students to join and to manage their work. Do NOT give the Educator Code to youth, but you should share the code with other adult educators at your location so they can lead projects with their students on Mouse Create.</p>
+
+    <p>If you are a Mouse member site, but have not received your site’s Educator Code, please email help@mouse.org with your name, and the name of your school or organization and we will get back to you ASAP.</p>
+    <h3>How to register Educator accounts</h3>
+    <ol>
+    <li>Go to Mouse Create at https://create.mouse.org</li>
+    <li>Click on Register</li>
+    <li>“What kind of account do you want to make?": Educator</li>
+    <li>“Do you have an Educator code?": Yes</li>
+    <li>"I teach Mouse projects at": If your site is a public or private school in the US, find it in the database of schools. Otherwise choose “An organization or institution that is not a school" from the dropdown.</li>
+    <li>Fill out the form, choosing a username and password and submit.</li>
+    <li>After logging in, you must upgrade your account to “Become an Educator".  Enter your Educator Code. You only need to do this once.</li>
+    <li>You can now create or join a Group for students.</li>
+    </ol>
+    <h3>How to register Student accounts</h3>
+    <ol>
+    <li>Go to Mouse Create at https://create.mouse.org</li>
+    <li>Click on Register</li>
+    <li>“What kind of account do you want to make?": Student</li>
+    <li>"I go to": Select “A public school", “A private school" or “I do not go to a school, or I am homeschooled". </li>
+    <li>Find the school that you attend, even if that is not the location where you participate in Mouse. You will still be able to join that site’s groups.</li>
+    <li>Make sure to fill in all required fields</li>
+    <li>Review and check the Terms of Service box.</li>
+    <li>Check the “I am not a robot" box. This is called a captcha and is required for our site’s security. You may or may not be required to complete an quick image test. </li>
+    <li>After you have created your new student account, you need your Group Code to get access to Mouse Create.  Educators can find your Group Code at the top of the Group page.</li>
+    </ol>
+
+    <h3>Walkthrough of Youth account registration</h3>
+
+    <video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/mousecreate_youthregistration.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+
+    <h3>Adding Additional Educators to a group</h3>
+    <p>If you have other adult educators at your site that you would like to join your group, they can do so by entering first your Educator Code (to give them educator status), then your Group Code (to join your site).</p>
+      <ol>
+      <li>Register Educator account</li>
+      <li>Submit Educator Code on the “Become an Educator" page</li>
+      <li>Submit Group Code on the “Join a Group" page</li>
+      </ol>
+
+    <h3>Troubleshooting Registration Issues</h3>
+    <p>If you or your students are having difficulty registering your accounts or if the Register button doesn’t seem to work.  Please go through these steps before reaching out to Mouse for support:</p>
+    <ol>
+      <li>Confirm that each field in the registration form has been completed correctly, and that there are no error messages.</li>
+      <li>Confirm that the Terms of Service checkbox “Please mark that you have read and agree to the terms here" has been checked</li>
+      <li>Confirm that the “I am not a robot" Captcha is checked.  Note: some users will be asked to complete an image quiz to confirm that they are not a spam-bot.  This quiz can sometimes be difficult to complete.  If it fails the first time, you will get a new quiz if you try again.</li>
+    </ol>
+    <p>If there are no missing fields, the “I am not a robot" box has a green checkmark, and the registration form is still not submitting:</p>
+    <ol>
+    <li>Try using a different internet browser.  Mouse Create works best in Google Chrome. Mouse Create does not support older versions of Internet Explorer or Firefox.</li>
+    <li>Check that you are running the most updated version of your browser. If not, please upgrade. </li>
+    <li>Run any pending updates for your Operating System.</li>
+    <li>Check that you are connected to the internet correctly.</li>
+    </ol>
+    <p>If you still can not create accounts, contact help@mouse.org.  Please share these details about your circumstances: What version of your browser are you using? What operating system are you using? At what point in the process are you receiving an error? Do any error messages appear? Share a screenshot of the problem if possible.</p>
+
+    <h2>Log In and Password Management</h2>
+
+    <h3>How to Change Your Own Password</h3>
+    <p>If you know your current password you can change your Mouse Create password by following the steps below. If you do not know your current password follow the instructions in the "How to Reset a Lost Password" section below.</p>
+    <ol>
+      <li>
+        Click on the "Profile" link at the top of the page to go to your own profile page.
+      </li>
+      <li>
+        Click the "Edit Account Settings" link in the top right corner of your profile page.
+      </li>
+      <li>
+        Type a new password in both the "Password" field and the "Confirm Password field". Note: You can also edit your username, email address, profile image, or bio here.
+      </li>
+      <li>
+        At the bottom of the page click the "Update Profile" button.
+      </li>
+    </ol>
+
+
+    <h3>How to Reset a Lost Password</h3>
+    <p>
+      If you do not remember your password and you made your account with a valid email address you can change your password by following the steps below:
+    </p>
+    <ol>
+      <li>
+        Click the "Forgot your password?" link on the <a href="https://create.mouse.org/login" target="_blank"> Mouse Create login page</a>.
+      </li>
+      <li>
+        Type the email address you used to create your account in the form below "Request Password Reset" and click the "Request Reset" button.
+      </li>
+      <li>
+        You should receive an email shortly after with a link to reset your Mouse Create password. If you do not receive the email you may want to check your spam filter. The email should come from "help@mouse.org".
+      </li>
+      <li>
+        Click the "Reset your Password" button in the email.
+      </li>
+      <li>
+        On the "Password Reset" form, type your email address again and your new password twice. Then click the "Reset Your Password" button.
+      </li>
+      <li>
+        After resetting your password return to the <a href="https://create.mouse.org/login" target="_blank"> Mouse Create login page</a> and login. Note: You will login using your Mouse Create username, not your email address.
+      </li>
+    </ol>
+    <p>
+      If you did not provide an email address when you made your Mouse Create account students can ask any educator in their group to reset their password, or students and educators can email <a href="mailto:help@mouse.org">help@mouse.org</a>.
+    </p>
+
+
+    <h3>Resetting Student Passwords</h3>
+    <p>Any educator in the same group as a student can reset that student's password. To reset a student's password follow the steps below:</p>
+    <ol>
+      <li>
+        Go to the Group Page of the any group the student is in.
+      </li>
+      <li>
+        Scroll down to the Members section of the Group Page.
+      </li>
+      <li>
+        Click on the "Manage" link next to the the word "Members".
+      </li>
+      <li>
+        Find the student in the list of Active Group Members and click "Edit Account" in the "Actions" column.
+      </li>
+      <li>
+        Type the student's new password in both the "Password" field and the "Confirm Password field". Note: You can also edit the student's username, email address, profile image, or bio if necessary.
+      </li>
+      <li>
+        At the bottom of the page click the "Update Profile" button.
+      </li>
+      <li>
+        If the student wants to change their password again to something only they know, they can do this from their own profile page after logging in with the password you gave them.
+      </li>
+    </ol>
+
   </div>
-
-
-  <h1>Help: Accounts and Registration</h1>
-<h2>Account Registration</h2>
-<p>Mouse Create is currently only available to Mouse member sites. If you are not a Mouse Member <a href="https://mouse.org/join">learn more about joining the Mouse learning network</a> on mouse.org.</p>
-<h3>First, find your Educator Code</h3>
-<p>Each Mouse location (typically a school or other youth-serving organization) receives a unique Educator Code by email when they join or renew Mouse membership. For the protection of our students, adults will not be able to join Mouse Create without a valid Educator Code.  This code upgrades your user and gives you special access to create a group for your students to join and to manage their work. Do NOT give the Educator Code to youth, but you should share the code with other adult educators at your location so they can lead projects with their students on Mouse Create.</p>
-
-<p>If you are a Mouse member site, but have not received your site’s Educator Code, please email help@mouse.org with your name, and the name of your school or organization and we will get back to you ASAP.</p>
-<h3>How to register Educator accounts</h3>
-<ol>
-<li>Go to Mouse Create at https://create.mouse.org</li>
-<li>Click on Register</li>
-<li>“What kind of account do you want to make?": Educator</li>
-<li>“Do you have an Educator code?": Yes</li>
-<li>"I teach Mouse projects at": If your site is a public or private school in the US, find it in the database of schools. Otherwise choose “An organization or institution that is not a school" from the dropdown.</li>
-<li>Fill out the form, choosing a username and password and submit.</li>
-<li>After logging in, you must upgrade your account to “Become an Educator".  Enter your Educator Code. You only need to do this once.</li>
-<li>You can now create or join a Group for students.</li>
-</ol>
-<h3>How to register Student accounts</h3>
-<ol>
-<li>Go to Mouse Create at https://create.mouse.org</li>
-<li>Click on Register</li>
-<li>“What kind of account do you want to make?": Student</li>
-<li>"I go to": Select “A public school", “A private school" or “I do not go to a school, or I am homeschooled". </li>
-<li>Find the school that you attend, even if that is not the location where you participate in Mouse. You will still be able to join that site’s groups.</li>
-<li>Make sure to fill in all required fields</li>
-<li>Review and check the Terms of Service box.</li>
-<li>Check the “I am not a robot" box. This is called a captcha and is required for our site’s security. You may or may not be required to complete an quick image test. </li>
-<li>After you have created your new student account, you need your Group Code to get access to Mouse Create.  Educators can find your Group Code at the top of the Group page.</li>
-</ol>
-
-<h3>Walkthrough of Youth account registration</h3>
-
-<video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/mousecreate_youthregistration.mp4" type="video/mp4">Your browser does not support HTML5.</video>
-
-<h3>Adding Additional Educators to a group</h3>
-<p>If you have other adult educators at your site that you would like to join your group, they can do so by entering first your Educator Code (to give them educator status), then your Group Code (to join your site).</p>
-  <ol>
-  <li>Register Educator account</li>
-  <li>Submit Educator Code on the “Become an Educator" page</li>
-  <li>Submit Group Code on the “Join a Group" page</li>
-  </ol>
-
-<h3>Troubleshooting Registration Issues</h3>
-<p>If you or your students are having difficulty registering your accounts or if the Register button doesn’t seem to work.  Please go through these steps before reaching out to Mouse for support:</p>
-<ol>
-  <li>Confirm that each field in the registration form has been completed correctly, and that there are no error messages.</li>
-  <li>Confirm that the Terms of Service checkbox “Please mark that you have read and agree to the terms here" has been checked</li>
-  <li>Confirm that the “I am not a robot" Captcha is checked.  Note: some users will be asked to complete an image quiz to confirm that they are not a spam-bot.  This quiz can sometimes be difficult to complete.  If it fails the first time, you will get a new quiz if you try again.</li>
-</ol>
-<p>If there are no missing fields, the “I am not a robot" box has a green checkmark, and the registration form is still not submitting:</p>
-<ol>
-<li>Try using a different internet browser.  Mouse Create works best in Google Chrome. Mouse Create does not support older versions of Internet Explorer or Firefox.</li>
-<li>Check that you are running the most updated version of your browser. If not, please upgrade. </li>
-<li>Run any pending updates for your Operating System.</li>
-<li>Check that you are connected to the internet correctly.</li>
-</ol>
-<p>If you still can not create accounts, contact help@mouse.org.  Please share these details about your circumstances: What version of your browser are you using? What operating system are you using? At what point in the process are you receiving an error? Do any error messages appear? Share a screenshot of the problem if possible.</p>
-
-<h2>Log In and Password Management</h2>
-
-<h3>How to Change Your Own Password</h3>
-<p>If you know your current password you can change your Mouse Create password by following the steps below. If you do not know your current password follow the instructions in the "How to Reset a Lost Password" section below.</p>
-<ol>
-  <li>
-    Click on the "Profile" link at the top of the page to go to your own profile page.
-  </li>
-  <li>
-    Click the "Edit Account Settings" link in the top right corner of your profile page.
-  </li>
-  <li>
-    Type a new password in both the "Password" field and the "Confirm Password field". Note: You can also edit your username, email address, profile image, or bio here.
-  </li>
-  <li>
-    At the bottom of the page click the "Update Profile" button.
-  </li>
-</ol>
-
-
-<h3>How to Reset a Lost Password</h3>
-<p>
-  If you do not remember your password and you made your account with a valid email address you can change your password by following the steps below:
-</p>
-<ol>
-  <li>
-    Click the "Forgot your password?" link on the <a href="https://create.mouse.org/login" target="_blank"> Mouse Create login page</a>.
-  </li>
-  <li>
-    Type the email address you used to create your account in the form below "Request Password Reset" and click the "Request Reset" button.
-  </li>
-  <li>
-    You should receive an email shortly after with a link to reset your Mouse Create password. If you do not receive the email you may want to check your spam filter. The email should come from "help@mouse.org".
-  </li>
-  <li>
-    Click the "Reset your Password" button in the email.
-  </li>
-  <li>
-    On the "Password Reset" form, type your email address again and your new password twice. Then click the "Reset Your Password" button.
-  </li>
-  <li>
-    After resetting your password return to the <a href="https://create.mouse.org/login" target="_blank"> Mouse Create login page</a> and login. Note: You will login using your Mouse Create username, not your email address.
-  </li>
-</ol>
-<p>
-  If you did not provide an email address when you made your Mouse Create account students can ask any educator in their group to reset their password, or students and educators can email <a href="mailto:help@mouse.org">help@mouse.org</a>.
-</p>
-
-
-<h3>Resetting Student Passwords</h3>
-<p>Any educator in the same group as a student can reset that student's password. To reset a student's password follow the steps below:</p>
-<ol>
-  <li>
-    Go to the Group Page of the any group the student is in.
-  </li>
-  <li>
-    Scroll down to the Members section of the Group Page.
-  </li>
-  <li>
-    Click on the "Manage" link next to the the word "Members".
-  </li>
-  <li>
-    Find the student in the list of Active Group Members and click "Edit Account" in the "Actions" column.
-  </li>
-  <li>
-    Type the student's new password in both the "Password" field and the "Confirm Password field". Note: You can also edit the student's username, email address, profile image, or bio if necessary.
-  </li>
-  <li>
-    At the bottom of the page click the "Update Profile" button.
-  </li>
-  <li>
-    If the student wants to change their password again to something only they know, they can do this from their own profile page after logging in with the password you gave them.
-  </li>
-</ol>
-
-
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -171,9 +177,9 @@
   ga('send', 'pageview');
   </script>
 
-<script src="/js/angular.min.js"></script>
-<script src="/js/data.js"></script>
-<script src="/js/script.js"></script>
+  <script src="https://unpkg.com/vue"></script>
+  <script src="/js/menu.js"></script>
+  <script src="/js/client.js"></script>
 
 </body>
 </html>
