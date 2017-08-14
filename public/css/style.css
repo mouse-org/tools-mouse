@@ -84,12 +84,34 @@ ul#nav div div#nav-item {
 /* From badge-directory/index.html */
 
 #main-container {margin-top: -30px; display: block; overflow: auto;}
+#badges {
+  margin-top: -30px;
+  display: block;
+  overflow: auto;
+}
+
+#badges-list {
+  display: block;
+}
 
  #activities-list {margin: 0 0 10px;}
 
- .mouse-activity {width: 243px; display:inline-block; margin: 10px; vertical-align: top;}
+ .mouse-activity {
+   width: 243px;
+   display:inline-block;
+   margin: 10px;
+   vertical-align: top;
 
- .mouse-activity img {width: 100%;}
- .mouse-activity:hover, .mouse-categories:hover {background: #e3e3e3;}
+ }
+
+ .mouse-activity img {
+   width: 100%;
+   display: block;
+
+ }
+ .mouse-activity ul li {
+   margin: .25em;
+ }
+ .mouse-activity a:hover, .mouse-activity img:hover, .mouse-categories:hover {background: #e3e3e3;}
 
  .mouse-categories {width: 30.3333%; float: left; display: block; text-align: center; margin-bottom:50px;}
