@@ -20,11 +20,6 @@ var menu = [
 		"class": "menu-item"
 	},
 	{
-		"name": "Help: Schedule a Check-In",
-		"url": "/help/check-in",
-		"class": "menu-item"
-	},
-	{
 		"name": "Help: Frequently Asked Questions",
 		"url": "/help/faq",
 		"class": "menu-item"
@@ -42,6 +37,11 @@ var menu = [
 	{
 		"name": "Help: Projects",
 		"url": "/help/projects",
+		"class": "menu-item"
+	},
+	{
+		"name": "Help: Schedule a Check-In",
+		"url": "/help/check-in",
 		"class": "menu-item"
 	},
 	{
