@@ -115,3 +115,22 @@ ul#nav div div#nav-item {
  .mouse-activity a:hover, .mouse-activity img:hover, .mouse-categories:hover {background: #e3e3e3;}
 
  .mouse-categories {width: 30.3333%; float: left; display: block; text-align: center; margin-bottom:50px;}
+
+
+/* Apps Picker */
+
+.app-thumb img{
+  display: inline-block;
+  width: 25%;
+  max-width: 200px;
+  padding: 2px;
+}
+
+.app-thumb img:hover {
+  padding: 0;
+  border: 2px solid #DDD;
+}
+
+#apps {
+  text-align: center;
+}
