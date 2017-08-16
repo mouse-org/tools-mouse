@@ -291,6 +291,21 @@ var badges = [
       "Password Round Robin",
       "Phish Market"
     ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/94781",
+    "badge_image": "/images/badges/educator1.png",
+    "projects": [
+      "Educators: All About Mouse Create"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/94782",
+    "badge_image": "/images/badges/educator2.png",
+    "projects": [
+      "Educators: Awarding Badges",
+      "Educators: Planning the Year"
+    ]
   }
 
 ];
