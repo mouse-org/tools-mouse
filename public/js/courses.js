@@ -96,7 +96,9 @@ var courses = [
         "Basic Elements of 3D Shapes",
         "Drawing in 3D",
         "Moving to the CAD World",
-        "Model Something Real in CAD"
+        "Model Something Real in CAD",
+        "Build a House with SketchUp",
+        "Design a Keychain with SketchUp"
     ]
   },
   {
