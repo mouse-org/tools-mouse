@@ -54,7 +54,16 @@ var badges = [
       "Design your Own Digital Circuit",
       "Build your Own Digital Circuit"
     ]
-  },  {
+  },
+  {
+    "badge_url": "https://credly.com/recipients/118175",
+    "badge_image": "/images/badges/coding_sewables_badge.png",
+    "projects": [
+        "Intro to the LilyPad Arduino USB",
+        "LilyPad Goal Trackers"
+    ]
+  },
+  {
     "badge_url": "https://credly.com/recipients/90098",
     "badge_image": "/images/badges/communicator_badge-01.png",
     "projects": [
@@ -153,7 +162,7 @@ var badges = [
     "badge_image": "/images/badges/makingelectricity_badge-01.png",
     "projects": [
       "You’ve Got the Power",
-      " DIY Generator",
+      "DIY Generator",
       "Testing Turbines"
     ]
   },
@@ -172,7 +181,7 @@ var badges = [
     "badge_image": "/images/badges/operatingsystems.png",
     "projects": [
       "I is for Input",
-      " Learning Linux",
+      "Learning Linux",
       "OS for All",
       "OS Design"
     ]
@@ -182,6 +191,24 @@ var badges = [
     "badge_image": "/images/badges/pitchandpublish_badge.png",
     "projects": [
       "Design Story"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/120473",
+    "badge_image": "/images/badges/portfolio_craft_badge.png",
+    "projects": [
+      "Telling the Story of Your Success",
+      "Curating Your Work",
+      "Bringing Your Portfolio to Life"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/120471",
+    "badge_image": "/images/badges/portfolio_style_badge.png",
+    "projects": [
+      "What is a Portfolio?",
+      "UX/UI Design",
+      "Information Architecture"
     ]
   },
   {
@@ -236,6 +263,25 @@ var badges = [
       "What is Scratch",
       "Games From Scratch",
       "It's The Remix"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/118173",
+    "badge_image": "/images/badges/sewing_circuits_badge.png",
+    "projects": [
+        "Sew a Tech Case",
+        "Sew a Basic Circuit",
+        "Sewable Superhero Cuff"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/118174",
+    "badge_image": "/images/badges/sewing_switches_badge.png",
+    "projects": [
+        "Sew an LED Snap Circuit",
+        "Fabric Push Button",
+        "RGB Color Mixer",
+        "DIY Bend Sensor"
     ]
   },
   {
