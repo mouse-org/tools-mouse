@@ -65,20 +65,6 @@ var courses = [
     ]
   },
   {
-    "course_name": "Digital Portfolios",
-    "course_description": "Accomplishments go far beyond what you see on a school transcript. That's why Mouse and DreamYard Project have teamed up to develop a course aimed at helping students design digital learning portfolios that will allow them to track successes that embody the full breadth of their interests whether in school or out. Students will learn what it takes to document projects, reflect on accomplishments and design high-quality digital portfolios that they can confidently show off to employers or college admissions counselors.",
-    "course_overview": "https://docs.google.com/document/d/1NkMWbv-jJ-K7YrSZOVeXdVsl0Bwfmv0R7ltMahARPEU/edit?usp=sharing",
-    "projects": [
-      "What is a Portfolio?",
-      "UX/UI Design",
-      "Information Architecture",
-      "Telling The Story of Your Success",
-      "Curating Your Work",
-      "Bringing Your Portfolio to Life"
-    ]
-
-  },
-  {
     "course_name": "Green Tech",
     "course_description": "The Green Tech course turns groups into sustainable technology leaders in their community. Youth build electricity generators, make batteries with everyday materials, and add solar panels to electric toys in order to better navigate the science behind eco-friendly technology. Youth will also experiment to improve the technology carbon footprint at their school and lead a action campaign with their findings.",
     "course_overview": "https://docs.google.com/document/d/1T-sbWtmXJ6BFqc8vM366MiDywqNLuopqPh8rgTDbNFc/edit?usp=sharing",
@@ -110,7 +96,7 @@ var courses = [
         "Basic Elements of 3D Shapes",
         "Drawing in 3D",
         "Moving to the CAD World",
-        //"Model Something Real in CAD",
+        "Model Something Real in CAD",
         "Build a House with SketchUp",
         "Design a Keychain with SketchUp"
     ]
