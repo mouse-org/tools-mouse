@@ -45,7 +45,8 @@ var badges = [
     "badge_image": "/images/badges/brainstorm_badge-01.png",
     "projects": [
       "Framing Questions",
-      "Rules of Brainstorming"
+      "Rules of Brainstorming",
+      "Design in a Bag"
     ]
   },
   {
@@ -70,14 +71,6 @@ var badges = [
     "projects": [
       "Secret Sculpture",
       "PSA: Be Professional"
-    ]
-  },
-  {
-    "badge_url": "https://credly.com/recipients/90481",
-    "badge_image": "/images/badges/empathy_badge-01.png",
-    "projects": [
-      "Design a Better World",
-      "Empathy and Assistive Tech"
     ]
   },
   {
@@ -138,15 +131,9 @@ var badges = [
     "badge_image": "/images/badges/hcd_badge-01.png",
     "projects": [
       "Design is Everywhere",
-      "Human Centered Design"
-    ]
-  },
-  {
-    "badge_url": "https://credly.com/recipients/90492",
-    "badge_image": "/images/badges/iteration_badge-01-01.png",
-    "projects": [
-      "Playtesting",
-      "Iterations & Feedback"
+      "Human Centered Design",
+      "Empathy & Assistive Tech",
+      "Design a Better World"
     ]
   },
   {
@@ -235,8 +222,9 @@ var badges = [
     "badge_url": "https://credly.com/recipients/90487",
     "badge_image": "/images/badges/prototyping_badge-01.png",
     "projects": [
-      "Design in a Bag",
-      "Paper Prototyping"
+      "Paper Prototyping",
+      "Playtesting",
+      "Iterations & Feedback"
     ]
   },
   {
@@ -285,14 +273,7 @@ var badges = [
       "DIY Bend Sensor"
     ]
   },
-  {
-    "badge_url": "https://credly.com/recipients/90486",
-    "badge_image": "/images/badges/synthesize_badge_4-01-01.png",
-    "projects": [
-      "Synthesizing Interviews",
-      "User Personas"
-    ]
-  },
+
   {
     "badge_url": "https://credly.com/recipients/90096",
     "badge_image": "/images/badges/teambuilding_badge-01.png",
@@ -308,7 +289,9 @@ var badges = [
     "projects": [
       "Interview Strategies",
       "Design Observation",
-      "Interviews with Target Users"
+      "Interviews with Target Users",
+      "Synthesizing Interviews",
+      "User Personas"
     ]
   },
   {
