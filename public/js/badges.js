@@ -55,7 +55,16 @@ var badges = [
       "Design your Own Digital Circuit",
       "Build your Own Digital Circuit"
     ]
-  },  {
+  },
+  {
+    "badge_url": "https://credly.com/recipients/118175",
+    "badge_image": "/images/badges/coding_sewables_badge.png",
+    "projects": [
+      "Intro to the LilyPad Arduino USB",
+      "LilyPad Goal Trackers"
+    ]
+  },
+  {
     "badge_url": "https://credly.com/recipients/90098",
     "badge_image": "/images/badges/communicator_badge-01.png",
     "projects": [
@@ -186,6 +195,24 @@ var badges = [
     ]
   },
   {
+    "badge_url": "https://credly.com/recipients/120473",
+    "badge_image": "/images/badges/portfolio_craft_badge.png",
+    "projects": [
+      "Telling the Story of Your Success",
+      "Curating Your Work",
+      "Bringing Your Portfolio to Life"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/120471",
+    "badge_image": "/images/badges/portfolio_style_badge.png",
+    "projects": [
+      "What is a Portfolio?",
+      "UX/UI Design",
+      "Information Architecture"
+    ]
+  },
+  {
     "badge_url": "https://credly.com/recipients/90367",
     "badge_image": "/images/badges/poweringchange.png",
     "projects": [
@@ -240,6 +267,25 @@ var badges = [
     ]
   },
   {
+    "badge_url": "https://credly.com/recipients/118173",
+    "badge_image": "/images/badges/sewing_circuits_badge.png",
+    "projects": [
+      "Sew a Tech Case",
+      "Sew a Basic Circuit",
+      "Sewable Superhero Cuff"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/118174",
+    "badge_image": "/images/badges/sewing_switches_badge.png",
+    "projects": [
+      "Sew an LED Snap Circuit",
+      "Fabric Push Button",
+      "RGB Color Mixer",
+      "DIY Bend Sensor"
+    ]
+  },
+  {
     "badge_url": "https://credly.com/recipients/90486",
     "badge_image": "/images/badges/synthesize_badge_4-01-01.png",
     "projects": [
@@ -291,6 +337,21 @@ var badges = [
       "Malware Avengers",
       "Password Round Robin",
       "Phish Market"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/94781",
+    "badge_image": "/images/badges/educator1.png",
+    "projects": [
+      "Educators: All About Mouse Create"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/94782",
+    "badge_image": "/images/badges/educator2.png",
+    "projects": [
+      "Educators: Awarding Badges",
+      "Educators: Planning the Year"
     ]
   }
 
