@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: #DDD;
+  max-width: 960px;
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+}
+
+#story {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+#story img {
+  margin: auto;
+  display: block;
+}
+
+#story p {
+  text-align: left;
+}
+
+#header-image {
+  max-width: 960px;
+  margin: auto;
+}
+
+#menu {
+  text-align: center;
+  margin: 2em 0;
+}
+
+.footer-link {
+  font-size: 150%;
+  color: #FF3333;
+  margin: .5em 30px;
+  text-decoration: none;
+}
