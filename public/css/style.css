@@ -119,9 +119,24 @@ ul#nav div div#nav-item {
 
 /* Apps Picker */
 
+#apps {
+  width: 80%;
+}
+#apps a {
+  text-decoration: none;
+  color: #000;
+}
+
+.app-thumb {
+  display: inline-block;
+  vertical-align: top;
+  padding: 1em;
+  cursor: pointer;
+}
+
 .app-thumb img{
   display: inline-block;
-  width: 25%;
+  width: 100%;
   max-width: 200px;
   padding: 2px;
 }
@@ -129,6 +144,12 @@ ul#nav div div#nav-item {
 .app-thumb img:hover {
   padding: 0;
   border: 2px solid #DDD;
+}
+
+.app-name {
+  max-width: 200px;
+  height: 3em;
+  display: block;
 }
 
 #apps {

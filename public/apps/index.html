@@ -50,10 +50,11 @@
       <div v-for="app in apps" class="app-thumb">
         <a v-bind:href="app.url">
           <img v-bind:src="app.thumbnail">
+
+          <div class="app-name">
+            {{ app.name }}
+          </div>
         </a>
-        <div class="app-name">
-          {{ app.name }}
-        </div>
       </div>
     </div>
 
