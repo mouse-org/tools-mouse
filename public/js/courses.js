@@ -3,7 +3,7 @@ var courses = [
 
   {
     "course_name": "Circuitry & Electronics",
-    "course_description": "The Circuitry & Electronics course encourages teams to design, create, tinker, and build with technology. Participants build analog circuits with components like LEDs, transistors, and sensors. They program an Arduino microcontroller to create a digital music maker and light chaser. The course ends with participants designing and building their own digital circuit prototype.",
+    "course_description": "The Circuitry & Electronics course encourages teams to design, create, tinker, and build with technology. Youth build analog circuits using LEDs, transistors, and sensors, and learn to program an Arduino microcontroller to create a digital music maker and light chaser. The course ends with participants designing and building a digital circuit prototype.",
     "course_overview": "https://drive.google.com/open?id=1hGSfULCeDobJB0NEPVPM3pmM-TTEhQpgpfQ92h62S5I",
     "projects": [
 
