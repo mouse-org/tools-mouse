@@ -1,5 +1,10 @@
 var menu = [
 	{
+		"name": "Apps",
+		"url": "/apps",
+		"class": "menu-item"
+	},
+	{
 		"name": "Course Directory",
 		"url": "/course-directory",
 		"class": "menu-item"
