@@ -2,7 +2,6 @@
 var updates = [
 		{
 			"date": "12/20/17",
-			"title": "12/2017",
 			"updates": [
 
 				"Bug Fix: Editing categories in My Work area redirects to correct page.",
@@ -20,7 +19,6 @@ var updates = [
 		},
 		{
 			"date": "9/25/17",
-			"title": "9/25/17",
 			"updates": [
 
 				"Bug Fix: File uploads from Chromebooks are working correctly."
