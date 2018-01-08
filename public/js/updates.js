@@ -1,6 +1,31 @@
 
 var updates = [
+		{
+			"date": "12/20/17",
+			"title": "12/2017",
+			"updates": [
 
+				"Bug Fix: Editing categories in My Work area redirects to correct page.",
+				"Bug Fix: 'Load More' button in the Project Gallery now works as expected.",
+				"Bug Fix: 'Add to Group' feature in Project Finder only shows active groups."
+			]
+		},
+		{
+			"date": "9/26/17",
+			"title": "Content Release: Digital Portfolios",
+			"updates": [
+
+				"New: Mouse's new Digital Portfolios course is now on Mouse Create! There is more information about this course and all other Mouse courses in the <a href='/course-directory/'>Course Directory."
+			]
+		},
+		{
+			"date": "9/25/17",
+			"title": "9/25/17",
+			"updates": [
+
+				"Bug Fix: File uploads from Chromebooks are working correctly."
+			]
+		},
 		{
 			"date": "8/1/17",
 			"title": "Content Release: Sewable Tech",
