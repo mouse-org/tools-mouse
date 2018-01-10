@@ -60,6 +60,11 @@ var menu = [
 		"class": "menu-item"
 	},
 	{
+		"name": "Known Issues",
+		"url": "/known-issues",
+		"class": "menu-item"
+	},
+	{
 		"name": "↩ Back to Mouse Create",
 		"url": "https://create.mouse.org/",
 		"class": "menu-item"
