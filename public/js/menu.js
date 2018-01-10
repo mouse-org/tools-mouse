@@ -62,7 +62,7 @@ var menu = [
 	{
 		"name": "Known Issues",
 		"url": "/known-issues",
-		"class": "menu-item"
+		"class": "known-issues"
 	},
 	{
 		"name": "↩ Back to Mouse Create",
