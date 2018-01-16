@@ -29,6 +29,16 @@ app.get('/', function(req,res){
 	res.sendFile(__dirname + '/templates/index.html');
 });
 
+// * * * * * * * *
+// Special Pages:
+// * * * * * * * *
+
+app.get("/group-work", function(req, res) {
+	res.redirect("/help/groups-and-playlists/");
+});
+
+
+
 app.get('/.well-known/acme-challenge/' + process.env.SSLDIR, function(req, res) {
   res.send(process.env.SSLCONTENT);
 })
