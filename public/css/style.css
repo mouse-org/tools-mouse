@@ -74,6 +74,10 @@ ul#nav div div#nav-item {
   margin: -5px;
 }
 
+ul#known-issues li {
+  margin-bottom: 1em;
+}
+
 #alert {
   border: 2px solid #ff3333;
   padding: 10px;
