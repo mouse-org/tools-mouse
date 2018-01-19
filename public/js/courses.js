@@ -163,7 +163,10 @@ var courses = [
         "It’s the Remix",
         "The Serious Gamer",
         "Grow-A-Game",
-        "Scratch Serious Game"
+        "Scratch Serious Game",
+        "Write the Future",
+        "Unity Lander 1",
+        "Unity Lander 2"
     ]
   },
 
