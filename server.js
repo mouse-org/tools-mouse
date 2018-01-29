@@ -42,7 +42,11 @@ app.get("/group-work", function(req, res) {
 });
 
 app.get("/group-members", function(req, res) {
-	res.redirect("/help/groups-and-playlists/")
+	res.redirect("/help/groups-and-playlists/");
+})
+
+app.get("/badges", function(req, res) {
+	res.redirect("/help/badges/");
 })
 
 
