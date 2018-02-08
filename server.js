@@ -9,16 +9,18 @@ var request = require('request')
 
 
 var app = express();
-
 var port = process.env.PORT || 3000;
 
+// * * * * * * * * * * * *
+// Redirect http to https:
+// * * * * * * * * * * * *
 if(process.env.environment == 'PRODUCTION'){
 	app.get('*',function(req,res,next){
 	  if(req.headers['x-forwarded-proto']!='https')
 	    res.redirect('https://tools.mouse.org'+req.url)
 	  else
 	    next()
-	})
+	});
 }
 
 app.use(bodyParser.urlencoded({extended:true}));
@@ -32,31 +34,32 @@ app.get('/', function(req,res){
 // * * * * * * * *
 // Special Pages:
 // * * * * * * * *
-
 app.get("/playlist", function(req, res) {
 	res.redirect("/help/groups-and-playlists/");
-})
+});
 
 app.get("/group-work", function(req, res) {
 	res.redirect("/help/groups-and-playlists/");
 });
 
 app.get("/group-members", function(req, res) {
-	res.redirect("/help/groups-and-playlists/");
-})
-
-app.get("/badges", function(req, res) {
-	res.redirect("/help/badges/");
-})
+	res.redirect("/help/groups-and-playlists/")
+});
 
 
-
+// * * * * * * * *
+// SSL Verification:
+// * * * * * * * *
 app.get('/.well-known/acme-challenge/' + process.env.SSLDIR, function(req, res) {
   res.send(process.env.SSLCONTENT);
-})
+});
 
+
+// * * * * * * * *
+// Run the site!
+// * * * * * * * *
 app.listen(port, function(){
   console.log('Gulp is running on PORT: ' + port);
-})
+});
 
 module.exports = app;
