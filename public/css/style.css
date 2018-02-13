@@ -83,6 +83,10 @@ ul#known-issues li {
   padding: 10px;
 }
 
+.help-image {
+  max-width: 800px;
+}
+
 
 
 /* From badge-directory/index.html */

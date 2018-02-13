@@ -54,10 +54,10 @@ app.get("/group-members", function(req, res) {
 // Redirects of old pages:
 // * * * * * * * *
 
-app.get("/help/groups-and-playlists"), function(req, res) {
+app.get("/help/groups-and-playlists", function(req, res) {
 	res.redirect("/help/groups");
 });
-app.get("/known-issues"), function(req, res) {
+app.get("/known-issues", function(req, res) {
 	res.redirect("/updates");
 });
 

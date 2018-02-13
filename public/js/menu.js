@@ -20,18 +20,18 @@ var menu = [
 		"class": "menu-item"
 	},
 	{
-		"name": "Help: Profiles and My Work",
-		"url": "/help/profiles-and-my-work",
-		"class": "menu-item"
-	},
-	{
 		"name": "Help: Badges and Credly.com",
 		"url": "/help/badges",
 		"class": "menu-item"
 	},
 	{
-		"name": "Help: Frequently Asked Questions",
+		"name": "Help: FAQ",
 		"url": "/help/faq",
+		"class": "menu-item"
+	},
+	{
+		"name": "Help: Groups — Adding and Switching",
+		"url": "/help/adding-switching-groups",
 		"class": "menu-item"
 	},
 	{
@@ -43,6 +43,11 @@ var menu = [
 		"name": "Help: Notifications",
 		"url": "/help/notifications",
 		"clas": "menu-item"
+	},
+	{
+		"name": "Help: Profiles and My Work",
+		"url": "/help/profiles-and-my-work",
+		"class": "menu-item"
 	},
 	{
 		"name": "Help: Projects",
