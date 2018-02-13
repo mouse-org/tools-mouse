@@ -1,6 +1,15 @@
 
 var updates = [
 		{
+			"date": "2/14/18",
+			"updates": [
+
+				"Change: Badges, Group Work and the Members of a group are now easier to access as separate tabs",
+				"New: The Group Work table can now be filtered by Project Name, Group Member name, or Review Status.",
+				"Change: Students can now easily see work submitted by other members of their groups."
+			]
+		},
+		{
 			"date": "12/20/17",
 			"updates": [
 

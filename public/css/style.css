@@ -78,7 +78,7 @@ ul#known-issues li {
   margin-bottom: 1em;
 }
 
-#alert {
+.alert {
   border: 2px solid #ff3333;
   padding: 10px;
 }
