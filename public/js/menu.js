@@ -35,8 +35,18 @@ var menu = [
 		"class": "menu-item"
 	},
 	{
-		"name": "Help: Groups and Playlists",
-		"url": "/help/groups-and-playlists",
+		"name": "Help: Groups — Member Management",
+		"url": "/help/group-members",
+		"class": "menu-item"
+	},
+	{
+		"name": "Help: Groups — Playlist",
+		"url": "/help/playlist",
+		"class": "menu-item"
+	},
+	{
+		"name": "Help: Groups — Reviewing Group Work",
+		"url": "/help/group-work",
 		"class": "menu-item"
 	},
 	{
