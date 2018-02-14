@@ -35,11 +35,11 @@ app.get('/', function(req,res){
 // Special Pages:
 // * * * * * * * *
 app.get("/playlist", function(req, res) {
-	res.redirect("/help/groups-and-playlists/");
+	res.redirect("/help/playlist/");
 });
 
 app.get("/group-work", function(req, res) {
-	res.redirect("/help/groups-and-playlists/");
+	res.redirect("/help/group-work/");
 });
 
 app.get("/badges", function(req, res) {
@@ -47,7 +47,7 @@ app.get("/badges", function(req, res) {
 });
 
 app.get("/group-members", function(req, res) {
-	res.redirect("/help/groups-and-playlists/");
+	res.redirect("/help/group-members");
 });
 
 // * * * * * * * *
