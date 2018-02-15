@@ -1,6 +1,13 @@
 
 var updates = [
 		{
+			"date": "2/15/18",
+			"updates": [
+
+				"Bug Fix: When resetting a password there is now a clear error message if the password entered is shorter than 7 characters."
+			]
+		},
+		{
 			"date": "2/14/18",
 			"updates": [
 
