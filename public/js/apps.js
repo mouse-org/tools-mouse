@@ -1,6 +1,10 @@
 var apps = [
 
-
+  {
+    "name": "Awkward! Dealing With Strangers Online",
+    "thumbnail": "/images/apps/awkward.gif",
+    "url": "awkward-dealing-with-strangers-online"
+  },
   {
     "name": "Hacking Smogville's Sustainable Future",
     "thumbnail": "/images/apps/smogville.png",
