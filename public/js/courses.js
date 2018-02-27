@@ -33,9 +33,9 @@ var courses = [
         "Make a Simple Website with Thimble",
         "HTML & CSS Relay",
         "People Programming",
-        "Javascript Generator",
-        "Javascript Takeover",
-        "Javascript Chatbot",
+        "JavaScript Generator",
+        "JavaScript Takeover",
+        "JavaScript Chatbot",
         "Text Your Computer: Use the Command Line",
         "Hello, World: Programming Languages"
     ]
@@ -48,8 +48,8 @@ var courses = [
 
         "Design is Everywhere",
         "Human Centered Design",
-        "Design A Better World",
-        "Empathy and Assistive Tech",
+        "Design a Better World",
+        "Empathy & Assistive Tech",
         "Interviewer Strategies",
         "Design Observation",
         "Interviews with Target Users",
@@ -72,7 +72,7 @@ var courses = [
       "What is a Portfolio?",
       "UX/UI Design",
       "Information Architecture",
-      "Telling The Story of Your Success",
+      "Telling the Story of Your Success",
       "Curating Your Work",
       "Bringing Your Portfolio to Life"
     ]
@@ -84,7 +84,7 @@ var courses = [
     "course_overview": "https://docs.google.com/document/d/1T-sbWtmXJ6BFqc8vM366MiDywqNLuopqPh8rgTDbNFc/edit?usp=sharing",
     "projects": [
 
-        "You've Got The Power",
+        "You’ve Got the Power",
         "DIY Generator",
         "Testing Turbines",
         "Hacking for a Sustainable Future",
@@ -183,7 +183,7 @@ var courses = [
         "Fabric Push Button",
         "DIY Bend Sensor",
         "RGB Color Mixer",
-        "Intro to LilyPad Arduino USB",
+        "Intro to the LilyPad Arduino USB",
         "LilyPad Activity Tracker"
     ]
   },

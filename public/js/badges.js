@@ -15,7 +15,7 @@ var badges = [
     "badge_image": "/images/badges/analogcircuits.png",
     "badge_name": "Analog Circuits",
     "projects": [
-      "Human Circuit",
+      "The Human Circuit",
       "Light-Up Creature",
       "Building with a Breadboard",
       "Light Dimmers and Intelligent Sensors",
@@ -30,7 +30,7 @@ var badges = [
       "Software 101",
       "Once Upon a Google Doc",
       "Design a Mobile App",
-      "Build a Mobile App"
+      "Build a Mobile App with App Inventor"
     ]
   },
   {
@@ -59,8 +59,8 @@ var badges = [
     "badge_image": "/images/badges/circuitdesign_badge-01.png",
     "badge_name": "Circuit Design",
     "projects": [
-      "Design your Own Digital Circuit",
-      "Build your Own Digital Circuit"
+      "Design your own Digital Circuit",
+      "Build your own Digital Circuit"
     ]
   },
   {
@@ -69,7 +69,7 @@ var badges = [
     "badge_name": "Coding Sewables",
     "projects": [
       "Intro to the LilyPad Arduino USB",
-      "LilyPad Goal Trackers"
+      "LilyPad Goal Tracker"
     ]
   },
   {
@@ -90,7 +90,7 @@ var badges = [
       "Setting Up A Ticket Tracking System",
       "Reverse Engineering",
       "Talk Like a Fixer",
-      "Do it Yourself Project"
+      "Do It Yourself Project"
     ]
   },
   {
@@ -155,8 +155,8 @@ var badges = [
     "badge_image": "/images/badges/javascript_badge-01.png",
     "badge_name": "JavaScript",
     "projects": [
-      "Javascript Generator",
-      "Javascript Takeover",
+      "JavaScript Generator",
+      "JavaScript Takeover",
       "JavaScript Chatbot"
     ]
   },
@@ -237,8 +237,8 @@ var badges = [
     "badge_name": "Programming",
     "projects": [
       "People Programming",
-      "Text Your Computer with the Command Line",
-      "Hello, World: Programming  Languages"
+      "Text Your Computer: Use the Command Line",
+      "Hello, World: Programming Languages"
     ]
   },
   {
@@ -256,7 +256,7 @@ var badges = [
     "badge_image": "/images/badges/renewablenergy.png",
     "badge_name": "Renewable Energy",
     "projects": [
-      "Hacking our Sustainable Future",
+      "Hacking for a Sustainable Future",
       "Solarize It",
       "Battery Builder"
     ]
@@ -267,7 +267,7 @@ var badges = [
     "badge_name": "Scratch Activist",
     "projects": [
       "The Serious Gamer",
-      "Grow-A- Game",
+      "Grow-A-Game",
       "Scratch Serious Game"
     ]
   },
@@ -276,9 +276,9 @@ var badges = [
     "badge_image": "/images/badges/scratchdeveloper_badge-01.png",
     "badge_name": "Scratch Developer",
     "projects": [
-      "What is Scratch",
-      "Games From Scratch",
-      "It's The Remix"
+      "What is Scratch?",
+      "Games from Scratch",
+      "It’s The Remix"
     ]
   },
   {
@@ -342,7 +342,7 @@ var badges = [
     "projects": [
       "The Internet is a Live Mic",
       "Awkward! Dealing with Strangers Online",
-      "Ring ToS",
+      "Paper ToS",
       "Social Network Sort"
     ]
   },
