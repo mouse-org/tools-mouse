@@ -2,6 +2,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90502",
     "badge_image": "/images/badges/3Ddesign.png",
+    "badge_name": "3D Design",
     "projects": [
       "Drawing in 3D",
       "Basic Elements of 3D Shapes",
@@ -12,6 +13,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90105",
     "badge_image": "/images/badges/analogcircuits.png",
+    "badge_name": "Analog Circuits",
     "projects": [
       "Human Circuit",
       "Light-Up Creature",
@@ -23,6 +25,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90093",
     "badge_image": "/images/badges/appssoftware.png",
+    "badge_name": "Apps & Software",
     "projects": [
       "Software 101",
       "Once Upon a Google Doc",
@@ -33,6 +36,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90106",
     "badge_image": "/images/badges/arduinocircuits_badge-01.png",
+    "badge_name": "Arduino Circuits",
     "projects": [
       "Intro to the Arduino",
       "LED Light Chaser",
@@ -43,6 +47,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90477",
     "badge_image": "/images/badges/brainstorm_badge-01.png",
+    "badge_name": "Brainstorm",
     "projects": [
       "Framing Questions",
       "Rules of Brainstorming",
@@ -52,6 +57,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90113",
     "badge_image": "/images/badges/circuitdesign_badge-01.png",
+    "badge_name": "Circuit Design",
     "projects": [
       "Design your Own Digital Circuit",
       "Build your Own Digital Circuit"
@@ -60,6 +66,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/118175",
     "badge_image": "/images/badges/coding_sewables_badge.png",
+    "badge_name": "Coding Sewables",
     "projects": [
       "Intro to the LilyPad Arduino USB",
       "LilyPad Goal Trackers"
@@ -68,6 +75,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90098",
     "badge_image": "/images/badges/communicator_badge-01.png",
+    "badge_name": "Communicator",
     "projects": [
       "Secret Sculpture",
       "PSA: Be Professional"
@@ -76,6 +84,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90033",
     "badge_image": "/images/badges/fixer_badge-01.png",
+    "badge_name": "Fixer",
     "projects": [
       "Help Desk Superhero",
       "Setting Up A Ticket Tracking System",
@@ -87,6 +96,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90362",
     "badge_image": "/images/badges/gamedesigner.png",
+    "badge_name": "Game Designer",
     "projects": [
       "Intro to Game Design and Gamestar Mechanic",
       "Core Mechanics",
@@ -97,6 +107,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90500",
     "badge_image": "/images/badges/graphicdesign.png",
+    "badge_name": "Graphic Design",
     "projects": [
       "Basic Elements of Graphic Design",
       "Meet the Color Wheel",
@@ -108,6 +119,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90040",
     "badge_image": "/images/badges/hardware.png",
+    "badge_name": "Hardware",
     "projects": [
       "Ports & Connections",
       "Hardware Go Fish",
@@ -118,6 +130,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/86494",
     "badge_image": "/images/badges/htmlcss_badge-01.png",
+    "badge_name": "HTML & CSS",
     "projects": [
       "Tag Tag Revolution",
       "Source Whisperer",
@@ -129,6 +142,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90442",
     "badge_image": "/images/badges/hcd_badge-01.png",
+    "badge_name": "Human-Centered Design",
     "projects": [
       "Design is Everywhere",
       "Human Centered Design",
@@ -139,6 +153,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90027",
     "badge_image": "/images/badges/javascript_badge-01.png",
+    "badge_name": "JavaScript",
     "projects": [
       "Javascript Generator",
       "Javascript Takeover",
@@ -148,6 +163,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90365",
     "badge_image": "/images/badges/makingelectricity_badge-01.png",
+    "badge_name": "Making Electricity",
     "projects": [
       "You’ve Got the Power",
       "DIY Generator",
@@ -157,6 +173,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/89981",
     "badge_image": "/images/badges/networks.png",
+    "badge_name": "Networks",
     "projects": [
       "Ping Kong",
       "Network Design Challenge",
@@ -167,6 +184,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90089",
     "badge_image": "/images/badges/operatingsystems.png",
+    "badge_name": "Operating Systems",
     "projects": [
       "I is for Input",
       "Learning Linux",
@@ -177,6 +195,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90493",
     "badge_image": "/images/badges/pitchandpublish_badge.png",
+    "badge_name": "Pitch & Publish",
     "projects": [
       "Design Story"
     ]
@@ -184,6 +203,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/120473",
     "badge_image": "/images/badges/portfolio_craft_badge.png",
+    "badge_name": "Portfolio Craft",
     "projects": [
       "Telling the Story of Your Success",
       "Curating Your Work",
@@ -193,6 +213,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/120471",
     "badge_image": "/images/badges/portfolio_style_badge.png",
+    "badge_name": "Portfolio Style",
     "projects": [
       "What is a Portfolio?",
       "UX/UI Design",
@@ -202,6 +223,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90367",
     "badge_image": "/images/badges/poweringchange.png",
+    "badge_name": "Powering Change",
     "projects": [
       "Energy Sleuths",
       "Become Action Heroes",
@@ -212,6 +234,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90091",
     "badge_image": "/images/badges/programming_badge-01.png",
+    "badge_name": "Programming",
     "projects": [
       "People Programming",
       "Text Your Computer with the Command Line",
@@ -221,6 +244,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90487",
     "badge_image": "/images/badges/prototyping_badge-01.png",
+    "badge_name": "Prototyping",
     "projects": [
       "Paper Prototyping",
       "Playtesting",
@@ -230,6 +254,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90366",
     "badge_image": "/images/badges/renewablenergy.png",
+    "badge_name": "Renewable Energy",
     "projects": [
       "Hacking our Sustainable Future",
       "Solarize It",
@@ -239,6 +264,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90364",
     "badge_image": "/images/badges/scratchactivist_badge-01.png",
+    "badge_name": "Scratch Activist",
     "projects": [
       "The Serious Gamer",
       "Grow-A- Game",
@@ -248,6 +274,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90363",
     "badge_image": "/images/badges/scratchdeveloper_badge-01.png",
+    "badge_name": "Scratch Developer",
     "projects": [
       "What is Scratch",
       "Games From Scratch",
@@ -257,6 +284,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/118173",
     "badge_image": "/images/badges/sewing_circuits_badge.png",
+    "badge_name": "Sewing circuits",
     "projects": [
       "Sew a Tech Case",
       "Sew a Basic Circuit",
@@ -266,6 +294,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/118174",
     "badge_image": "/images/badges/sewing_switches_badge.png",
+    "badge_name": "Sewing Switches",
     "projects": [
       "Sew an LED Snap Circuit",
       "Fabric Push Button",
@@ -277,6 +306,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90096",
     "badge_image": "/images/badges/teambuilding_badge-01.png",
+    "badge_name": "Team Building",
     "projects": [
       "The Mousemallow Challenge",
       "Teamwork: The Mill Game",
@@ -286,6 +316,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90473",
     "badge_image": "/images/badges/userinterviews_badge-01.png",
+    "badge_name": "User Interviews",
     "projects": [
       "Interview Strategies",
       "Design Observation",
@@ -297,6 +328,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90509",
     "badge_image": "/images/badges/webcitizen.png",
+    "badge_name": "Web Citizen",
     "projects": [
       "Creative Commons .GIF Exchange",
       "Kracken the Code",
@@ -306,6 +338,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/86497",
     "badge_image": "/images/badges/webprivacy.png",
+    "badge_name": "Web Privacy",
     "projects": [
       "The Internet is a Live Mic",
       "Awkward! Dealing with Strangers Online",
@@ -316,6 +349,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/90022",
     "badge_image": "/images/badges/websecurity.png",
+    "badge_name": "Web Security",
     "projects": [
       "Malware Avengers",
       "Password Round Robin",
@@ -325,6 +359,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/94781",
     "badge_image": "/images/badges/educator1.png",
+    "badge_name": "Moues Educator 1",
     "projects": [
       "Educators: All About Mouse Create"
     ]
@@ -332,6 +367,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/94782",
     "badge_image": "/images/badges/educator2.png",
+    "badge_name": "Mouse Educator 2",
     "projects": [
       "Educators: Awarding Badges",
       "Educators: Planning the Year"
