@@ -184,7 +184,7 @@ var courses = [
         "DIY Bend Sensor",
         "RGB Color Mixer",
         "Intro to the LilyPad Arduino USB",
-        "LilyPad Activity Tracker"
+        "LilyPad Goal Tracker"
     ]
   },
 
