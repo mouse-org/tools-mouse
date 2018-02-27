@@ -26,7 +26,7 @@ var badges = [
     "projects": [
       "Software 101",
       "Once Upon a Google Doc",
-      " Design a Mobile App",
+      "Design a Mobile App",
       "Build a Mobile App"
     ]
   },
@@ -150,7 +150,7 @@ var badges = [
     "badge_image": "/images/badges/makingelectricity_badge-01.png",
     "projects": [
       "You’ve Got the Power",
-      " DIY Generator",
+      "DIY Generator",
       "Testing Turbines"
     ]
   },
@@ -169,7 +169,7 @@ var badges = [
     "badge_image": "/images/badges/operatingsystems.png",
     "projects": [
       "I is for Input",
-      " Learning Linux",
+      "Learning Linux",
       "OS for All",
       "OS Design"
     ]
