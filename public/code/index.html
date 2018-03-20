@@ -22,9 +22,29 @@
   <meta name="msapplication-TileImage" content="/images/touch-icons/mouse-touch-icon-144.png" />
 </head>
 <body>
+  <div id="app">
+    <a href="/" id="site-title-link">
+      <h1 id="site-title">
+        {{ header }}
+      </h1>
+    </a>
 
-  <h2>Raspberry Pi Code:</h2>
-  <p><a href="https://github.com/mouse-org/raspberry-pi-examples">https://github.com/mouse-org/raspberry-pi-examples</a></p>
+    <ul id="nav">
+      <div v-for="item in menu">
+        <a v-bind:href="item.url">
+          <div id="nav-item">
+            <li v-bind:class="item.class">
+              {{ item.name }}
+            </li>
+          </div>
+        </a>
+      </div>
+    </ul>
+
+    <h2>Raspberry Pi Code:</h2>
+    <p><a href="https://github.com/mouse-org/raspberry-pi-examples">https://github.com/mouse-org/raspberry-pi-examples</a></p>
+
+  </div>
 
 
   <script>
@@ -40,7 +60,6 @@
 
   <script src="/js/vue-2.4.2"></script>
   <script src="/js/menu.js"></script>
-  <script src="/js/courses.js"></script>
   <script src="/js/client.js"></script>
 
 </body>
