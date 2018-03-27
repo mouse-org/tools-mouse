@@ -74,11 +74,13 @@ var menu = [
 		"url": "/updates",
 		"class": "menu-item"
 	},
+  /*
 	{
 		"name": "Known Issues",
 		"url": "/known-issues",
 		"class": "known-issues"
 	},
+  */
 	{
 		"name": "↩ Back to Mouse Create",
 		"url": "https://create.mouse.org/",
