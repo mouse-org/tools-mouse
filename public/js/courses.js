@@ -3,7 +3,7 @@ var courses = [
 
   {
     "course_name": "Circuitry & Electronics",
-    "course_description": "The Circuitry & Electronics course encourages teams to design, create, tinker, and build with technology. Youth build analog circuits using LEDs, transistors, and sensors, and learn to program an Arduino microcontroller to create a digital music maker and light chaser. The course ends with participants designing and building a digital circuit prototype.",
+    "course_description": "The Circuitry & Electronics course encourages teams to design, create, tinker, and build with technology. Youth build analog circuits using LEDs, transistors, and sensors, and learn to program an Arduino microcontroller to create a digital music maker and light chaser. The course ends with participants designing and building a digital circuit prototype. Projects marked with * can be substituted for Arduino based projects.",
     "course_overview": "https://drive.google.com/open?id=1hGSfULCeDobJB0NEPVPM3pmM-TTEhQpgpfQ92h62S5I",
     "projects": [
 
@@ -17,7 +17,11 @@ var courses = [
         "Arduino Sound Machine",
         "Arduino Nightlight",
         "Design your own Digital Circuit",
-        "Build your own Digital Circuit"
+        "Build your own Digital Circuit",
+        "* Physical Computing with Raspberry Pi",
+        "* Raspberry Pi LED Light Chaser",
+        "* Raspberry Pi Sound Machine",
+        "* Raspberry Pi Nightlight"
     ]
   },
 
@@ -172,7 +176,7 @@ var courses = [
 
   {
     "course_name": "Sewable Tech",
-    "course_description": "Sewable Tech combines STEM learning with artistic expression and crafting. Research shows that learning circuitry through this STEAM lens engages a wider audience than traditional circuit design and improves learner outcomes! In this 9-project course, students will learn to embed circuitry directly into fabric-- creating soft circuits, fabric switches and sewable sensors. The course will culminate in a final project that students will sew and program to help them set and achieve goals.",
+    "course_description": "Sewable Tech combines STEM learning with artistic expression and crafting. Research shows that learning circuitry through this STEAM lens engages a wider audience than traditional circuit design and improves learner outcomes! In this 9-project course, students will learn to embed circuitry directly into fabric-- creating soft circuits, fabric switches and sewable sensors. The course will culminate in a final project that students will sew and program to help them set and achieve goals. Projects marked with * can be substituted for LilyPad based projects.",
     "course_overview": "https://docs.google.com/document/d/1tvBUnoM41YrMTq0LbSqz_WUpa0Ww1PG8XTToeKMw37Y",
     "projects": [
 
@@ -184,7 +188,9 @@ var courses = [
         "DIY Bend Sensor",
         "RGB Color Mixer",
         "Intro to the LilyPad Arduino USB",
-        "LilyPad Goal Tracker"
+        "LilyPad Goal Tracker",
+        "* Intro to Gemma M0",
+        "* Gemma M0 Goal Tracker"
     ]
   },
 

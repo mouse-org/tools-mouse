@@ -64,9 +64,18 @@ var badges = [
     ]
   },
   {
+    "badge_url": "https://credly.com/recipients/139408",
+    "badge_image": "/images/badges/codinggemma_badge.png",
+    "badge_name": "Coding Gemma",
+    "projects": [
+      "Intro to Gemma M0",
+      "Gemma M0 Goal Tracker"
+    ]
+  },
+  {
     "badge_url": "https://credly.com/recipients/118175",
-    "badge_image": "/images/badges/coding_sewables_badge.png",
-    "badge_name": "Coding Sewables",
+    "badge_image": "/images/badges/codinglilypad_badge.png",
+    "badge_name": "Coding LilyPad",
     "projects": [
       "Intro to the LilyPad Arduino USB",
       "LilyPad Goal Tracker"
@@ -249,6 +258,17 @@ var badges = [
       "Paper Prototyping",
       "Playtesting",
       "Iterations & Feedback"
+    ]
+  },
+  {
+    "badge_url": "https://credly.com/recipients/139409",
+    "badge_image": "/images/badges/raspberrypicircuits_badge.png",
+    "badge_name": "Raspberry Pi Circuits",
+    "projects": [
+      "Intro to Physical Computing with the Raspberry Pi",
+      "Raspberry Pi LED Light Chaser",
+      "Raspberry Pi Sound Machine",
+      "Raspberry Pi Nightlight"
     ]
   },
   {
