@@ -15,15 +15,12 @@ document.getElementById("app").style.display = "block";
 
 
 function httpRequestCallback() {
-  console.log("Text:");
   projectsList = JSON.parse(this.responseText).data;
   coursesList = sortIntoCourses(projectsList);
-  console.log(coursesList);
 
 
   app.projectsList = projectsList;
   app.coursesList = coursesList;
-  console.log(JSON.parse(this.responseText).data[0]);
 }
 
 function sortIntoCourses(projectsList) {
@@ -57,12 +54,14 @@ function sortIntoCourses(projectsList) {
     }
   }
 
-  coursesList.sort(function(a, b) {
-    var textA = a.name.toUpperCase();
-    var textB = b.name.toUpperCase();
-    return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
-  });
+  coursesList.sort(sortCoursesByName);
   return coursesList;
+}
+
+function sortCoursesByName(a, b) {
+  var textA = a.name.toUpperCase();
+  var textB = b.name.toUpperCase();
+  return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
 }
 
 function findCourse(project) {
