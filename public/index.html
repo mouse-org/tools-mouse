@@ -54,7 +54,31 @@
 
 
     <p>If you don't see the answer to your question here, or have a question specific to your site please email <a href="mailto:help@mouse.org">help@mouse.org</a>.</p>
+
+    <div id="courses-list">
+      <h2>Courses List</h2>
+      <ul v-for="course in coursesList">
+        <li>
+          <h3>{{ course.name }}</h3>
+        </li>
+      <ul>
+    </div>
+
+
+    <div id="projects-list">
+      <h2>Projects List</h2>
+      <ul v-for="project in projectsList">
+        <li>
+          <h4>{{ project.title }}<h4>
+          <!--<img v-bind:src="'https://create-platform.imgix.net/' + project.path">-->
+          <p>{{ project.teaser }}</p>
+        </li>
+      </ul>
+    </div>
+
   </div>
+
+
 
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
