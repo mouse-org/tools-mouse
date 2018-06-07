@@ -60,20 +60,14 @@
       <ul v-for="course in coursesList">
         <li>
           <h3>{{ course.name }}</h3>
+          <ul v-for="project in course.projects">
+            <li>
+              <h4>{{ project.title }}</h4>
+              <p>{{ project.teaser }}</p>
+            </li>
+          </ul>
         </li>
       <ul>
-    </div>
-
-
-    <div id="projects-list">
-      <h2>Projects List</h2>
-      <ul v-for="project in projectsList">
-        <li>
-          <h4>{{ project.title }}<h4>
-          <!--<img v-bind:src="'https://create-platform.imgix.net/' + project.path">-->
-          <p>{{ project.teaser }}</p>
-        </li>
-      </ul>
     </div>
 
   </div>
