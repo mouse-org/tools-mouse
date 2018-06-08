@@ -1,40 +1,23 @@
 {
-  "name": "msvacation",
-  "version": "1.0.0",
-  "description": "Is Meredith on vacation?",
-  "main": "",
+  "name": "tools-mouse",
+  "version": "2.0.0",
+  "description": "Tools and Help Website for Mouse Create",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PatrickWeaver/msvacation.git"
+    "url": "https://github.com/mouse-org/tools-mouse/"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PatrickWeaver/msvacation/issues"
-  },
-  "homepage": "https://github.com/PatrickWeaver/msvacation#readme",
+  "author": "Mouse",
+  "license": "CC BY-NC-ND",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "gulp": "^3.9.0",
-    "gulp-env": "^0.2.0",
-    "gulp-mocha": "^2.2.0",
-    "gulp-nodemon": "^2.1.0",
-    "lodash": "^4.17.10",
-    "mime": "^1.3.4",
-    "mongoose": "^4.3.1",
-    "request": "^2.87.0",
-    "should": "^8.0.2",
-    "sinon": "^1.17.2",
-    "supertest": "^1.1.0",
-    "underscore": "^1.8.3"
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.1.0"
   },
   "devDependencies": {
-    "gulp-env": "^0.2.0",
-    "supertest": "^1.1.0"
+    "gulp-env": "^0.2.0"
   }
 }

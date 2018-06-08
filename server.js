@@ -1,11 +1,9 @@
 var express = require('express');
-var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 var http = require('http');
 var fs = require('fs');
 var path = require('path');
 var mime = require('mime');
-var request = require('request')
 
 
 var app = express();
@@ -17,9 +15,9 @@ var port = process.env.PORT || 3000;
 if(process.env.environment == 'PRODUCTION'){
 	app.get('*',function(req,res,next){
 	  if(req.headers['x-forwarded-proto']!='https')
-	    res.redirect('https://tools.mouse.org'+req.url)
+	    res.redirect('https://tools.mouse.org'+req.url);
 	  else
-	    next()
+	    next();
 	});
 }
 
