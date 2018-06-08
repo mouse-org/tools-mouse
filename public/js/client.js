@@ -13,7 +13,7 @@ var app = new Vue({
 // Unhide app after Vue loads
 document.getElementById("app").style.display = "block";
 
-
+/*
 function httpRequestCallback() {
   projectsList = JSON.parse(this.responseText).data;
   coursesList = sortIntoCourses(projectsList);
@@ -81,3 +81,4 @@ var projectsRequest = new XMLHttpRequest();
 projectsRequest.addEventListener("load", httpRequestCallback);
 projectsRequest.open("GET", "https://api.mouse.org/projects.json");
 projectsRequest.send();
+*/
