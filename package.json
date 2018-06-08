@@ -1,22 +1,16 @@
 {
-  "name": "msvacation",
-  "version": "1.0.0",
-  "description": "Is Meredith on vacation?",
-  "main": "",
+  "name": "tools-mouse",
+  "version": "2.0.0",
+  "description": "Tools and Help Website for Mouse Create",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PatrickWeaver/msvacation.git"
+    "url": "https://github.com/mouse-org/tools-mouse/"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PatrickWeaver/msvacation/issues"
-  },
-  "homepage": "https://github.com/PatrickWeaver/msvacation#readme",
+  "author": "Mouse",
+  "license": "CC BY-NC-ND",
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
