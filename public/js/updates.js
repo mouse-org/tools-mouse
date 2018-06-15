@@ -1,6 +1,13 @@
 
 var updates = [
 		{
+			"date": "6/15/18",
+			"updates": [
+				"Change: The project interface on Mouse Create is now easier to navigate. The 'Project Background' has become the Plan tab, and the 'Review and Submit' step has become the Submit Work tab.",
+				"Change: Required prompts from project steps are now also shown on submitted work."
+			]
+		},
+		{
 			"date": "2/15/18",
 			"updates": [
 
