@@ -15,6 +15,11 @@ var menu = [
 		"class": "menu-item"
 	},
 	{
+		"name": "Forms & Certificates",
+		"url": "/forms",
+		"class": "menu-item"
+	},
+	{
 		"name": "Help: Accounts and Registration",
 		"url": "/help/accounts-and-registration",
 		"class": "menu-item"
@@ -81,6 +86,11 @@ var menu = [
 		"class": "known-issues"
 	},
   */
+	{
+		"name": "iPad Tips",
+		"url": "/ipad",
+		"class": "menu-item"
+	},
 	{
 		"name": "↩ Back to Mouse Create",
 		"url": "https://create.mouse.org/",
