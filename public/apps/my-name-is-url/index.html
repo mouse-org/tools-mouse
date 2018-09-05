@@ -1,0 +1,52 @@
+
+<!--
+
+Thanks to Dragula for drag and drop functionality
+https://bevacqua.github.io/dragula/
+
+-->
+
+<!DOCTYPE html>
+<html>
+  <head><meta name="data-remix-projectId" content="81944">
+    <meta name="data-remix-projectTitle" content="My Name is URL Sort 0.1">
+    <meta name="data-remix-projectAuthor" content="patrickmouse">
+    <meta name="data-remix-dateUpdated" content="2016-06-22T23:10:44.670Z">
+    <meta name="data-remix-host" content="https://thimble.mozilla.org">
+    <meta name="data-remix-readonly" content="null">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My Name is URL --  Sort</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="dragula.css">
+    <script src="https://thimble.mozilla.org/resources/remix/index.js" type="text/javascript"></script>
+  </head>
+  <body>
+   <img width="200" src="mouse_logoRGB.png">
+    <h1>
+     MY NAME IS URL
+    </h1>
+    <h2>
+      Rearrange the blocks into the correct order. When you think you've got it, click the button below to check.
+    </h2>
+    <div id="step-list">
+
+      <div id="9" class="sortable">The website’s server processes your HTTP request and sends your browser all of the text, images, videos, and cookies it needs to display the website, storing them in the cache for next time.</div>
+      <div id="10" class="sortable">You can now see the website and the picture of a frazzlebat!</div>
+      <div id="2" class="sortable">You type the protocol, http://</div>
+      <div id="7" class="sortable">The DNS sends the IP address to your browser</div>
+      <div id="4" class="sortable">You type the path, /files/frazzlebat.jpg and hit “Enter”</div>
+      <div id="5" class="sortable">The browser checks your cache memory to see if it already knows the IP address of the domain, but you’ve never visited the site before!</div>
+      <div id="1" class="sortable">You open your internet browser</div>
+      <div id="8" class="sortable">The browser creates a TCP connection with the web server that hosts the website.</div>
+      <div id="6" class="sortable">The browser contacts a Domain Name Server to lookup the IP address of the web server that hosts the website.</div>
+    <div id="3" class="sortable">You type the domain, www.snazzlepants.com</div>
+    </div>
+    <p>
+      <button class="button" onclick="checkOrder()">Check the Order!</button>
+    </p>
+    <script src="dragula.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

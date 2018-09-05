@@ -19,6 +19,11 @@ var apps = [
     "name": "Social Network Sort",
     "thumbnail": "/images/apps/socialNetworkSort.png",
     "url": "social-network-sort"
+  },
+  {
+    "name": "My Name is URL",
+    "thumbnail": "/images/apps/url.png",
+    "url": "my-name-is-url"
   }
 ]
 
