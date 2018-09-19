@@ -13,10 +13,10 @@
   "license": "CC BY-NC-ND",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "debug": "^3.1.0",
+    "debug": "^3.2.5",
     "express": "^4.16.3",
     "gulp": "^3.9.1",
-    "gulp-nodemon": "^2.1.0"
+    "gulp-nodemon": "^2.2.1"
   },
   "devDependencies": {
     "gulp-env": "^0.2.0"
