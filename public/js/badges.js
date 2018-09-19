@@ -107,7 +107,7 @@ var badges = [
     "badge_image": "/images/badges/gamedesigner.png",
     "badge_name": "Game Designer",
     "projects": [
-      "Intro to Game Design and Gamestar Mechanic",
+      "Intro to Game Design",
       "Core Mechanics",
       "Goals, Obstacles & Chance",
       "Found Object Game"

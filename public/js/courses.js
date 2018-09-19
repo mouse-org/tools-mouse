@@ -158,7 +158,7 @@ var courses = [
     "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",
     "projects": [
 
-        "Intro to Game Design and Gamestar Mechanic",
+        "Intro to Game Design",
         "Core Mechanics",
         "Goals, Obstacles & Chance",
         "Found Object Game",
