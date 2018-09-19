@@ -213,8 +213,20 @@ var courses = [
     ]
   },
   {
+    "course_name": "Video Creator",
+    "course_description": "In this age of Photoshop, social networks, and the spread of fake news, visual literacy is more important than ever. Mouse’s Video Creator course aims to equip students with the basic skills and insights needed to navigate today’s multimedia landscape. Students will learn shot and composition techniques for creating impactful images, create storyboards to plan for longer media pieces, practice recording good-quality sound, and combine various multimedia assets together to create meaningful visual stories.",
+    "course_overview": "https://docs.google.com/document/d/1kKCg0GaeAz5lq05pauETo1zsqHKmsL4WljTT96CHn0A/edit?usp=sharing",
+    "projects": [
+      "Take Your Shot",
+      "Drawing a Great Story",
+      "Getting Good Sound",
+      "Making Meaning with Images",
+      "Make a Movie Trailer"
+    ]
+  },
+  {
     "course_name": "Web Literacy",
-    "course_description": "Mouse’s Web Literacy course is all about transforming youth from casual web users to savvy participants who can think critically, participate safely, and demonstrate good citizenship online. Groups will learn about data on the web as it relates to users and privacy, develop the knowledge and skills needed to keep safe online, and explore the issues of policy, choice, and research on the web. ",
+    "course_description": "Mouse’s Web Literacy course is all about transforming youth from casual web users to savvy participants who can think critically, participate safely, and demonstrate good citizenship online. Groups will learn about data on the web as it relates to users and privacy, develop the knowledge and skills needed to keep safe online, and explore the issues of policy, choice, and research on the web.",
     "course_overview": "https://drive.google.com/open?id=1rQR5gSp9C2HZtfrSQPluMv_HB5BtpduGG349kbnYkc0",
     "projects": [
 

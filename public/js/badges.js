@@ -346,6 +346,18 @@ var badges = [
     ]
   },
   {
+    "badge_url": "https://credly.com/recipients/148452",
+    "badge_image": "/images/badges/visualstories.png",
+    "badge_name": "Visual Stories",
+    "projects": [
+      "Take Your Shot",
+      "Drawing a Great Story",
+      "Getting Good Sound",
+      "Making Meaning with Images",
+      "Make a Movie Trailer"
+    ]
+  },
+  {
     "badge_url": "https://credly.com/recipients/90509",
     "badge_image": "/images/badges/webcitizen.png",
     "badge_name": "Web Citizen",
@@ -379,7 +391,7 @@ var badges = [
   {
     "badge_url": "https://credly.com/recipients/94781",
     "badge_image": "/images/badges/educator1.png",
-    "badge_name": "Moues Educator 1",
+    "badge_name": "Mouse Educator 1",
     "projects": [
       "Educators: All About Mouse Create"
     ]
