@@ -363,7 +363,7 @@ var badges = [
     "badge_name": "Web Citizen",
     "projects": [
       "Creative Commons .GIF Exchange",
-      "Kracken the Code",
+      "Kraken the Code",
       "Ad Battle"
     ]
   },

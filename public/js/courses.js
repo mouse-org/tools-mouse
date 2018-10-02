@@ -232,7 +232,7 @@ var courses = [
 
         "The Internet is a Live Mic",
         "Creative Commons .GIF Exchange",
-        "Kracken the Code",
+        "Kraken the Code",
         "Ad Battle",
         "Awkward! Dealing with Strangers Online",
         "Paper ToS",
