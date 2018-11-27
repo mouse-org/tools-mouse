@@ -5,7 +5,6 @@
   <meta name="robots" content="noindex">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mouse Tools and Help</title>
-  <link rel="stylesheet" href="https://create.mouse.org/css/MyFontsWebfontsKit.css" />
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="/favicon.ico">
 
@@ -58,7 +57,13 @@
         <p>{{ course.course_description }} <a v-bind:href="course.course_overview" target="_blank">Click here for more details about this course, including a full materials list.</a></p>
         <ol>
           <li v-for="project in course.projects">
-            {{ project }}
+
+            <a :href=allProjects[project]['url'] target="blank">
+              <span v-if="optionalProjects.indexOf(project) >= 0" >
+                *&nbsp;
+              </span>
+              {{ allProjects[project]['title'] }}
+            </a>
           </li>
         </ol>
       </div>
@@ -78,6 +83,7 @@
 
   <script src="/js/vue-2.4.2"></script>
   <script src="/js/menu.js"></script>
+  <script src="/js/projects.js"></script>
   <script src="/js/courses.js"></script>
   <script src="/js/client.js"></script>
 

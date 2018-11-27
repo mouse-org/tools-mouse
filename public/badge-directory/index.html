@@ -5,7 +5,6 @@
   <meta name="robots" content="noindex">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mouse Tools and Help</title>
-  <link rel="stylesheet" href="https://create.mouse.org/css/MyFontsWebfontsKit.css" />
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" href="/favicon.ico">
 
@@ -54,7 +53,12 @@
           <img v-bind:src="badge.badge_image">
         </a>
         <ul class="project-list">
-          <li v-for="project in badge.projects">{{ project }}</li>
+          <li v-for="project in badge.projects">
+            <a :href=allProjects[project]['url'] target="blank">
+              {{ allProjects[project]['title'] }}
+            </a>
+          </li>
+
         </ul>
       </div>
     </div>
@@ -70,8 +74,9 @@
   ga('send', 'pageview');
   </script>
 
-  <script src="https://unpkg.com/vue"></script>
+  <script src="/js/vue-2.4.2"></script>
   <script src="/js/menu.js"></script>
+  <script src="/js/projects.js"></script>
   <script src="/js/badges.js"></script>
   <script src="/js/client.js"></script>
 
