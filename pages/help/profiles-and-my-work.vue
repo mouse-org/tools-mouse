@@ -7,7 +7,7 @@
 
 <script>
 import Menu from '~/components/Menu.vue'
-import md from '~/markdownPages/help/accounts-and-registration.md'
+import md from '~/markdownPages/help/profiles-and-my-work.md'
 
 export default {
   components: {
