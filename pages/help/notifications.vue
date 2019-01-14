@@ -11,7 +11,6 @@ import md from '~/markdownPages/help/notifications.md'
 
 export default {
   components: {
-    //Logo
     Menu
   },
   computed: {

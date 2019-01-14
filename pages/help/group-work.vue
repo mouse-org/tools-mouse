@@ -11,7 +11,6 @@ import md from '~/markdownPages/help/group-work.md'
 
 export default {
   components: {
-    //Logo
     Menu
   },
   computed: {

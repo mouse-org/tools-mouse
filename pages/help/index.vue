@@ -11,7 +11,6 @@ import md from '~/markdownPages/help/index.md'
 
 export default {
   components: {
-    //Logo
     Menu
   },
   computed: {

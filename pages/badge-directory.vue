@@ -3,12 +3,8 @@
     <div>
 
       <Menu />
-
-      <h1>
-        Badge Directory
-      </h1>
-      <p>Below are all of the Digital Badges available through Mouse Create, and a list of the required projects for each.</p>
-
+      <div v-html="md" />
+      
       <div
         v-for="badge in badges"
         :key="badge.badge_name"
@@ -36,6 +32,7 @@
 </template>
 
 <script>
+import md from '~/markdownPages/badge-directory.md'
 import Menu from '~/components/Menu.vue'
 import badges from '~/json/badges.json'
 import projects from '~/json/projects.json'
@@ -51,6 +48,11 @@ export default {
       badges: badges,
       allProjects: allProjects,
       optionalProjects: optionalProjects
+    }
+  },
+  computed: {
+    md() {
+      return md
     }
   }
 }

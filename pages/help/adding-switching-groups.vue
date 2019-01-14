@@ -11,7 +11,6 @@ import md from '~/markdownPages/help/adding-switching-groups.md'
 
 export default {
   components: {
-    //Logo
     Menu
   },
   computed: {
