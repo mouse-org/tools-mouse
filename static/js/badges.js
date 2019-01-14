@@ -1,415 +1,238 @@
 var badges = [
   {
-    "badge_url": "https://credly.com/recipients/90502",
-    "badge_image": "/images/badges/3Ddesign.png",
-    "badge_name": "3D Design",
-    "projects": [
-      8879,
-      8738,
-      9149,
-      9479,
-    ]
+    badge_url: 'https://credly.com/recipients/90502',
+    badge_image: '/images/badges/3Ddesign.png',
+    badge_name: '3D Design',
+    projects: [8879, 8738, 9149, 9479]
   },
   {
-    "badge_url": "https://credly.com/recipients/90105",
-    "badge_image": "/images/badges/analogcircuits.png",
-    "badge_name": "Analog Circuits",
-    "projects": [
-      2488,
-      2093,
-      3996,
-      4201,
-      4397,
-    ]
+    badge_url: 'https://credly.com/recipients/90105',
+    badge_image: '/images/badges/analogcircuits.png',
+    badge_name: 'Analog Circuits',
+    projects: [2488, 2093, 3996, 4201, 4397]
   },
   {
-    "badge_url": "https://credly.com/recipients/90093",
-    "badge_image": "/images/badges/appssoftware.png",
-    "badge_name": "Apps & Software",
-    "projects": [
-      5267,
-      3917,
-      5667,
-      5786,
-    ]
+    badge_url: 'https://credly.com/recipients/90093',
+    badge_image: '/images/badges/appssoftware.png',
+    badge_name: 'Apps & Software',
+    projects: [5267, 3917, 5667, 5786]
   },
   {
-    "badge_url": "https://credly.com/recipients/90106",
-    "badge_image": "/images/badges/arduinocircuits_badge-01.png",
-    "badge_name": "Arduino Circuits",
-    "projects": [
-      4380,
-      4920,
-      6021,
-      6859,
-    ]
+    badge_url: 'https://credly.com/recipients/90106',
+    badge_image: '/images/badges/arduinocircuits_badge-01.png',
+    badge_name: 'Arduino Circuits',
+    projects: [4380, 4920, 6021, 6859]
   },
   {
-    "badge_url": "https://credly.com/recipients/90477",
-    "badge_image": "/images/badges/brainstorm_badge-01.png",
-    "badge_name": "Brainstorm",
-    "projects": [
-      8317,
-      8289,
-      6813,
-    ]
+    badge_url: 'https://credly.com/recipients/90477',
+    badge_image: '/images/badges/brainstorm_badge-01.png',
+    badge_name: 'Brainstorm',
+    projects: [8317, 8289, 6813]
   },
   {
-    "badge_url": "https://credly.com/recipients/90113",
-    "badge_image": "/images/badges/circuitdesign_badge-01.png",
-    "badge_name": "Circuit Design",
-    "projects": [
-      5046,
-      5000,
-    ]
+    badge_url: 'https://credly.com/recipients/90113',
+    badge_image: '/images/badges/circuitdesign_badge-01.png',
+    badge_name: 'Circuit Design',
+    projects: [5046, 5000]
   },
   {
-    "badge_url": "https://credly.com/recipients/139408",
-    "badge_image": "/images/badges/codinggemma_badge.png",
-    "badge_name": "Coding Gemma",
-    "projects": [
-      15484,
-      15720,
-    ]
+    badge_url: 'https://credly.com/recipients/139408',
+    badge_image: '/images/badges/codinggemma_badge.png',
+    badge_name: 'Coding Gemma',
+    projects: [15484, 15720]
   },
   {
-    "badge_url": "https://credly.com/recipients/118175",
-    "badge_image": "/images/badges/codinglilypad_badge.png",
-    "badge_name": "Coding LilyPad",
-    "projects": [
-      11565,
-      11680,
-    ]
+    badge_url: 'https://credly.com/recipients/118175',
+    badge_image: '/images/badges/codinglilypad_badge.png',
+    badge_name: 'Coding LilyPad',
+    projects: [11565, 11680]
   },
   {
-    "badge_url": "https://credly.com/recipients/90098",
-    "badge_image": "/images/badges/communicator_badge-01.png",
-    "badge_name": "Communicator",
-    "projects": [
-      3263,
-      5194,
-    ]
+    badge_url: 'https://credly.com/recipients/90098',
+    badge_image: '/images/badges/communicator_badge-01.png',
+    badge_name: 'Communicator',
+    projects: [3263, 5194]
   },
   {
-    "badge_url": "https://credly.com/recipients/90033",
-    "badge_image": "/images/badges/fixer_badge-01.png",
-    "badge_name": "Fixer",
-    "projects": [
-      2508,
-      4114,
-      4747,
-      5548,
-      2289,
-    ]
+    badge_url: 'https://credly.com/recipients/90033',
+    badge_image: '/images/badges/fixer_badge-01.png',
+    badge_name: 'Fixer',
+    projects: [2508, 4114, 4747, 5548, 2289]
   },
   {
-    "badge_url": "https://credly.com/recipients/90362",
-    "badge_image": "/images/badges/gamedesigner.png",
-    "badge_name": "Game Designer",
-    "projects": [
-      6210,
-      6477,
-      4254,
-      5558,
-    ]
+    badge_url: 'https://credly.com/recipients/90362',
+    badge_image: '/images/badges/gamedesigner.png',
+    badge_name: 'Game Designer',
+    projects: [6210, 6477, 4254, 5558]
   },
   {
-    "badge_url": "https://credly.com/recipients/90500",
-    "badge_image": "/images/badges/graphicdesign.png",
-    "badge_name": "Graphic Design",
-    "projects": [
-      7298,
-      8104,
-      8263,
-      7494,
-      8540,
-    ]
+    badge_url: 'https://credly.com/recipients/90500',
+    badge_image: '/images/badges/graphicdesign.png',
+    badge_name: 'Graphic Design',
+    projects: [7298, 8104, 8263, 7494, 8540]
   },
   {
-    "badge_url": "https://credly.com/recipients/90040",
-    "badge_image": "/images/badges/hardware.png",
-    "badge_name": "Hardware",
-    "projects": [
-      3142,
-      1815,
-      2904,
-      3443,
-    ]
+    badge_url: 'https://credly.com/recipients/90040',
+    badge_image: '/images/badges/hardware.png',
+    badge_name: 'Hardware',
+    projects: [3142, 1815, 2904, 3443]
   },
   {
-    "badge_url": "https://credly.com/recipients/86494",
-    "badge_image": "/images/badges/htmlcss_badge-01.png",
-    "badge_name": "HTML & CSS",
-    "projects": [
-      2348,
-      2017,
-      1935,
-      5996,
-      7697,
-    ]
+    badge_url: 'https://credly.com/recipients/86494',
+    badge_image: '/images/badges/htmlcss_badge-01.png',
+    badge_name: 'HTML & CSS',
+    projects: [2348, 2017, 1935, 5996, 7697]
   },
   {
-    "badge_url": "https://credly.com/recipients/90442",
-    "badge_image": "/images/badges/hcd_badge-01.png",
-    "badge_name": "Human-Centered Design",
-    "projects": [
-      1874,
-      5573,
-      6991,
-      6070,
-    ]
+    badge_url: 'https://credly.com/recipients/90442',
+    badge_image: '/images/badges/hcd_badge-01.png',
+    badge_name: 'Human-Centered Design',
+    projects: [1874, 5573, 6991, 6070]
   },
   {
-    "badge_url": "https://credly.com/recipients/90027",
-    "badge_image": "/images/badges/javascript_badge-01.png",
-    "badge_name": "JavaScript",
-    "projects": [
-      7864,
-      3714,
-      4586,
-    ]
+    badge_url: 'https://credly.com/recipients/90027',
+    badge_image: '/images/badges/javascript_badge-01.png',
+    badge_name: 'JavaScript',
+    projects: [7864, 3714, 4586]
   },
   {
-    "badge_url": "https://credly.com/recipients/90365",
-    "badge_image": "/images/badges/makingelectricity_badge-01.png",
-    "badge_name": "Making Electricity",
-    "projects": [
-      8971,
-      44,
-      105,
-    ]
+    badge_url: 'https://credly.com/recipients/90365',
+    badge_image: '/images/badges/makingelectricity_badge-01.png',
+    badge_name: 'Making Electricity',
+    projects: [8971, 44, 105]
   },
   {
-    "badge_url": "https://credly.com/recipients/89981",
-    "badge_image": "/images/badges/networks.png",
-    "badge_name": "Networks",
-    "projects": [
-      3018,
-      3782,
-      5158,
-      3855,
-    ]
+    badge_url: 'https://credly.com/recipients/89981',
+    badge_image: '/images/badges/networks.png',
+    badge_name: 'Networks',
+    projects: [3018, 3782, 5158, 3855]
   },
   {
-    "badge_url": "https://credly.com/recipients/90089",
-    "badge_image": "/images/badges/operatingsystems.png",
-    "badge_name": "Operating Systems",
-    "projects": [
-      6343,
-      2418,
-      2218,
-      5745,
-    ]
+    badge_url: 'https://credly.com/recipients/90089',
+    badge_image: '/images/badges/operatingsystems.png',
+    badge_name: 'Operating Systems',
+    projects: [6343, 2418, 2218, 5745]
   },
   {
-    "badge_url": "https://credly.com/recipients/90493",
-    "badge_image": "/images/badges/pitchandpublish_badge.png",
-    "badge_name": "Pitch & Publish",
-    "projects": [
-      8219,
-    ]
+    badge_url: 'https://credly.com/recipients/90493',
+    badge_image: '/images/badges/pitchandpublish_badge.png',
+    badge_name: 'Pitch & Publish',
+    projects: [8219]
   },
   {
-    "badge_url": "https://credly.com/recipients/120473",
-    "badge_image": "/images/badges/portfolio_craft_badge.png",
-    "badge_name": "Portfolio Craft",
-    "projects": [
-      12188,
-      11787,
-      12118,
-    ]
+    badge_url: 'https://credly.com/recipients/120473',
+    badge_image: '/images/badges/portfolio_craft_badge.png',
+    badge_name: 'Portfolio Craft',
+    projects: [12188, 11787, 12118]
   },
   {
-    "badge_url": "https://credly.com/recipients/120471",
-    "badge_image": "/images/badges/portfolio_style_badge.png",
-    "badge_name": "Portfolio Style",
-    "projects": [
-      11846,
-      11874,
-      11939,
-    ]
+    badge_url: 'https://credly.com/recipients/120471',
+    badge_image: '/images/badges/portfolio_style_badge.png',
+    badge_name: 'Portfolio Style',
+    projects: [11846, 11874, 11939]
   },
   {
-    "badge_url": "https://credly.com/recipients/90367",
-    "badge_image": "/images/badges/poweringchange.png",
-    "badge_name": "Powering Change",
-    "projects": [
-      195,
-      237,
-      249,
-      260,
-    ]
+    badge_url: 'https://credly.com/recipients/90367',
+    badge_image: '/images/badges/poweringchange.png',
+    badge_name: 'Powering Change',
+    projects: [195, 237, 249, 260]
   },
   {
-    "badge_url": "https://credly.com/recipients/90091",
-    "badge_image": "/images/badges/programming_badge-01.png",
-    "badge_name": "Programming",
-    "projects": [
-      6269,
-      2150,
-      7382,
-    ]
+    badge_url: 'https://credly.com/recipients/90091',
+    badge_image: '/images/badges/programming_badge-01.png',
+    badge_name: 'Programming',
+    projects: [6269, 2150, 7382]
   },
   {
-    "badge_url": "https://credly.com/recipients/90487",
-    "badge_image": "/images/badges/prototyping_badge-01.png",
-    "badge_name": "Prototyping",
-    "projects": [
-      8088,
-      7841,
-      8569,
-    ]
+    badge_url: 'https://credly.com/recipients/90487',
+    badge_image: '/images/badges/prototyping_badge-01.png',
+    badge_name: 'Prototyping',
+    projects: [8088, 7841, 8569]
   },
   {
-    "badge_url": "https://credly.com/recipients/139409",
-    "badge_image": "/images/badges/raspberrypicircuits_badge.png",
-    "badge_name": "Raspberry Pi Circuits",
-    "projects": [
-      14468,
-      15456,
-      15247,
-      15326,
-    ]
+    badge_url: 'https://credly.com/recipients/139409',
+    badge_image: '/images/badges/raspberrypicircuits_badge.png',
+    badge_name: 'Raspberry Pi Circuits',
+    projects: [14468, 15456, 15247, 15326]
   },
   {
-    "badge_url": "https://credly.com/recipients/90366",
-    "badge_image": "/images/badges/renewablenergy.png",
-    "badge_name": "Renewable Energy",
-    "projects": [
-      134,
-      155,
-      176,
-    ]
+    badge_url: 'https://credly.com/recipients/90366',
+    badge_image: '/images/badges/renewablenergy.png',
+    badge_name: 'Renewable Energy',
+    projects: [134, 155, 176]
   },
   {
-    "badge_url": "https://credly.com/recipients/90364",
-    "badge_image": "/images/badges/scratchactivist_badge-01.png",
-    "badge_name": "Scratch Activist",
-    "projects": [
-      2768,
-      3099,
-      3500,
-    ]
+    badge_url: 'https://credly.com/recipients/90364',
+    badge_image: '/images/badges/scratchactivist_badge-01.png',
+    badge_name: 'Scratch Activist',
+    projects: [2768, 3099, 3500]
   },
   {
-    "badge_url": "https://credly.com/recipients/90363",
-    "badge_image": "/images/badges/scratchdeveloper_badge-01.png",
-    "badge_name": "Scratch Developer",
-    "projects": [
-      4781,
-      5293,
-      5509,
-    ]
+    badge_url: 'https://credly.com/recipients/90363',
+    badge_image: '/images/badges/scratchdeveloper_badge-01.png',
+    badge_name: 'Scratch Developer',
+    projects: [4781, 5293, 5509]
   },
   {
-    "badge_url": "https://credly.com/recipients/118173",
-    "badge_image": "/images/badges/sewing_circuits_badge.png",
-    "badge_name": "Sewing circuits",
-    "projects": [
-      11078,
-      10935,
-      11039,
-    ]
+    badge_url: 'https://credly.com/recipients/118173',
+    badge_image: '/images/badges/sewing_circuits_badge.png',
+    badge_name: 'Sewing circuits',
+    projects: [11078, 10935, 11039]
   },
   {
-    "badge_url": "https://credly.com/recipients/118174",
-    "badge_image": "/images/badges/sewing_switches_badge.png",
-    "badge_name": "Sewing Switches",
-    "projects": [
-      11238,
-      11320,
-      11208,
-      11473,
-    ]
+    badge_url: 'https://credly.com/recipients/118174',
+    badge_image: '/images/badges/sewing_switches_badge.png',
+    badge_name: 'Sewing Switches',
+    projects: [11238, 11320, 11208, 11473]
   },
   {
-    "badge_url": "https://credly.com/recipients/90096",
-    "badge_image": "/images/badges/teambuilding_badge-01.png",
-    "badge_name": "Team Building",
-    "projects": [
-      3537,
-      5554,
-      1769,
-    ]
+    badge_url: 'https://credly.com/recipients/90096',
+    badge_image: '/images/badges/teambuilding_badge-01.png',
+    badge_name: 'Team Building',
+    projects: [3537, 5554, 1769]
   },
   {
-    "badge_url": "https://credly.com/recipients/90473",
-    "badge_image": "/images/badges/userinterviews_badge-01.png",
-    "badge_name": "User Interviews",
-    "projects": [
-      7058,
-      7256,
-      7629,
-      7968,
-      7180,
-    ]
+    badge_url: 'https://credly.com/recipients/90473',
+    badge_image: '/images/badges/userinterviews_badge-01.png',
+    badge_name: 'User Interviews',
+    projects: [7058, 7256, 7629, 7968, 7180]
   },
   {
-    "badge_url": "https://credly.com/recipients/148452",
-    "badge_image": "/images/badges/visualstories.png",
-    "badge_name": "Visual Stories",
-    "projects": [
-      16590,
-      16730,
-      16812,
-      16895,
-      17075,
-    ]
+    badge_url: 'https://credly.com/recipients/148452',
+    badge_image: '/images/badges/visualstories.png',
+    badge_name: 'Visual Stories',
+    projects: [16590, 16730, 16812, 16895, 17075]
   },
   {
-    "badge_url": "https://credly.com/recipients/90509",
-    "badge_image": "/images/badges/webcitizen.png",
-    "badge_name": "Web Citizen",
-    "projects": [
-      7023,
-      6144,
-      6858,
-    ]
+    badge_url: 'https://credly.com/recipients/90509',
+    badge_image: '/images/badges/webcitizen.png',
+    badge_name: 'Web Citizen',
+    projects: [7023, 6144, 6858]
   },
   {
-    "badge_url": "https://credly.com/recipients/86497",
-    "badge_image": "/images/badges/webprivacy.png",
-    "badge_name": "Web Privacy",
-    "projects": [
-      2451,
-      6507,
-      2438,
-      3220,
-    ]
+    badge_url: 'https://credly.com/recipients/86497',
+    badge_image: '/images/badges/webprivacy.png',
+    badge_name: 'Web Privacy',
+    projects: [2451, 6507, 2438, 3220]
   },
   {
-    "badge_url": "https://credly.com/recipients/90022",
-    "badge_image": "/images/badges/websecurity.png",
-    "badge_name": "Web Security",
-    "projects": [
-      2458,
-      2499,
-      2477,
-    ]
+    badge_url: 'https://credly.com/recipients/90022',
+    badge_image: '/images/badges/websecurity.png',
+    badge_name: 'Web Security',
+    projects: [2458, 2499, 2477]
   },
   {
-    "badge_url": "https://credly.com/recipients/94781",
-    "badge_image": "/images/badges/educator1.png",
-    "badge_name": "Mouse Educator 1",
-    "projects": [
-      9266,
-    ]
+    badge_url: 'https://credly.com/recipients/94781',
+    badge_image: '/images/badges/educator1.png',
+    badge_name: 'Mouse Educator 1',
+    projects: [9266]
   },
   {
-    "badge_url": "https://credly.com/recipients/94782",
-    "badge_image": "/images/badges/educator2.png",
-    "badge_name": "Mouse Educator 2",
-    "projects": [
-      9802,
-      9842,
-    ]
+    badge_url: 'https://credly.com/recipients/94782',
+    badge_image: '/images/badges/educator2.png',
+    badge_name: 'Mouse Educator 2',
+    projects: [9802, 9842]
   }
 ]
 
-var vueBadges = new Vue({
-  el: '#badges',
-  data: {
-    badges: badges,
-    allProjects: allProjects
-  }
-});
+module.exports = badges
