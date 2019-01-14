@@ -23,7 +23,7 @@ We recommend using a desktop browser with X-Ray Goggles, but if you only have ac
 7.  Click "Edit" in the bottom right corner of the Bookmarks panel.
 ![](/images/edit-bookmarks.jpeg)
 8.  Click on the "X-Ray Goggles" bookmark you created.
-9.  Paste the code into the "Address" of the bookmark. Then click the "Done" key on your keyboard.
+9.  Paste the code into the "Address" of the bookmark. Then click the "Done" key on your keyboard.ang
 ![](/images/paste-code.jpeg)
 10.  Click "Done" at the bottom of the bookmarks panel.
 ![](/images/done-editing.jpeg)
