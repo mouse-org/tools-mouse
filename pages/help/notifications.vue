@@ -7,7 +7,7 @@
 
 <script>
 import Menu from '~/components/Menu.vue'
-import md from '~/markdownPages/help/notifications.md'
+import md from '~/assets/md/help/notifications.md'
 
 export default {
   components: {

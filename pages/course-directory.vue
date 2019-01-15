@@ -41,10 +41,10 @@
 </template>
 
 <script>
-import md from '~/markdownPages/course-directory.md'
+import md from '~/assets/md/course-directory.md'
 import Menu from '~/components/Menu.vue'
-import courses from '~/json/courses.json'
-import projects from '~/json/projects.json'
+import courses from '~/assets/json/courses.json'
+import projects from '~/assets/json/projects.json'
 const allProjects = projects.allProjects
 const optionalProjects = projects.optionalProjects
 

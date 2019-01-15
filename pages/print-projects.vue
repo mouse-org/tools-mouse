@@ -7,7 +7,7 @@
 
 <script>
 import Menu from '~/components/Menu.vue'
-import md from '~/markdownPages/print-projects.md'
+import md from '~/assets/md/print-projects.md'
 
 export default {
   components: {

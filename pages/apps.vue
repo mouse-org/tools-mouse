@@ -27,8 +27,8 @@
 
 <script>
 import Menu from '~/components/Menu.vue'
-import md from '~/markdownPages/apps.md'
-import apps from '~/json/apps.json'
+import md from '~/assets/md/apps.md'
+import apps from '~/assets/json/apps.json'
 
 export default {
   components: {

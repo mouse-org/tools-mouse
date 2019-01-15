@@ -32,10 +32,10 @@
 </template>
 
 <script>
-import md from '~/markdownPages/badge-directory.md'
+import md from '~/assets/md/badge-directory.md'
 import Menu from '~/components/Menu.vue'
-import badges from '~/json/badges.json'
-import projects from '~/json/projects.json'
+import badges from '~/assets/json/badges.json'
+import projects from '~/assets/json/projects.json'
 const allProjects = projects.allProjects
 const optionalProjects = projects.optionalProjects
 

@@ -7,7 +7,7 @@
 
 <script>
 import Menu from '~/components/Menu.vue'
-import md from '~/markdownPages/help/group-work.md'
+import md from '~/assets/md/help/group-work.md'
 
 export default {
   components: {

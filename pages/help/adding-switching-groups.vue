@@ -7,7 +7,7 @@
 
 <script>
 import Menu from '~/components/Menu.vue'
-import md from '~/markdownPages/help/adding-switching-groups.md'
+import md from '~/assets/md/help/adding-switching-groups.md'
 
 export default {
   components: {
