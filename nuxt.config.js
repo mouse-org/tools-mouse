@@ -60,7 +60,7 @@ module.exports = {
   // See https://github.com/markdown-it/markdown-it
   markdownit: {
     preset: 'default',
-    linkify: true,
+    linkify: false,
     breaks: true
   },
   /*
