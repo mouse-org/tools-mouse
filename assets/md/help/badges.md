@@ -1,7 +1,5 @@
 ## Help: Badges and Credly.com
 
-test.com
-
 ### About Credly Digital Badges on Mouse Create
 
 Mouse offers a series of Digital Badges that users can earn as they submit project work on Mouse Create. The [Badge Directory](/badge-directory) has a list of all available badges and which projects are required for each.
