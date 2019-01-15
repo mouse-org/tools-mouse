@@ -5,7 +5,7 @@
       href="/"
     >
       <h1 id="site-title">
-        Mouse Create Help & Tools
+        Mouse Create Help & Tools!
       </h1>
     </a>
 
