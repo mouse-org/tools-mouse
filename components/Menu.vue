@@ -5,7 +5,7 @@
       href="/"
     >
       <h1 id="site-title">
-        Mouse Create Help & Tools!
+        Mouse Create Help & Tools
       </h1>
     </a>
 
@@ -138,3 +138,9 @@ export default {
   }
 }
 </script>
+
+<style>
+#site-title {
+  font-size: 2em;
+}
+</style>
