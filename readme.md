@@ -1,4 +1,5 @@
 Mouse
 mouse.org
 
-Vue 2.4.2
+Nuxt > 2.3.4
+Vue > 2.5.22
