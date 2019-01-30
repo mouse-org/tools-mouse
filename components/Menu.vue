@@ -25,9 +25,11 @@
     </ul>
 
     <h2
-      id="alert"
-      style="display: none;"
-    />
+      class="alert"
+      style="display: block;"
+    >
+      We are currently experiencing an issue with Mouse Create projects loading and are working on resolving it. 12:00 PM ET 1/30/19.
+    </h2>
   </div>
 </template>
 

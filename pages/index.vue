@@ -15,9 +15,9 @@ export default {
   components: {
     Menu
   },
-  computed:{
-    md(){
-    return md
+  computed: {
+    md() {
+      return md
     }
   }
 }
