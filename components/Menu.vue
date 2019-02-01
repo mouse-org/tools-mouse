@@ -26,9 +26,8 @@
 
     <h2
       class="alert"
-      style="display: block;"
+      style="display: none;"
     >
-      We are currently experiencing an issue with Mouse Create projects loading and are working on resolving it. 12:00 PM ET 1/30/19.
     </h2>
   </div>
 </template>
