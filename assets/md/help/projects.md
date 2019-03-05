@@ -9,7 +9,6 @@ Mouse Create has 100+ projects across 30+ competency areas. To help you find the
 *   Use the Project Finder (in the “Projects" area) to navigate to course pages about each Mouse Create course, or to filter the projects by skill or setting tags.
 *   On a course page, you can explore the outcomes, materials and instruction time requirements for each course, as well as the digital badges earned within, the projects for the course in order and a list of optional, related projects.
 *   To add an entire course to your group’s playlist, click the “Add Course to Playlist” button at the top of the page. 
-*   All projects are listed on [this spreadsheet](https://docs.google.com/spreadsheets/d/1tpFh32ZsngoccuSEEjZyI_4xu3_v6Ocvk_WgY9L35FY/edit#gid=236506175), along with their Chromebook and iPad compatibility.
 
 ### Preparing to Facilitate a Project
 
