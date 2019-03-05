@@ -5,10 +5,10 @@ Help: Projects
 
 Mouse Create has 100+ projects across 30+ competency areas. To help you find the right projects for your group, we recommend these steps:
 
-*   Take the Mouse Educator Course: Select the “Projects" button in the top menu. Then, within the Project Finder, select the “Educator Course" tag. Then complete each first project within the course.
-*   Use the Project Finder (on the “Projects" page) to filter the projects by course, skill, or setting tags.
-*   Browse the [Course Directory](https://tools.mouse.org/course-directory/) and click to read the course descriptions.
-*   [Browse this spreadsheet](https://docs.google.com/spreadsheets/d/1QOvwKpa3Zs986fKYV_0o580_B2Urcrdwn31_EACgzqg/edit?usp=sharing) to search for projects by Common Core Standards, Next Generation Science Standards (NGSS) or International Society for Technology in Education (ISTE) Standards.
+*   Take the Mouse Educator Course: Select the “Projects" button in the top menu. Then, within the Project Finder, select the “Educator Course". Then complete each project within the course.
+*   Use the Project Finder (in the “Projects" area) to navigate to course pages about each Mouse Create course, or to filter the projects by skill or setting tags.
+*   On a course page, you can explore the outcomes, materials and instruction time requirements for each course, as well as the digital badges earned within, the projects for the course in order and a list of optional, related projects.
+*   To add an entire course to your group’s playlist, click the “Add Course to Playlist” button at the top of the page. 
 *   All projects are listed on [this spreadsheet](https://docs.google.com/spreadsheets/d/1tpFh32ZsngoccuSEEjZyI_4xu3_v6Ocvk_WgY9L35FY/edit#gid=236506175), along with their Chromebook and iPad compatibility.
 
 ### Preparing to Facilitate a Project
