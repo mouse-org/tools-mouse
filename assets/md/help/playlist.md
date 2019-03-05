@@ -7,16 +7,11 @@ The playlist is a set of projects chosen by a group’s educator or educators th
 
 ### Add Projects and Courses to your Group’s Playlist (Educators only)
 
-![](/images/addtogroup.gif)
-
 1.  Click on "Projects" at the top of the page (you will not see this until you have created or joined a Group).
-2.  Browse all of the Projects, or use the Project Finder tags on the left hand side of the page to filter projects according to their Course, Skill area, or Setting (time and size of group). On some smaller devices the Project Finder tags will not be visible, click “Fiter Projects" at the top of the list to expand the list.
-3.  When you find a project you’d like to add to your group’s playlist, click "Add to Group".
-4.  *   You’ll be prompted to choose which group you’d like to add the project to. Check your group’s box. You can add the project to multiple groups by checking multiple boxes.
-    *   If the project is part of a course (most projects are) you will also have the option to add the whole course to your group’s playlist. If you want to add the whole course check the box next to “Add the entire course to this group?"
-    *   If you add the whole course to your playlist they will appear in the recommended course order (on the project page they appear in alphabetical order, even when filtered).
-    *   When you are done selecting groups click "Add to Groups".
-    *   If you’re working with multiple groups of learners, you can customize what each group works on through this function.
+2.  Browse all of the projects, or use the Project Finder to open Course pages, or to filter projects according to specific skills or by setting (time and size of group). On some smaller devices the Project Finder tags will not be visible, click “Filter Projects" at the top of the list to expand the list.
+3.  To add a course to your playlist, select the course in the Project Finder, or “Filter Projects” menu on smaller devices.  Then, on the course page, select the “Add Course to Playlist” button.  This will add each of the course’s projects in the correct order onto your active group’s playlist.
+4.  To add an individual project to your playlist, click the "Add to Playlist" button on the project. 
+    *   If you are in multiple groups, the projects you add will only be added to your active group.  You can go to “My Groups” from the top “More” menu to switch your active group. 
     *   To review the Projects you’ve selected, go to your Group’s page by clicking on the group button at the top of the page.
 
 ### Reordering the Playlist or Removing Projects from the Playlist
