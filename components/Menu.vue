@@ -27,8 +27,7 @@
     <h2
       class="alert"
       style="display: none;"
-    >
-    </h2>
+    />
   </div>
 </template>
 
