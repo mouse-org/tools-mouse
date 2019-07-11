@@ -129,6 +129,11 @@ export default {
           class: 'menu-item'
         },
         {
+          name: '📸 Camera',
+          url: '/camera',
+          class: 'menu-item'
+        },
+        {
           name: '↩ Back to Mouse Create',
           url: 'https://create.mouse.org/',
           class: 'menu-item'
