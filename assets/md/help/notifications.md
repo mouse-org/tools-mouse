@@ -3,7 +3,8 @@ Notifications
 
 ### Managing Notifications
 
-Your browser does not support HTML5.
+<video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/screencast_notifications.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+
 
 *   The Notifications area is accessed through the lightning bolt button in the top navigation of Mouse Create.
 *   If you have new notifications since the last time you clicked into the Notifications area, you will see a number in a red circle on the lightning bolt. This number clears when you click into the area.

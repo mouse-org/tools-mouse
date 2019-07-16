@@ -34,9 +34,7 @@ To earn a badge:
 
 *   Go to your [Mouse Create Profile page.](https://create.mouse.org/profile)
 *   Click the “Connect to Credly" button.
-
-![](/images/credlyconnect.gif)
-
+    ![](/images/credlyconnect.gif)
 *   Create a Credly account by entering a password into the form. Your new credly.com account will use the email address that you used when registering for Mouse Create. If you already have an existing account on credly.com, enter in your account credentials to connect it to Mouse.
 *   Submit every project related to a badge. Go to the [Badge Directory](https://tools.mouse.org/badge-directory) to see all available badges.
 *   Now, it is up to your group’s educator to review your work and award your badge, once that is done, you will see your badge on your profile, and you can log into Credly to share it publicly.
@@ -53,9 +51,9 @@ Educator must review each project related to the badge within the Group Work tab
 
 ### Educators: Choosing Projects with Badges
 
-Every [course](/course-directory) on Mouse Create has at least 1 badge associated with it. For example, if your group has added the Serious Games course to your Playlist, your students will become eligible for 3 digital badges as they complete each project within the course: Game Designer, Scratch Developer and Scratch Activist. A few badges have required projects that span over 2 related courses, for example the Apps & Software badge relates to projects in both the IT Essentials course and the IT Admin course.
+Badges are awarded as part of completing courses on Mouse Create.  From the Projects area, select a course from the Project Finder menu to view the badges available for the course.  Select the badge to view the list of required projects.
 
-The [Badge Directory](/badge-directory) lists every available badge on Mouse Create and which specific projects must be submitted and reviewed to earn that badge, but we recommend that groups select full courses for their playlist, as courses organize the projects into a recommended pedagogical order. Go to the [Course Directory](/course-directory) to learn more.
+Every [course](/course-directory) on Mouse Create has at least 1 badge associated with it. For example, if your group has added the Serious Games course to your Playlist, your students will become eligible for 3 digital badges as they complete each project within the course: Game Designer, Scratch Developer and Scratch Activist. A few badges have required projects that span over 2 related courses, for example the Apps & Software badge relates to projects in both the IT Essentials course and the IT Admin course.
 
 When projects associated with a badge are added to a group’s playlist the badge image will display on the project card in the playlist. [More on how to use your group’s playlist.](/playlist)
 

@@ -27,8 +27,7 @@
     <h2
       class="alert"
       style="display: none;"
-    >
-    </h2>
+    />
   </div>
 </template>
 
@@ -127,6 +126,11 @@ export default {
         {
           name: 'iPad Tips',
           url: '/ipad',
+          class: 'menu-item'
+        },
+        {
+          name: '📸 Camera',
+          url: '/camera',
           class: 'menu-item'
         },
         {

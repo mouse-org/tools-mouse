@@ -28,5 +28,10 @@
       "name": "Ports & Connections Match",
       "thumbnail": "/images/apps/portsMatch.png",
       "url": "ports-and-connections-match"
+    },
+    {
+      "name": "You've Got The Power",
+      "thumbnail": "/images/apps/youve-got-the-power.png",
+      "url": "youve-got-the-power"
     }
 ]

@@ -34,9 +34,7 @@ Educators can also edit the profile of all students within their group/s, as nee
 
 The “My Work” page is a part of the Profile where you can view, organize and export the work you have submitted on Mouse Create. Students could create a category for projects to add to their digital portfolio, projects to include on a college application, projects related to games or coding or whichever theme they choose. Currently, the “My Work” page is private and only viewable by the user. Educators can not see or edit their students’ “My Work” area. Watch this screencast to see how it works:
 
-  
-  
-Your browser does not support HTML5.  
+<video controls=""><source src="https://create-production.s3-us-west-2.amazonaws.com/content/screencast_mywork.mp4" type="video/mp4">Your browser does not support HTML5.</video>
   
 
 ### Creating Custom Categories on the “My Work” Page
