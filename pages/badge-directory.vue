@@ -10,7 +10,7 @@
         :key="badge.badge_name"
         class="mouse-activity well building"
       >
-        <a :href="badge.badge_url">
+        <a :href="badge.badge_url" target="blank">
           <img :src="badge.badge_image">
         </a>
         <ul class="project-list">
