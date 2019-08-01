@@ -54,10 +54,22 @@
       "projects": [3263, 5194]
     },
     {
+      "badge_url": "https://credly.com/recipients/162695",
+      "badge_image": "/images/badges/evolved-creatures.png",
+      "badge_name": "Evolved Creatures",
+      "projects": [18770]
+    },
+    {
       "badge_url": "https://credly.com/recipients/90033",
       "badge_image": "/images/badges/fixer_badge-01.png",
       "badge_name": "Fixer",
       "projects": [2508, 4114, 4747, 5548, 2289]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/162696",
+      "badge_image": "/images/badges/future-humans.png",
+      "badge_name": "Future Humans",
+      "projects": [18797]
     },
     {
       "badge_url": "https://credly.com/recipients/90362",
@@ -232,17 +244,5 @@
       "badge_image": "/images/badges/educator2.png",
       "badge_name": "Mouse Educator 2",
       "projects": [9802, 9842]
-    },
-    {
-      "badge_url": "https://credly.com/recipients/162695",
-      "badge_image": "/images/badges/evolved-creatures.png",
-      "badge_name": "Evolved Creatures",
-      "projects": [18770]
-    },
-    {
-      "badge_url": "https://credly.com/recipients/162696",
-      "badge_image": "/images/badges/future-humans.png",
-      "badge_name": "Future Humans",
-      "projects": [18797]
     }
   ]
