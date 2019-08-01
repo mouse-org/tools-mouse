@@ -1081,6 +1081,20 @@
         "Create and document 3 increasingly technical iterations of a design prototype incorporating feedback from users.",
       "url": "https://create.mouse.org/project/8569/",
       "id": 8569
+    },
+    "18770": {
+      "title": "Synthesis - Evolved Creatures",
+      "teaser":
+        "Brainstorm, design and build your final evolved creature prototype!",
+      "url": "https://create.mouse.org/project/18770/",
+      "id": 18770
+    },
+    "18797": {
+      "title": "Synthesis - Future Humans",
+      "teaser":
+        "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
+      "url": "https://create.mouse.org/project/18797/",
+      "id": 18797
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
