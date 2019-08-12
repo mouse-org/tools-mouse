@@ -25,8 +25,8 @@
           >
 
             <a
-              :href="allProjects[project]['url']"
-              target="blank"
+              :href="'https://create.mouse.org/project/' + allProjects[project]['id'] + '/'"
+              target="_blank"
             >
               <span v-if="optionalProjects.indexOf(project) >= 0" >
                 *&nbsp;

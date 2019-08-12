@@ -10,7 +10,10 @@
         :key="badge.badge_name"
         class="mouse-activity well building"
       >
-        <a :href="badge.badge_url" target="blank">
+        <a
+          :href="badge.badge_url"
+          target="blank"
+        >
           <img :src="badge.badge_image">
         </a>
         <ul class="project-list">
@@ -19,8 +22,8 @@
             :key="project"
           >
             <a
-              :href="allProjects[project]['url']"
-              target="blank"
+              :href="'https://create.mouse.org/project/' + allProjects[project]['id'] + '/'"
+              target="_blank"
             >
               {{ allProjects[project]['title'] }}
             </a>
