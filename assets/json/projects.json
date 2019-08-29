@@ -936,6 +936,51 @@
       "teaser":
  "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
       "id": 18797
+    },
+    "21066": {
+      "title": "Scripted Viral Media",
+      "teaser": "Learn the essentials of viral media making and develop a style of scripted viral media for videos you will create later in this course.",
+      "id": 21066
+    },
+    "21095": {
+      "title": "Telling a True Story",
+      "teaser": "Use what you know about storytelling to begin a project outline for your scripted viral video.",
+      "id": 21095
+    },
+    "21124": {
+      "title": "Capturing Raw Footage",
+      "teaser": "Use what you know about viral media, shot lists, sound recording, and editing to create your own piece of media.",
+      "id": 21124
+    },
+    "21153": {
+      "title": "Editing Your Footage",
+      "teaser": "Students will use editing platforms to combine and alter their footage to create a scripted viral video ready for sharing.",
+      "id": 21153
+    },
+    "21182": {
+      "title": "Uploading, Sharing and Promoting",
+      "teaser": "Select a platform to share your scripted viral video for free. Determine how to best attract viewers.",
+      "id": 21182
+    },
+    "21211": {
+      "title": "Stop Motion Animator 1",
+      "teaser": "Learn the essentials of animation and create a short stop motion video.",
+      "id": 21211
+    },
+    "21240": {
+      "title": "Stop Motion Animator 2",
+      "teaser": "Learn both historical and current examples of stop-motion and claymation animations, then plan and create your own.",
+      "id": 21240
+    },
+    "21269": {
+      "title": "Digital Animator",
+      "teaser": "Draw and design your own animation using Wick Editor.",
+      "id": 21269
+    },
+    "21298": {
+      "title": "Video Activism",
+      "teaser": "Use what you know about filmmaking, viral media, and animation to create a video with a social purpose.",
+      "id": 21298
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
