@@ -244,5 +244,18 @@
       "badge_image": "/images/badges/educator2.png",
       "badge_name": "Mouse Educator 2",
       "projects": [9802, 9842]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/165096",
+      "badge_image": "/images/badges/animator.png",
+      "badge_name": "Animator",
+      "projects": [21211, 21240, 21269]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/165068",
+      "badge_image": "/images/badges/viralmedia.png",
+      "badge_name": "Viral Media",
+      "projects": [21066, 21095, 21124, 21153, 21182]
     }
+
   ]
