@@ -93,6 +93,26 @@
       ]
     },
     {
+      "course_name": "Impact Game Design",
+      "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
+      "course_overview": "https://docs.google.com/document/d/1MS2HBpV7G_VW-N8llocR43bzIqfqZkvWiCwcrFOiKDU/edit",
+      "projects": [
+        20478,
+        20483,
+        19083,
+        19175,
+        20830,
+        19289,
+        19446,
+        19543,
+        19693,
+        19337,
+        19831,
+        19890,
+        20487
+      ]
+    },
+    {
       "course_name": "Intro to Design",
       "course_description": "The Intro to Design course gives youth the skills they need to begin creating original graphics, visual displays, animations, and models. Participants learn the essential elements to consider when engaging in graphic and 3D design. They use color wheels to choose color schemes, practice design layout techniques, and create an original typeface. They also learn how to draw shapes and objects in 3D and to create models in 3D CAD (computer-assisted design) software.",
       "course_overview": "https://docs.google.com/document/d/1VM_jE66-7zlee1JfpnE6KhcaBvWzCHWZoLiwFPke_Sc/edit?usp=sharing",
@@ -179,6 +199,36 @@
       ]
     },
     {
+      "course_name": "STEM Summer in the City: Evolved Creatures",
+      "course_description": "This course is for middle school STEM Summer in the City participants only. The theme of this summer is Evolved Creatures. We will be learning the skills needed to prototype imaginary creatures that are inspired by the way that creatures in the natural world move and interact. Evolution is the process by which organisms change over time. Animals, humans and plant species have all changed over time to adapt to their environments and better survive and thrive on planet earth. ",
+      "course_overview": "",
+      "projects": [
+        21983,
+        22324,
+        18754,
+        18765,
+        21664,
+        18770,
+        20928,
+        20933,
+        20938,
+        20943
+      ]
+    },
+    {
+      "course_name": "STEM Summer in the City: Future Humans",
+      "course_description": "The theme of this summer is Future Humans. We will be learning the skills needed to prototype technological or biological adaptations needed to exist as Future Humans, future versions of ourselves navigating a complex ecosystem and protecting what’s most important to us. An adaptation is any alteration in the structure or function of human beings that allows them to better survive and thrive in their environment.",
+      "course_overview": "",
+      "projects": [
+        21987,
+        21992,
+        18781,
+        21744,
+        18787,
+        18797
+      ]
+    },
+    {
       "course_name": "Tech Team",
       "course_description": "The Tech Team course is for groups looking to provide technical and user support at their site as a help desk. In addition to completing both IT courses, Tech Team groups participate in team building activities, build troubleshooting skills, develop routines and professional communication, and give back through community service.",
       "course_overview": "https://drive.google.com/open?id=1OrfPN11uNAlUt42tYOX83MKo6WHpEPcqgfDkdFkxcTU",
@@ -204,7 +254,16 @@
         16730,
         16812,
         16895,
-        17075
+        17075,
+        21066,
+        21095,
+        21095,
+        21153,
+        21182,
+        21211,
+        21240,
+        21269,
+        21298
       ]
     },
     {

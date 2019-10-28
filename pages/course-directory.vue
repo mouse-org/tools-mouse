@@ -9,7 +9,11 @@
         v-for="course in courses"
         :key="course.course_name"
       >
-        <h3>{{ course.course_name }}</h3>
+        <h3
+          :id="changeCase.paramCase(course.course_name)"
+        >
+          {{ course.course_name }}
+        </h3>
         <p>{{ course.course_description }} 
           <a
             :href="course.course_overview"
@@ -45,6 +49,7 @@ import md from '~/assets/md/course-directory.md'
 import Menu from '~/components/Menu.vue'
 import courses from '~/assets/json/courses.json'
 import projects from '~/assets/json/projects.json'
+import changeCase from 'change-case'
 const allProjects = projects.allProjects
 const optionalProjects = projects.optionalProjects
 
@@ -56,7 +61,8 @@ export default {
     return {
       courses: courses,
       allProjects: allProjects,
-      optionalProjects: optionalProjects
+      optionalProjects: optionalProjects,
+      changeCase: changeCase
     }
   },
   computed: {

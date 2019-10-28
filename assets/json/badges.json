@@ -244,5 +244,59 @@
       "badge_image": "/images/badges/educator2.png",
       "badge_name": "Mouse Educator 2",
       "projects": [9802, 9842]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/162696",
+      "badge_image": "/images/badges/future-humans.png",
+      "badge_name": "Future Humans",
+      "projects": [18797]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/162695",
+      "badge_image": "/images/badges/evolved-creatures.png",
+      "badge_name": "Evolved Creatures",
+      "projects": [18770]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/165068",
+      "badge_image": "/images/badges/viralmedia_badge.png",
+      "badge_name": "Viral Media",
+      "projects": [21124, 21153, 21066, 21095, 21182]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/165096",
+      "badge_image": "/images/badges/animator_badge.png",
+      "badge_name": "Animator",
+      "projects": [21211, 21240, 21269]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/165276",
+      "badge_image": "/images/badges/videoactivist_badge.png",
+      "badge_name": "Video Activist",
+      "projects": [21298]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/164462",
+      "badge_image": "/images/badges/g4c_badge_gamedesigner.png",
+      "badge_name": "G4C - Game Designer",
+      "projects": [19175, 19289, 20830, 19083]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/164460",
+      "badge_image": "/images/badges/g4c_badge_scratchactivist.png",
+      "badge_name": "G4C - Scratch Activist",
+      "projects": [19831, 19337, 19890]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/164458",
+      "badge_image": "/images/badges/g4c_badge_scratchdeveloper.png",
+      "badge_name": "G4C - Scratch Developer",
+      "projects": [19543, 19693, 19446]
+    },
+    {
+      "badge_url": "https://credly.com/recipients/164581",
+      "badge_image": "/images/badges/g4c_educator_badge.png",
+      "badge_name": "G4C Educator Badge",
+      "projects": [20478]
     }
   ]

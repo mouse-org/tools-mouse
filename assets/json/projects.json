@@ -936,6 +936,196 @@
       "teaser":
  "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
       "id": 18797
+    },
+    "21066": {
+      "title": "Scripted Viral Media",
+      "teaser": "Learn the essentials of viral media making and develop a style of scripted viral media for videos you will create later in this course.",
+      "id": 21066
+    },
+    "21095": {
+      "title": "Telling a True Story",
+      "teaser": "Use what you know about storytelling to begin a project outline for your scripted viral video.",
+      "id": 21095
+    },
+    "21124": {
+      "title": "Capturing Raw Footage",
+      "teaser": "Use what you know about viral media, shot lists, sound recording, and editing to create your own piece of media.",
+      "id": 21124
+    },
+    "21153": {
+      "title": "Editing Your Footage",
+      "teaser": "Students will use editing platforms to combine and alter their footage to create a scripted viral video ready for sharing.",
+      "id": 21153
+    },
+    "21182": {
+      "title": "Uploading, Sharing and Promoting",
+      "teaser": "Select a platform to share your scripted viral video for free. Determine how to best attract viewers.",
+      "id": 21182
+    },
+    "21211": {
+      "title": "Stop Motion Animator 1",
+      "teaser": "Learn the essentials of animation and create a short stop motion video.",
+      "id": 21211
+    },
+    "21240": {
+      "title": "Stop Motion Animator 2",
+      "teaser": "Learn both historical and current examples of stop-motion and claymation animations, then plan and create your own.",
+      "id": 21240
+    },
+    "21269": {
+      "title": "Digital Animator",
+      "teaser": "Draw and design your own animation using Wick Editor.",
+      "id": 21269
+    },
+    "21298": {
+      "title": "Video Activism",
+      "teaser": "Use what you know about filmmaking, viral media, and animation to create a video with a social purpose.",
+      "id": 21298
+    },
+    "20478": {
+      "title": "G4C Educator Handbook",
+      "teaser": "Teachers, start here first! Prepare yourself to lead teams through the Games for Change Student Challenge and the Impact Game Design course with this project.",
+      "id": 20478
+    },
+    "20483": {
+      "title": "A New Challenger Has Arrived!",
+      "teaser": "Discover how you can make and submit an impact game to the Games for Change Student Challenge for a chance to win prizes, recognition and a scholarship!",
+      "id": 20483
+    },
+    "19083": {
+      "title": "G4C - Intro to Game Design",
+      "teaser": "Discover what games are made of, what a Game Designer is and hack a game.",
+      "id": 19083
+    },
+    "19175": {
+      "title": "G4C - Core Mechanics",
+      "teaser": "Play games to get good at identifying game mechanics. Then, remix popular games to create new combinations of mechanics that change the experience.",
+      "id": 19175
+    },
+    "20830": {
+      "title": "G4C - Goals, Obstacles & Chance",
+      "teaser": "Explore the importance of goals, obstacles, and chance in designing games. Through game play and design see how these elements make a game more or less challenging, engaging and fun.",
+      "id": 20830
+    },
+    "19289": {
+      "title": "G4C - Found Object Game",
+      "teaser": "Test your Game Making skills! Design your own Found Object Game with unique goals, mechanics and more.",
+      "id": 19289
+    },
+    "19446": {
+      "title": "G4C - What is Scratch?",
+      "teaser": "Investigate several different types of games to see what’s possible when creating a game in Scratch. Then look under the hood and try to match code blocks with game mechanics.",
+      "id": 19446
+    },
+    "19543": {
+      "title": "G4C - Games from Scratch",
+      "teaser": "Program a simple game in Scratch starting from a blank screen with Scratch code blocks.",
+      "id": 19543
+    },
+    "19693": {
+      "title": "4C - It's the Remix",
+      "teaser": "Find a fun Scratch game, and make it your own by creating a remix! Design your own characters, and background, and level up the challenge in your new version.",
+      "id": 19693
+    },
+    "19337": {
+      "title": "G4C - Impact Game Judge",
+      "teaser": "Explore several impact games. Through play, you will analyze how important global, political, and social issues are embedded into gameplay.",
+      "id": 19337
+    },
+    "19831": {
+      "title": "G4C - Grow-A-Game",
+      "teaser": "Level up to become a Impact Game Designer. Use Grow-A-Game to help develop ideas and practice applying your skills as a designer to important issues.",
+      "id": 19831
+    },
+    "19890": {
+      "title": "G4C - Scratch Impact Game",
+      "teaser": "Remix a Scratch game into an impact game about a topic of your choice. Pick a topic, research it, design a game concept and execute it using Scratch.",
+      "id": 19890
+    },
+    "20487": {
+      "title": "G4C - Final Boss: Submitting Your Game",
+      "teaser": "Submit an impact game to the G4C Student Challenge for a chance to win prizes like a $1,000 scholarship! This is the last project in the Impact Game Design course.",
+      "id": 20487
+    },
+    "21983": {
+      "title": "Invention X Nature Overview for Students: Evolved Creatures",
+      "teaser": "Invention X Nature Overview for Students: Evolved Creatures",
+      "id": 21983
+    },
+    "22324": {
+      "title": "Prototyping Journal: Evolved Creatures",
+      "teaser": "Make a journal with UV lights so that you can include doodles and thoughts privately using invisible ink.",
+      "id": 22324
+    },
+    "18754": {
+      "title": "Animatronics",
+      "teaser": "Build imaginary creatures that move using servo motors, Arduino, and flexible cardboard joints!",
+      "id": 18754
+    },
+    "18765": {
+      "title": "Plants",
+      "teaser": "Use an Arduino and servo motors to make imaginary “sensitive creatures” inspired by the way that plants move.",
+      "id": 18765
+    },
+    "21664": {
+      "title": "Cephalopods",
+      "teaser": "Create a 3D, light-up creature with bendable limbs using foam, yarn and wire!",
+      "id": 21664
+    },
+    "18770": {
+      "title": "Synthesis - Evolved Creatures",
+      "teaser": "Brainstorm, design and build your final evolved creature prototype!",
+      "id": 18770
+    },
+    "20928": {
+      "title": "Coding 1: Intro to Arduino",
+      "teaser": "Code an Arduino to interact with a servo motor.",
+      "id": 20928
+    },
+    "20933": {
+      "title": "Coding 2: Servos and Sensors",
+      "teaser": "Code an Arduino to control servo motors and an infrared sensor",
+      "id": 20933
+    },
+    "20938": {
+      "title": "Coding 3: LED Patterns",
+      "teaser": "Learn the coding concepts that will help you customize your creations in the Cephalopods Domain!",
+      "id": 20938
+    },
+    "20943": {
+      "title": "Coding 4: Pitch Follower, Sensitive Servo, and Synthesis",
+      "teaser": "Learn to code piezo microphones and control servo speed using with photoresistors.",
+      "id": 20943
+    },
+    "21987": {
+      "title": "Invention X Nature Overview for Students: Future Humans",
+      "teaser": "A walk-through of the 2019 STEM Summer in the City program for high schoolers.",
+      "id": 21987
+    },
+    "21992": {
+      "title": "Prototyping Journal: Future Humans",
+      "teaser": "Make a journal with UV lights so that you can include doodles and thoughts privately using invisible ink.",
+      "id": 21992
+    },
+    "18781": {
+      "title": "Bionics",
+      "teaser": "Use servo motors to make mechanical structures that move organically in response to your own body movements.",
+      "id": 18781
+    },
+    "21744": {
+      "title": "Chameleons",
+      "teaser": "Create a colorful responsive wearable circuit for a future human.",
+      "id": 21744
+    },
+    "18787": {
+      "title": "Bees",
+      "teaser": "Build an interactive sound-systems that give Future Humans information about movement or interactions in their surroundings.",
+      "id": 18787
+    },
+    "18797": {
+      "title": "Synthesis - Future Humans",
+      "teaser": "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
+      "id": 18797
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
