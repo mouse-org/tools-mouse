@@ -24,6 +24,7 @@
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
+    "@nuxtjs/google-analytics": "^2.2.1",
     "@nuxtjs/markdownit-loader": "^1.1.1",
     "babel-eslint": "^8.2.1",
     "eslint": "^5.0.1",

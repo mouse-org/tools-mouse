@@ -24,10 +24,13 @@
       </div>
     </ul>
 
-    <h2
+    <div
       class="alert"
-      style="display: none;"
-    />
+      style="/*display: none;*/"
+    >
+      <h3>Issue: Educators unable to change student passwords</h3>
+      <p><a href="/alert">Learn more -></a></p>
+    </div>
   </div>
 </template>
 
