@@ -13,26 +13,26 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.0.0",
-    "@nuxtjs/markdownit": "^1.2.3",
-    "body-parser": "^1.18.3",
+    "@nuxtjs/axios": "^5.8.0",
+    "@nuxtjs/markdownit": "^1.2.7",
+    "body-parser": "^1.19.0",
     "change-case": "^3.1.0",
-    "cross-env": "^5.2.0",
-    "express": "^4.16.3",
-    "lodash": "^4.17.13",
+    "cross-env": "^5.2.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
     "markdown-it": "^8.4.2",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.10.2"
   },
   "devDependencies": {
     "@nuxtjs/google-analytics": "^2.2.1",
     "@nuxtjs/markdownit-loader": "^1.1.1",
     "babel-eslint": "^8.2.1",
-    "eslint": "^5.0.1",
-    "eslint-config-prettier": "^3.1.0",
-    "eslint-loader": "^2.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^3.6.0",
+    "eslint-loader": "^2.2.1",
     "eslint-plugin-prettier": "2.6.2",
     "eslint-plugin-vue": "^4.0.0",
-    "nodemon": "^1.11.0",
+    "nodemon": "^1.19.4",
     "prettier": "1.14.3"
   },
   "engines": {
