@@ -26,10 +26,10 @@
 
     <div
       class="alert"
-      style="/*display: none;*/"
+      style="display: none;"
     >
-      <h3>Issue: Educators unable to change student passwords</h3>
-      <p><a href="/alert">Learn more -></a></p>
+      <h3></h3>
+      <p></p>
     </div>
   </div>
 </template>
