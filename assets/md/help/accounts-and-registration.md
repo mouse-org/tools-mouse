@@ -35,7 +35,7 @@ If you are a Mouse member site, but have not received your site’s Educator Cod
 
 ### Walkthrough of Youth account registration
 
-<video controls=""><source src="https://s3-us-west-2.amazonaws.com/create-production/content/Educatorcourse/mousecreate_youthregistration.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+<video controls=""><source src="https://create-production.s3-us-west-2.amazonaws.com/content/Tools-Videos/student_account_1.mp4" type="video/mp4">Your browser does not support HTML5.</video>
 
 ### Adding Additional Educators to a group
 
