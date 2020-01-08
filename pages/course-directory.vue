@@ -14,7 +14,9 @@
         >
           {{ course.course_name }}
         </h3>
-        <p>{{ course.course_description }} 
+        <p>
+          <span v-html="course.course_description" />
+          <br><br>
           <a
             :href="course.course_overview"
             target="_blank"

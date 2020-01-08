@@ -9,6 +9,7 @@ You will have access to different sets of courses depending on the type of Mouse
 - [Coding](#coding)
 - [Educator Course](#educator-course)
 - [Intro to Design](#intro-to-design)
+- [Scratch Creative Computing](#scratch-creative-computing)
 - [Video Creator](#video-creator)
 
 #### Full Membership:
@@ -20,6 +21,7 @@ Spark Membership plus:
 - [Green Tech](#green-tech)
 - [IT Admin](#it-admin)
 - [IT Essentials](#it-essentials)
+- [Scratch Creative Computing](#scratch-creative-computing)
 - [Serious Games](#serious-games)
 - [Sewable Tech](#sewable-tech)
 - [Tech Team](#tech-team)

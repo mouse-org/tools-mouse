@@ -28,8 +28,8 @@
       class="alert"
       style="display: none;"
     >
-      <h3></h3>
-      <p></p>
+      <!--<h3></h3>
+      <p></p>-->
     </div>
   </div>
 </template>

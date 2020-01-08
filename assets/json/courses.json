@@ -161,6 +161,35 @@
       ]
     },
     {
+      "course_name": "Scratch Creative Computing",
+      "course_description": "Creative Computing is a style of education that promotes student agency and creativity while learning new skills. Through the use of the coding platform Scratch students will engage in creative computing to design their own programs.<br><br>The Scratch Creative Computing projects hosted here have been adapted, edited and expanded on from the curriculum released under a Creative Commons license by the ScratchEd team at the Harvard Graduate School of Education to promote further student engagement. The original curriculum can be found at the [Harvard Graduate School of Education Creative Computing website](https://scratched.gse.harvard.edu/guide/index.html) if you choose to use it as an additional resource.",
+      "course_overview": "",
+      "projects": [
+        24235,
+        24265,
+        21037,
+        24295,
+        24415,
+        24444,
+        24473,
+        24789,
+        24818,
+        24847,
+        24876,
+        24905,
+        24934,
+        24963,
+        24992,
+        25021,
+        25050,
+        25079,
+        25108,
+        25137,
+        25166,
+        25195
+      ]
+    },
+    {
       "course_name": "Serious Games",
       "course_description": "The Serious Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
       "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",

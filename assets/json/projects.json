@@ -2,50 +2,42 @@
   "allProjects": {
     "15720": {
       "title": "Gemma M0 Goal Tracker",
-      "teaser":
- "In this project you will program a Gemma M0 to respond to pressure input and sew the circuit into your clothes!",
+      "teaser":  "In this project you will program a Gemma M0 to respond to pressure input and sew the circuit into your clothes!",
       "id": 15720
     },
     "4781": {
       "title": "What is Scratch?",
-      "teaser":
- "Investigate several different types of games to see what’s possible when creating a game in Scratch. Then look under the hood and try to match code blocks with game mechanics.",
+      "teaser":  "Investigate several different types of games to see what’s possible when creating a game in Scratch. Then look under the hood and try to match code blocks with game mechanics.",
       "id": 4781
     },
     "10455": {
       "title": "Build a House with SketchUp",
-      "teaser":
- "Sharpen your knowledge of 3D design by learning to use Trimble’s SketchUp software.",
+      "teaser":  "Sharpen your knowledge of 3D design by learning to use Trimble’s SketchUp software.",
       "id": 10455
     },
     "2418": {
       "title": "Learning Linux",
-      "teaser":
- "Install and explore the popular Linux operating system, Ubuntu and compare its features to other operating systems that you know.",
+      "teaser":  "Install and explore the popular Linux operating system, Ubuntu and compare its features to other operating systems that you know.",
       "id": 2418
     },
     "11039": {
       "title": "Sewable Superhero Cuff",
-      "teaser":
- "Sew a wristband that gives you the power to test the conductivity of your world.",
+      "teaser":  "Sew a wristband that gives you the power to test the conductivity of your world.",
       "id": 11039
     },
     "7023": {
       "title": "Creative Commons .GIF Exchange",
-      "teaser":
- "Make an animated GIF and decide how you want to share it using Creative Commons licenses.",
+      "teaser":  "Make an animated GIF and decide how you want to share it using Creative Commons licenses.",
       "id": 7023
     },
     "6477": {
       "title": "Core Mechanics",
-      "teaser":
- "Play games to get good at identifying game mechanics. Then, remix popular games to create new combinations of mechanics that change the experience.",
+      "teaser":  "Play games to get good at identifying game mechanics. Then, remix popular games to create new combinations of mechanics that change the experience.",
       "id": 6477
     },
     "2438": {
       "title": "Paper ToS",
-      "teaser":
- "Tossing away your right to privacy when joining the newest online phenomenon is easier than you might think! Learn about what rights you may be giving away when you click ‘Agree’.",
+      "teaser":  "Tossing away your right to privacy when joining the newest online phenomenon is easier than you might think! Learn about what rights you may be giving away when you click ‘Agree’.",
       "id": 2438
     },
     "12707": {
@@ -55,104 +47,87 @@
     },
     "14677": {
       "title": "Earthling Music",
-      "teaser":
- "Make a song in Soundation that represents what life is like on Earth!",
+      "teaser":  "Make a song in Soundation that represents what life is like on Earth!",
       "id": 14677
     },
     "4201": {
       "title": "Light Dimmers & Intelligent Sensors",
-      "teaser":
- "Control the resistance of an LED circuit with a dimmer (potentiometer) and a light sensor (photoresistor), seeing first hand how Ohm’s Law works.",
+      "teaser":  "Control the resistance of an LED circuit with a dimmer (potentiometer) and a light sensor (photoresistor), seeing first hand how Ohm’s Law works.",
       "id": 4201
     },
     "2289": {
       "title": "The Do It Yourself Project",
-      "teaser":
- "Create a step by step guide for a problem that you have fixed so that someone else could fix it too.",
+      "teaser":  "Create a step by step guide for a problem that you have fixed so that someone else could fix it too.",
       "id": 2289
     },
     "11787": {
       "title": "Curating Your Work",
-      "teaser":
- "Choose work for a project portfolio that best tell the story you want your audience to hear.",
+      "teaser":  "Choose work for a project portfolio that best tell the story you want your audience to hear.",
       "id": 11787
     },
     "4380": {
       "title": "Intro to the Arduino",
-      "teaser":
- "Create and program a digital blinking LED light circuit with the Arduino Microcontroller.",
+      "teaser":  "Create and program a digital blinking LED light circuit with the Arduino Microcontroller.",
       "id": 4380
     },
     "9802": {
       "title": "Educators: Awarding Badges",
-      "teaser":
- "Find out more about Mouse’s Digital Badges and how you can award them.",
+      "teaser":  "Find out more about Mouse’s Digital Badges and how you can award them.",
       "id": 9802
     },
     "10935": {
       "title": "Sew a Basic Circuit",
-      "teaser":
- "Take your first shot at making a circuit with sewable materials and learn a little about how circuits work along the way.",
+      "teaser":  "Take your first shot at making a circuit with sewable materials and learn a little about how circuits work along the way.",
       "id": 10935
     },
     "7494": {
       "title": "Designing Layout",
-      "teaser":
- "Discover how the placement of design elements can make a big difference to the message.",
+      "teaser":  "Discover how the placement of design elements can make a big difference to the message.",
       "id": 7494
     },
     "2904": {
       "title": "Hardware Everywhere",
-      "teaser":
- "Get your hands on computer guts to find out what makes the machine work.",
+      "teaser":  "Get your hands on computer guts to find out what makes the machine work.",
       "id": 2904
     },
     "16590": {
       "title": "Take Your Shot",
-      "teaser":
- "Learn basic shot and composition techniques so you can create images that illustrate a feeling and document the stories around you.",
+      "teaser":  "Learn basic shot and composition techniques so you can create images that illustrate a feeling and document the stories around you.",
       "id": 16590
     },
     "10645": {
       "title": "Design a Keychain with SketchUp",
-      "teaser":
- "Sharpen your knowledge of 3D design by learning to use Trimble’s SketchUp Make Software.",
+      "teaser":  "Sharpen your knowledge of 3D design by learning to use Trimble’s SketchUp Make Software.",
       "id": 10645
     },
     "5558": {
       "title": "Found Object Game",
-      "teaser":
- "Test your Game Making skills! Design your own Found Object Game with unique goals, mechanics and more.",
+      "teaser":  "Test your Game Making skills! Design your own Found Object Game with unique goals, mechanics and more.",
       "id": 5558
     },
     "7256": {
       "title": "Design Observation",
-      "teaser":
- "Spot opportunities for design everywhere you look by sharpening your observation skills!",
+      "teaser":  "Spot opportunities for design everywhere you look by sharpening your observation skills!",
       "id": 7256
     },
     "16219": {
       "title": "DIY Operation",
-      "teaser":
- "Create your own version of the game Operation with easy to find materials!",
+      "teaser":  "Create your own version of the game Operation with easy to find materials!",
       "id": 16219
     },
     "3500": {
       "title": "Scratch Serious Game",
-      "teaser":
- "Remix a Scratch game into a serious game about a topic of your choice. Pick a topic, research it, design a game concept and execute it using Scratch.",
+      "teaser":  "Remix a Scratch game into a serious game about a topic of your choice. Pick a topic, research it, design a game concept and execute it using Scratch.",
       "id": 3500
     },
     "3782": {
       "title": "Network Design Challenge",
-      "teaser":
- "Connect the dots between routers, switches, laptops and other random devices to design a fully connected network!",
+      "teaser":  "Connect the dots between routers, switches, laptops and other random devices to design a fully connected network!",
       "id": 3782
     },
     "11320": {
       "title": "Fabric Push Button",
-      "teaser":
- "Build your own push button out of conductive fabric for a fun, squishy way to control your circuit.",
+      "teaser":  "Build your own push button out of conductive fabric for a fun, squishy way to control your circuit.",
       "id": 11320
     },
     "9663": {
@@ -162,26 +137,22 @@
     },
     "9266": {
       "title": "Educators: All about Mouse Create",
-      "teaser":
- "Are you an educator getting started on Mouse Create? Learn how to use Mouse Projects and tools here.",
+      "teaser":  "Are you an educator getting started on Mouse Create? Learn how to use Mouse Projects and tools here.",
       "id": 9266
     },
     "17547": {
       "title": "How to Use a Multimeter",
-      "teaser":
- "Learn how to use this essential tool to measure electricity, test batteries and check for continuity in a circuit.",
+      "teaser":  "Learn how to use this essential tool to measure electricity, test batteries and check for continuity in a circuit.",
       "id": 17547
     },
     "2768": {
       "title": "The Serious Gamer",
-      "teaser":
- "Explore several serious games. Through play, you will analyze how serious global, political, and social issues are embedded into gameplay.",
+      "teaser":  "Explore several serious games. Through play, you will analyze how serious global, political, and social issues are embedded into gameplay.",
       "id": 2768
     },
     "6070": {
       "title": "Design a Better World",
-      "teaser":
- "Make hundreds of sandwiches in 30 mins with lots of ridiculous rules to make it fun. This project connects design to its most critical purpose & brings teams together.",
+      "teaser":  "Make hundreds of sandwiches in 30 mins with lots of ridiculous rules to make it fun. This project connects design to its most critical purpose & brings teams together.",
       "id": 6070
     },
     "16304": {
@@ -191,44 +162,37 @@
     },
     "8879": {
       "title": "Drawing in 3D",
-      "teaser":
- "Take your designs to the next level by transforming them in 3D! Learn the basics in this activity.",
+      "teaser":  "Take your designs to the next level by transforming them in 3D! Learn the basics in this activity.",
       "id": 8879
     },
     "11874": {
       "title": "UX/UI Design",
-      "teaser":
- "Design with understanding of how User Experience (UX) and User Interface (UI) create user-friendly and attractive websites.",
+      "teaser":  "Design with understanding of how User Experience (UX) and User Interface (UI) create user-friendly and attractive websites.",
       "id": 11874
     },
     "7697": {
       "title": "HTML & CSS Relay",
-      "teaser":
- "Compete in teams to be the first to finish remixing the content, HTML code and CSS styles of a webpage on Thimble.",
+      "teaser":  "Compete in teams to be the first to finish remixing the content, HTML code and CSS styles of a webpage on Thimble.",
       "id": 7697
     },
     "9479": {
       "title": "Model Something Real in CAD",
-      "teaser":
- "Level-up your CAD software skills by modeling real-world objects in the digital realm.",
+      "teaser":  "Level-up your CAD software skills by modeling real-world objects in the digital realm.",
       "id": 9479
     },
     "6991": {
       "title": "Empathy & Assistive Tech",
-      "teaser":
- "​Experience through simulations how empathy makes it possible to design things for other people, including people with disabilities.​",
+      "teaser":  "​Experience through simulations how empathy makes it possible to design things for other people, including people with disabilities.​",
       "id": 6991
     },
     "9149": {
       "title": "Moving to the CAD World",
-      "teaser":
- "Enter a whole new dimension by turning flat 2D shapes into digital 3D objects!",
+      "teaser":  "Enter a whole new dimension by turning flat 2D shapes into digital 3D objects!",
       "id": 9149
     },
     "5046": {
       "title": "Design your own Digital Circuit",
-      "teaser":
- "​Design an original Arduino circuit, with a blueprint and parts list.",
+      "teaser":  "​Design an original Arduino circuit, with a blueprint and parts list.",
       "id": 5046
     },
     "17298": {
@@ -238,44 +202,37 @@
     },
     "8219": {
       "title": "Design Story",
-      "teaser":
- "Engage audiences by telling a strong design story featuring great documentation.",
+      "teaser":  "Engage audiences by telling a strong design story featuring great documentation.",
       "id": 8219
     },
     "7841": {
       "title": "Playtesting",
-      "teaser":
- "Design a quick ‘race-to-the-end’ game with a friend while you build the key design skill of playtesting.",
+      "teaser":  "Design a quick ‘race-to-the-end’ game with a friend while you build the key design skill of playtesting.",
       "id": 7841
     },
     "12188": {
       "title": "Telling the Story of Your Success",
-      "teaser":
- "Develop skills and habits that make documenting and demonstrating work part of the creative process.",
+      "teaser":  "Develop skills and habits that make documenting and demonstrating work part of the creative process.",
       "id": 12188
     },
     "14468": {
       "title": "Physical Computing with Raspberry Pi",
-      "teaser":
- "Create and program a digital blinking LED light circuit with the Raspberry Pi.",
+      "teaser":  "Create and program a digital blinking LED light circuit with the Raspberry Pi.",
       "id": 14468
     },
     "11208": {
       "title": "RGB Color Mixer",
-      "teaser":
- "Sew a color changeable circuit and create a light show in for your friends!",
+      "teaser":  "Sew a color changeable circuit and create a light show in for your friends!",
       "id": 11208
     },
     "237": {
       "title": "Become Action Heroes",
-      "teaser":
- "Bring your energy-saving ideas to life with a plan to lower your site’s carbon footprint.",
+      "teaser":  "Bring your energy-saving ideas to life with a plan to lower your site’s carbon footprint.",
       "id": 237
     },
     "2499": {
       "title": "Password Round Robin",
-      "teaser":
- "Play a game to defend yourself against bots and identity thieves by creating an uncrackable password!",
+      "teaser":  "Play a game to defend yourself against bots and identity thieves by creating an uncrackable password!",
       "id": 2499
     },
     "260": {
@@ -285,128 +242,107 @@
     },
     "8263": {
       "title": "Pick a Palette",
-      "teaser":
- "Learn how to pick good color schemes that all audiences can appreciate, and how to change color schemes on websites in this follow-up to the Meet the Color Wheel activity.",
+      "teaser":  "Learn how to pick good color schemes that all audiences can appreciate, and how to change color schemes on websites in this follow-up to the Meet the Color Wheel activity.",
       "id": 8263
     },
     "15826": {
       "title": "Restart Party",
-      "teaser":
- "Flex your fix-it skills at a fun, drop-in event where you and community members fix or upgrade electronics together.",
+      "teaser":  "Flex your fix-it skills at a fun, drop-in event where you and community members fix or upgrade electronics together.",
       "id": 15826
     },
     "5548": {
       "title": "Talk like a Fixer",
-      "teaser":
- "Talk like a pro when you help other people work through technical problems. Practice asking the right questions and identifying another person’s level of experience.",
+      "teaser":  "Talk like a pro when you help other people work through technical problems. Practice asking the right questions and identifying another person’s level of experience.",
       "id": 5548
     },
     "15484": {
       "title": "Intro to Gemma M0",
-      "teaser":
- "Learn about the Gemma M0: a small sewable microcontroller board, that will allow you to code behavior into your wearable projects!",
+      "teaser":  "Learn about the Gemma M0: a small sewable microcontroller board, that will allow you to code behavior into your wearable projects!",
       "id": 15484
     },
     "8289": {
       "title": "Rules of Brainstorming",
-      "teaser":
- "Practice the professional process of brainstorming once your research and problem identification are complete.",
+      "teaser":  "Practice the professional process of brainstorming once your research and problem identification are complete.",
       "id": 8289
     },
     "5000": {
       "title": "Build your own Digital Circuit",
-      "teaser":
- "Turn an original idea into a real digital circuit prototype by building and testing and improving over several iterations.",
+      "teaser":  "Turn an original idea into a real digital circuit prototype by building and testing and improving over several iterations.",
       "id": 5000
     },
     "2451": {
       "title": "The Internet is a Live Mic",
-      "teaser":
- "Explore the legacy you leave online by examining what your digital activity says about you.",
+      "teaser":  "Explore the legacy you leave online by examining what your digital activity says about you.",
       "id": 2451
     },
     "7058": {
       "title": "Interviewer Strategies",
-      "teaser":
- "Practice interview techniques to learn how designers identify their users’ needs.",
+      "teaser":  "Practice interview techniques to learn how designers identify their users’ needs.",
       "id": 7058
     },
     "7382": {
       "title": "Hello World",
-      "teaser":
- "Write code in many different languages, find out what makes one programming language different from another.",
+      "teaser":  "Write code in many different languages, find out what makes one programming language different from another.",
       "id": 7382
     },
     "5267": {
       "title": "Software 101",
-      "teaser":
- "Explore the basics of computer programs like file extensions, installation and uninstallation.",
+      "teaser":  "Explore the basics of computer programs like file extensions, installation and uninstallation.",
       "id": 5267
     },
     "1935": {
       "title": "Hack the News",
-      "teaser":
- "Hack the code on the homepage of your favorite news site to tell a fun or thought-provoking story.",
+      "teaser":  "Hack the code on the homepage of your favorite news site to tell a fun or thought-provoking story.",
       "id": 1935
     },
     "2508": {
       "title": "Help Desk Superhero",
-      "teaser":
- "Put a ticket tracking system to the test by writing Hollywood-inspired help desk tickets.",
+      "teaser":  "Put a ticket tracking system to the test by writing Hollywood-inspired help desk tickets.",
       "id": 2508
     },
     "6144": {
       "title": "Kraken the Code",
-      "teaser":
- "Hone your inner Truth Detective by learning how to tell the difference between legitimate information online and stuff that’s unreliable.",
+      "teaser":  "Hone your inner Truth Detective by learning how to tell the difference between legitimate information online and stuff that’s unreliable.",
       "id": 6144
     },
     "6210": {
       "title": "Intro to Game Design",
-      "teaser":
- "Discover what games are made of, what a Game Designer is and hack a game.",
+      "teaser":  "Discover what games are made of, what a Game Designer is and hack a game.",
       "id": 6210
     },
     "6343": {
       "title": "I is for Input",
-      "teaser":
- "Reflect on all ways that computers accept our input beyond keyboards and mice, then invent your own device that lets you communicate in an all new way.",
+      "teaser":  "Reflect on all ways that computers accept our input beyond keyboards and mice, then invent your own device that lets you communicate in an all new way.",
       "id": 6343
     },
     "3996": {
       "title": "Building with a Breadboard",
-      "teaser":
- "Build a circuit that lights up with the push of a button while learning how to use a breadboard.",
+      "teaser":  "Build a circuit that lights up with the push of a button while learning how to use a breadboard.",
       "id": 3996
     },
     "7629": {
       "title": "Interviewing Target Users",
-      "teaser":
- "Lead interviews with users, taking observations and notes to find unique design opportunities.",
+      "teaser":  "Lead interviews with users, taking observations and notes to find unique design opportunities.",
       "id": 7629
     },
     "5194": {
       "title": "PSA: Be Professional",
-      "teaser":
- "Create a PSA (Public Service Announcement) that demonstrates the do’s and don’ts of professional etiquette.",
+      "teaser":  "Create a PSA (Public Service Announcement) that demonstrates the do’s and don’ts of professional etiquette.",
       "id": 5194
     },
     "2458": {
       "title": "Malware Avengers",
-      "teaser":
- "Fight malicious computer villains with malware-fighting super powers!",
+      "teaser":  "Fight malicious computer villains with malware-fighting super powers!",
       "id": 2458
     },
     "17075": {
       "title": "Make a Movie Trailer",
-      "teaser":
- "Use what you know about shots, storyboarding, sound recording, and editing, to create your own film trailer.",
+      "teaser":  "Use what you know about shots, storyboarding, sound recording, and editing, to create your own film trailer.",
       "id": 17075
     },
     "11473": {
       "title": "DIY Bend Sensor",
-      "teaser":
- "Control circuits with a bendable made of fabric and flexible conductive materials.",
+      "teaser":  "Control circuits with a bendable made of fabric and flexible conductive materials.",
       "id": 11473
     },
     "5786": {
@@ -416,38 +352,32 @@
     },
     "8088": {
       "title": "Paper Prototyping",
-      "teaser":
- "Experiment with paper prototyping by reverse-engineering everyday objects to get a glimpse into how they were designed.",
+      "teaser":  "Experiment with paper prototyping by reverse-engineering everyday objects to get a glimpse into how they were designed.",
       "id": 8088
     },
     "7180": {
       "title": "User Personas",
-      "teaser":
- "Create a detailed profile called a User Persona to help you come up with ideas that address a group’s needs, life experience and motivations.",
+      "teaser":  "Create a detailed profile called a User Persona to help you come up with ideas that address a group’s needs, life experience and motivations.",
       "id": 7180
     },
     "8757": {
       "title": "*Mouse Create Scavenger Hunt*",
-      "teaser":
- "ATTN NEW MEMBERS: Get to know the projects and features on Mouse Create with a quick scavenger hunt challenge.",
+      "teaser":  "ATTN NEW MEMBERS: Get to know the projects and features on Mouse Create with a quick scavenger hunt challenge.",
       "id": 8757
     },
     "6507": {
       "title": "Awkward! Dealing with Strangers Online",
-      "teaser":
- "Keeping online interactions positive and safe is important for everyone. Identify opportunities to connect with new people and filter out the shady characters.",
+      "teaser":  "Keeping online interactions positive and safe is important for everyone. Identify opportunities to connect with new people and filter out the shady characters.",
       "id": 6507
     },
     "6269": {
       "title": "People Programming",
-      "teaser":
- "Searching for information on the web is easy, but could you write down every step you take along the way? Challenge yourself to do some “people programming” and find out.",
+      "teaser":  "Searching for information on the web is easy, but could you write down every step you take along the way? Challenge yourself to do some “people programming” and find out.",
       "id": 6269
     },
     "8738": {
       "title": "Basic Elements of 3D Shapes",
-      "teaser":
- "Learn what 3D designers think about when designing things for real-life, game worlds or animation!",
+      "teaser":  "Learn what 3D designers think about when designing things for real-life, game worlds or animation!",
       "id": 8738
     },
     "2017": {
@@ -457,26 +387,22 @@
     },
     "195": {
       "title": "Energy Sleuths",
-      "teaser":
- "Measure electricity usage and run experiments using the Green Tech Lab App to figure out ways to lower your carbon footprint!",
+      "teaser":  "Measure electricity usage and run experiments using the Green Tech Lab App to figure out ways to lower your carbon footprint!",
       "id": 195
     },
     "1815": {
       "title": "Hardware Go Fish",
-      "teaser":
- "Learn what it takes to design your dream computer, whether you are a gamer, a designer or a student on the go, in this competitive card game!",
+      "teaser":  "Learn what it takes to design your dream computer, whether you are a gamer, a designer or a student on the go, in this competitive card game!",
       "id": 1815
     },
     "3220": {
       "title": "Social Network Sort",
-      "teaser":
- "Make good choices about posting to social media sites. Consider what is appropriate, and manage settings to protect your privacy.",
+      "teaser":  "Make good choices about posting to social media sites. Consider what is appropriate, and manage settings to protect your privacy.",
       "id": 3220
     },
     "5554": {
       "title": "Teamwork: The Mill Game",
-      "teaser":
- "Get to know your team while completing this series of fun and increasingly elaborate challenges!",
+      "teaser":  "Get to know your team while completing this series of fun and increasingly elaborate challenges!",
       "id": 5554
     },
     "2348": {
@@ -486,188 +412,157 @@
     },
     "8317": {
       "title": "Framing Questions",
-      "teaser":
- "Learn how to frame your design challenges with How Might We Questions in order to achieve the most from brainstorms.",
+      "teaser":  "Learn how to frame your design challenges with How Might We Questions in order to achieve the most from brainstorms.",
       "id": 8317
     },
     "7864": {
       "title": "JavaScript Generator",
-      "teaser":
- "Remix JavaScript code using Thimble to make and share a randomized words generator.",
+      "teaser":  "Remix JavaScript code using Thimble to make and share a randomized words generator.",
       "id": 7864
     },
     "12934": {
       "title": "Alternate Reality",
-      "teaser":
- "Code a choose-your-own-adventure story with Mozilla Thimble and Javascript.",
+      "teaser":  "Code a choose-your-own-adventure story with Mozilla Thimble and Javascript.",
       "id": 12934
     },
     "5667": {
       "title": "Design a Mobile App",
-      "teaser":
- "Explore how mobile apps are designed with the sensors and hardware that give them special powers, critique your favorite apps and then design one of your own!",
+      "teaser":  "Explore how mobile apps are designed with the sensors and hardware that give them special powers, critique your favorite apps and then design one of your own!",
       "id": 5667
     },
     "2218": {
       "title": "OS for All",
-      "teaser":
- "Configure operating systems to give all users equal access. Explore different abilities & the adjustments in desktop & mobile devices.",
+      "teaser":  "Configure operating systems to give all users equal access. Explore different abilities & the adjustments in desktop & mobile devices.",
       "id": 2218
     },
     "3714": {
       "title": "JavaScript Takeover",
-      "teaser":
- "Transform the web with your own pictures by remixing a JavaScript bookmarklet using Mozilla Thimble.",
+      "teaser":  "Transform the web with your own pictures by remixing a JavaScript bookmarklet using Mozilla Thimble.",
       "id": 3714
     },
     "6858": {
       "title": "Ad Battle",
-      "teaser":
- "Play a game to learn how ads appear on websites, and how they track our web behavior.",
+      "teaser":  "Play a game to learn how ads appear on websites, and how they track our web behavior.",
       "id": 6858
     },
     "13335": {
       "title": "Unity Lander 2",
-      "teaser":
- "Create a fun physics-based game using Unity. No coding required, the final project of the Unity Lander series!",
+      "teaser":  "Create a fun physics-based game using Unity. No coding required, the final project of the Unity Lander series!",
       "id": 13335
     },
     "4114": {
       "title": "Setting Up a Ticket Tracking System",
-      "teaser":
- "Set up your own ticket tracking system and implement it for your group’s help desk.",
+      "teaser":  "Set up your own ticket tracking system and implement it for your group’s help desk.",
       "id": 4114
     },
     "4920": {
       "title": "LED Light Chaser",
-      "teaser":
- "Program an Arduino microcontroller to make an LED light show and edit the code to come up with your own light designs.",
+      "teaser":  "Program an Arduino microcontroller to make an LED light show and edit the code to come up with your own light designs.",
       "id": 4920
     },
     "5509": {
       "title": "It’s the Remix",
-      "teaser":
- "Find a fun Scratch game, and make it your own by creating a remix! Design your own characters, and background, and level up the challenge in your new version.",
+      "teaser":  "Find a fun Scratch game, and make it your own by creating a remix! Design your own characters, and background, and level up the challenge in your new version.",
       "id": 5509
     },
     "3917": {
       "title": "Once Upon a Google Doc",
-      "teaser":
- "Write a crazy team story and then edit it together at the same time using Google Docs.",
+      "teaser":  "Write a crazy team story and then edit it together at the same time using Google Docs.",
       "id": 3917
     },
     "249": {
       "title": "Launch a Green Media Campaign",
-      "teaser":
- "Create original media for a campaign about saving energy in your community.",
+      "teaser":  "Create original media for a campaign about saving energy in your community.",
       "id": 249
     },
     "44": {
       "title": "DIY Generator",
-      "teaser":
- "Create an electric current with just a wire coil and a magnet. In this project, you’ll light a human-powered LED!",
+      "teaser":  "Create an electric current with just a wire coil and a magnet. In this project, you’ll light a human-powered LED!",
       "id": 44
     },
     "8540": {
       "title": "Typography: Designing Fonts",
-      "teaser":
- "Design your own font and find out why they’re so important to design!",
+      "teaser":  "Design your own font and find out why they’re so important to design!",
       "id": 8540
     },
     "16895": {
       "title": "Making Meaning with Images",
-      "teaser":
- "View and interpret how visual texts are structured to communicate meaning and emotion.",
+      "teaser":  "View and interpret how visual texts are structured to communicate meaning and emotion.",
       "id": 16895
     },
     "3099": {
       "title": "Grow-A-Game",
-      "teaser":
- "Use Grow-A-Game to help develop ideas and practice applying your skills as a designer to serious issues..",
+      "teaser":  "Use Grow-A-Game to help develop ideas and practice applying your skills as a designer to serious issues..",
       "id": 3099
     },
     "1874": {
       "title": "Design is Everywhere",
-      "teaser":
- "Explore the world through the eyes of a designer. Learn the fundamentals of design, and make choices about what makes design more or less successful.",
+      "teaser":  "Explore the world through the eyes of a designer. Learn the fundamentals of design, and make choices about what makes design more or less successful.",
       "id": 1874
     },
     "13263": {
       "title": "Unity Lander 1",
-      "teaser":
- "Get started with Unity, professional game development software. Play a Moon Lander game and create your own unique level for it.",
+      "teaser":  "Get started with Unity, professional game development software. Play a Moon Lander game and create your own unique level for it.",
       "id": 13263
     },
     "7769": {
       "title": "Aspirational Avatar",
-      "teaser":
- "Create an avatar for your profile that that represents the person you want to be in a year!",
+      "teaser":  "Create an avatar for your profile that that represents the person you want to be in a year!",
       "id": 7769
     },
     "2477": {
       "title": "Phish Market",
-      "teaser":
- "Learn to identify and avoid digital phishing attacks by making up your own and attempting to fool other participants into thinking they’re real.",
+      "teaser":  "Learn to identify and avoid digital phishing attacks by making up your own and attempting to fool other participants into thinking they’re real.",
       "id": 2477
     },
     "11078": {
       "title": "Sew a Tech Case",
-      "teaser":
- "Get familiar with sewing terms, supplies, and techniques while making a handy tech-storage case for yourself.",
+      "teaser":  "Get familiar with sewing terms, supplies, and techniques while making a handy tech-storage case for yourself.",
       "id": 11078
     },
     "11939": {
       "title": "Information Architecture",
-      "teaser":
- "Use information architecture to make finding, uploading and sharing your stuff fast and simple.",
+      "teaser":  "Use information architecture to make finding, uploading and sharing your stuff fast and simple.",
       "id": 11939
     },
     "5293": {
       "title": "Games from Scratch",
-      "teaser":
- "Program a simple game in Scratch starting from a blank screen with Scratch code blocks.",
+      "teaser":  "Program a simple game in Scratch starting from a blank screen with Scratch code blocks.",
       "id": 5293
     },
     "4747": {
       "title": "Reverse Engineering",
-      "teaser":
- "Break things with confidence! Learn the essential steps of reverse-engineering by deconstructing and documenting the inner-workings of everyday objects.",
+      "teaser":  "Break things with confidence! Learn the essential steps of reverse-engineering by deconstructing and documenting the inner-workings of everyday objects.",
       "id": 4747
     },
     "15247": {
       "title": "Raspberry Pi Sound Machine",
-      "teaser":
- "Build and code a music-playing circuit with a Raspberry Pi, then remix the code to turn it into an alarm system.",
+      "teaser":  "Build and code a music-playing circuit with a Raspberry Pi, then remix the code to turn it into an alarm system.",
       "id": 15247
     },
     "4254": {
       "title": "Goals, Obstacles & Chance",
-      "teaser":
- "Explore the importance of goals, obstacles, and chance in designing games. Through game play and design see how these elements make a game more or less challenging, engaging and fun",
+      "teaser":  "Explore the importance of goals, obstacles, and chance in designing games. Through game play and design see how these elements make a game more or less challenging, engaging and fun",
       "id": 4254
     },
     "3018": {
       "title": "Ping Kong",
-      "teaser":
- "Pretend to be data packets traveling from a computer to the internet in a fun obstacle course. Then, use ping and tracert in the command line.",
+      "teaser":  "Pretend to be data packets traveling from a computer to the internet in a fun obstacle course. Then, use ping and tracert in the command line.",
       "id": 3018
     },
     "8104": {
       "title": "Meet the Color Wheel",
-      "teaser":
- "Start learning about color and how designers use it to attract audiences.",
+      "teaser":  "Start learning about color and how designers use it to attract audiences.",
       "id": 8104
     },
     "16730": {
       "title": "Drawing a Great Story",
-      "teaser":
- "Plan and prepare a story with structure then turn it into a storyboard to bring it to life!",
+      "teaser":  "Plan and prepare a story with structure then turn it into a storyboard to bring it to life!",
       "id": 16730
     },
     "11238": {
       "title": "Sew an LED Snap Circuit",
-      "teaser":
- "Embed an interactive circuit into your tech case that turns on and off with the snap of a button.",
+      "teaser":  "Embed an interactive circuit into your tech case that turns on and off with the snap of a button.",
       "id": 11238
     },
     "13798": {
@@ -677,26 +572,22 @@
     },
     "7968": {
       "title": "Synthesizing Interviews",
-      "teaser":
- "Organize your interview notes to find themes that will help you brainstorm great ideas!",
+      "teaser":  "Organize your interview notes to find themes that will help you brainstorm great ideas!",
       "id": 7968
     },
     "17703": {
       "title": "*BrainPOP Creative Coding Microproject",
-      "teaser":
- "Use BrainPOP’s Creative Coding with Vidcode to design a comic or a meme.",
+      "teaser":  "Use BrainPOP’s Creative Coding with Vidcode to design a comic or a meme.",
       "id": 17703
     },
     "11846": {
       "title": "What is a Portfolio?",
-      "teaser":
- "Learn how you can show off all the different, amazing things you’ve accomplished in this introduction to digital portfolios.",
+      "teaser":  "Learn how you can show off all the different, amazing things you’ve accomplished in this introduction to digital portfolios.",
       "id": 11846
     },
     "5745": {
       "title": "OS Design",
-      "teaser":
- "Dive quickly into the roots of modern operating systems by comparing common features. Then mock up the home screen of your own system using simple prototyping tools.",
+      "teaser":  "Dive quickly into the roots of modern operating systems by comparing common features. Then mock up the home screen of your own system using simple prototyping tools.",
       "id": 5745
     },
     "10218": {
@@ -716,32 +607,27 @@
     },
     "15326": {
       "title": "Raspberry Pi Nightlight",
-      "teaser":
- "Build a digital nightlight with a Raspberry Pi and write a program that reads and processes light data from an analog photoresistor.",
+      "teaser":  "Build a digital nightlight with a Raspberry Pi and write a program that reads and processes light data from an analog photoresistor.",
       "id": 15326
     },
     "8971": {
       "title": "You’ve Got the Power",
-      "teaser":
- "Master the power of power! Get to know how we make electricity and how it gets to our communities.",
+      "teaser":  "Master the power of power! Get to know how we make electricity and how it gets to our communities.",
       "id": 8971
     },
     "16812": {
       "title": "Getting Good Sound",
-      "teaser":
- "Learn how to choose an appropriate setting for audio recording with your phone or computer.",
+      "teaser":  "Learn how to choose an appropriate setting for audio recording with your phone or computer.",
       "id": 16812
     },
     "6859": {
       "title": "Arduino Nightlight",
-      "teaser":
- "Build a digital nightlight with an Arduino and write a program that reads and processes light data from an analog photoresistor.",
+      "teaser":  "Build a digital nightlight with an Arduino and write a program that reads and processes light data from an analog photoresistor.",
       "id": 6859
     },
     "15456": {
       "title": "Raspberry Pi LED Light Chaser",
-      "teaser":
- "Program a Raspberry Pi to make an LED light show and edit the code to come up with your own light designs.",
+      "teaser":  "Program a Raspberry Pi to make an LED light show and edit the code to come up with your own light designs.",
       "id": 15456
     },
     "10102": {
@@ -751,62 +637,52 @@
     },
     "3142": {
       "title": "Ports & Connections",
-      "teaser":
- "Learn what all those cables that came with your laptop are for and how to connect them.",
+      "teaser":  "Learn what all those cables that came with your laptop are for and how to connect them.",
       "id": 3142
     },
     "1769": {
       "title": "The Leadership Wheel",
-      "teaser":
- "Rethink your ideas about what makes a good leader and discover your own leadership style.",
+      "teaser":  "Rethink your ideas about what makes a good leader and discover your own leadership style.",
       "id": 1769
     },
     "9842": {
       "title": "Educators: Planning the Year",
-      "teaser":
- "Customize your plan for the year by thinking about your site, learners, and resources!",
+      "teaser":  "Customize your plan for the year by thinking about your site, learners, and resources!",
       "id": 9842
     },
     "10333": {
       "title": "Write the Future",
-      "teaser":
- "Learn to use inkewriter to create a digital Choose Your Own Adventure-style game while thinking about how Earth supports life.",
+      "teaser":  "Learn to use inkewriter to create a digital Choose Your Own Adventure-style game while thinking about how Earth supports life.",
       "id": 10333
     },
     "4397": {
       "title": "Transistor Nightlight",
-      "teaser":
- "Make a circuit with a transistor that turns an LED light on when it is dark.",
+      "teaser":  "Make a circuit with a transistor that turns an LED light on when it is dark.",
       "id": 4397
     },
     "105": {
       "title": "Testing Turbines",
-      "teaser":
- "Design and build your own mini turbine out of everyday classroom materials.",
+      "teaser":  "Design and build your own mini turbine out of everyday classroom materials.",
       "id": 105
     },
     "2093": {
       "title": "Light-up Creature",
-      "teaser":
- "Create an LED light-up creature to learn how simple circuits work.",
+      "teaser":  "Create an LED light-up creature to learn how simple circuits work.",
       "id": 2093
     },
     "4586": {
       "title": "JavaScript Chatbot",
-      "teaser":
- "Have you ever wondered how robots are programmed to talk? Here’s a chance to try it out, with this simple Thimble Chatbot!",
+      "teaser":  "Have you ever wondered how robots are programmed to talk? Here’s a chance to try it out, with this simple Thimble Chatbot!",
       "id": 4586
     },
     "2488": {
       "title": "The Human Circuit",
-      "teaser":
- "Discover how electricity flows in a circuit using your own body’s conductivity.",
+      "teaser":  "Discover how electricity flows in a circuit using your own body’s conductivity.",
       "id": 2488
     },
     "5158": {
       "title": "Say Yes to the IP Address",
-      "teaser":
- "Create a map that shows how data travels between you and your favorite website, exploring network addressing, TCP/IP and DNS along the way.",
+      "teaser":  "Create a map that shows how data travels between you and your favorite website, exploring network addressing, TCP/IP and DNS along the way.",
       "id": 5158
     },
     "14082": {
@@ -816,44 +692,37 @@
     },
     "134": {
       "title": "Hacking for a Sustainable Future",
-      "teaser":
- "Hack an HTML story with your knowledge of renewable energy to save a city from disaster.",
+      "teaser":  "Hack an HTML story with your knowledge of renewable energy to save a city from disaster.",
       "id": 134
     },
     "5573": {
       "title": "Human-Centered Design",
-      "teaser":
- "Discover how professional design teams come up with innovative ideas that are inspired by real people with real needs.",
+      "teaser":  "Discover how professional design teams come up with innovative ideas that are inspired by real people with real needs.",
       "id": 5573
     },
     "6813": {
       "title": "Design in a Bag",
-      "teaser":
- "Turn a design challenge and bag of random items into a rapid prototype.",
+      "teaser":  "Turn a design challenge and bag of random items into a rapid prototype.",
       "id": 6813
     },
     "5996": {
       "title": "Make a Simple Website with Thimble",
-      "teaser":
- "Make a simple and publish a simple website with Mozilla’s Thimble tool.",
+      "teaser":  "Make a simple and publish a simple website with Mozilla’s Thimble tool.",
       "id": 5996
     },
     "18820": {
       "title": "Make a Simple Website with Glitch",
-      "teaser":
- "Make and publish a simple website using Glitch.",
+      "teaser":  "Make and publish a simple website using Glitch.",
       "id": 18820
     },
     "11680": {
       "title": "LilyPad Goal Tracker",
-      "teaser":
- "In this project you will program a LilyPad to respond to pressure input and sew the circuit into your clothes!",
+      "teaser":  "In this project you will program a LilyPad to respond to pressure input and sew the circuit into your clothes!",
       "id": 11680
     },
     "12118": {
       "title": "Bringing Your Portfolio to Life",
-      "teaser":
- "Apply project documentation skills and knowledge by completing a first version of a completed digital portfolio.",
+      "teaser":  "Apply project documentation skills and knowledge by completing a first version of a completed digital portfolio.",
       "id": 12118
     },
     "9914": {
@@ -863,14 +732,12 @@
     },
     "11772": {
       "title": "A.I. Avatar",
-      "teaser":
- "Use Auto Draw to create an avatar that represents your technology goals for the year.",
+      "teaser":  "Use Auto Draw to create an avatar that represents your technology goals for the year.",
       "id": 11772
     },
     "3855": {
       "title": "My Name is URL",
-      "teaser":
- "Discover what happens behind the curtain when you type www.something.com into your web browser.",
+      "teaser":  "Discover what happens behind the curtain when you type www.something.com into your web browser.",
       "id": 3855
     },
     "6021": {
@@ -880,38 +747,32 @@
     },
     "2150": {
       "title": "Text Your Computer: Use the Command Line",
-      "teaser":
- "Use the command line interface to do basic tasks like creating or editing text files.",
+      "teaser":  "Use the command line interface to do basic tasks like creating or editing text files.",
       "id": 2150
     },
     "3443": {
       "title": "Internet of Things",
-      "teaser":
- "Unleash your inner inventor by reimagining any object in the room as a “smart device.”",
+      "teaser":  "Unleash your inner inventor by reimagining any object in the room as a “smart device.”",
       "id": 3443
     },
     "3537": {
       "title": "The Mousemallow Challenge",
-      "teaser":
- "Discover new definitions of failure and success while building a tower of marshmallows!",
+      "teaser": "Discover new definitions of failure and success while building a tower of marshmallows!",
       "id": 3537
     },
     "11565": {
       "title": "Intro to the LilyPad Arduino USB",
-      "teaser":
- "Use the LilyPad sewable microcontroller board to code behavior into your wearable tech projects!",
+      "teaser": "Use the LilyPad sewable microcontroller board to code behavior into your wearable tech projects!",
       "id": 11565
     },
     "7298": {
       "title": "Basic Elements of Graphic Design",
-      "teaser":
- "Take the first step towards becoming a great graphic designer by learning the basics!",
+      "teaser": "Take the first step towards becoming a great graphic designer by learning the basics!",
       "id": 7298
     },
     "176": {
       "title": "Battery Builder",
-      "teaser":
- "Build your own battery from common materials and see who can generate the most power!",
+      "teaser": "Build your own battery from common materials and see who can generate the most power!",
       "id": 176
     },
     "12465": {
@@ -921,20 +782,17 @@
     },
     "8569": {
       "title": "Iterations & Feedback",
-      "teaser":
- "Create and document 3 increasingly technical iterations of a design prototype incorporating feedback from users.",
+      "teaser": "Create and document 3 increasingly technical iterations of a design prototype incorporating feedback from users.",
       "id": 8569
     },
     "18770": {
       "title": "Synthesis - Evolved Creatures",
-      "teaser":
- "Brainstorm, design and build your final evolved creature prototype!",
+      "teaser": "Brainstorm, design and build your final evolved creature prototype!",
       "id": 18770
     },
     "18797": {
       "title": "Synthesis - Future Humans",
-      "teaser":
- "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
+      "teaser": "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
       "id": 18797
     },
     "21066": {
@@ -1072,11 +930,6 @@
       "teaser": "Create a 3D, light-up creature with bendable limbs using foam, yarn and wire!",
       "id": 21664
     },
-    "18770": {
-      "title": "Synthesis - Evolved Creatures",
-      "teaser": "Brainstorm, design and build your final evolved creature prototype!",
-      "id": 18770
-    },
     "20928": {
       "title": "Coding 1: Intro to Arduino",
       "teaser": "Code an Arduino to interact with a servo motor.",
@@ -1122,10 +975,125 @@
       "teaser": "Build an interactive sound-systems that give Future Humans information about movement or interactions in their surroundings.",
       "id": 18787
     },
-    "18797": {
-      "title": "Synthesis - Future Humans",
-      "teaser": "Learn to control servo motor speed and spin using with photoresistors and mechanical switches, and control multiple motors on one circuit.",
-      "id": 18797
+    "24295": {
+      "title": "10 Blocks",
+      "teaser": "Create a program using only 10 blocks. Use them once, twice, or multiple times, but use each block at least once.",
+      "id": 24295
+    },
+    "24473": {
+      "title": "About Me",
+      "teaser": "Create an interactive Scratch project that helps other people learn more about YOU and the ideas, activities, and people that you care about.",
+      "id": 24473
+    },
+    "24818": {
+      "title": "Build a Band",
+      "teaser": "Build your own music-inspired Scratch project by pairing sprites with sounds to design interactive instruments.",
+      "id": 24818
+    },
+    "25137": {
+      "title": "Cloning",
+      "teaser": "Create multiple versions of the same sprite using the Scratch cloning feature",
+      "id": 25137
+    },
+    "25079": {
+      "title": "Creature Construction",
+      "teaser": "Create a drawn creature divided into three parts with two friends.",
+      "id": 25079
+    },
+    "24444": {
+      "title": "Debug It 1",
+      "teaser": "Put your Scratch skills to the test by debugging broken programs.",
+      "id": 24444
+    },
+    "24905": {
+      "title": "Debug It 2",
+      "teaser": "Debug programs with animations in Scratch",
+      "id": 24905
+    },
+    "25050": {
+      "title": "Debug It 3",
+      "teaser": "Put your Scratch skills to the test by debugging broken programs.",
+      "id": 25050
+    },
+    "24876": {
+      "title": "It's Alive",
+      "teaser": "Explore ways of bringing sprites, images, and ideas to life as an animation by programming a series of costume changes.",
+      "id": 24876
+    },
+    "24963": {
+      "title": "Make a Block",
+      "teaser": "Experiment with creating functions using the Make a Block Feature in Scratch",
+      "id": 24963
+    },
+    "25195": {
+      "title": "My Debug It",
+      "teaser": "Create your own Debug It challenge for others to investigate, solve, and remix.",
+      "id": 25195
+    },
+    "24847": {
+      "title": "Orange Square, Purple Circle",
+      "teaser": "Create a program that includes an orange square and a purple circle. What will you create?",
+      "id": 24847
+    },
+    "25108": {
+      "title": "Pass It On",
+      "teaser": "You will start developing an animated story program, and then you will pass the story on to others to remix, extend, or reimagine!",
+      "id": 25108
+    },
+    "24789": {
+      "title": "Performing Script",
+      "teaser": "Play the part of a sprite by acting out different Scratch blocks and scripts.",
+      "id": 24789
+    },
+    "21037": {
+      "title": "Programmed to Dance",
+      "teaser": "This active and social project will introduce you to “Sequencing” while you dance in real life!",
+      "id": 21037
+    },
+    "25166": {
+      "title": "Scratch Advanced Concepts",
+      "teaser": "Hidden in the extension area, these blocks will add new ways to interact with Scratch",
+      "id": 25166
+    },
+    "24992": {
+      "title": "Scratch Conversation",
+      "teaser": "Use timing and broadcast blocks to explore different ways to program sprites to have conversations!",
+      "id": 24992
+    },
+    "24235": {
+      "title": "Scratch Creative Computing: Educator Handbook",
+      "teaser": "[Educators Only] Teachers, start here! Prepare yourself to lead your students through the process of creative computing through this course",
+      "id": 24235
+    },
+    "24934": {
+      "title": "Scratch Music Video",
+      "teaser": "Combine animation with music to create your own music video in Scratch",
+      "id": 24934
+    },
+    "25021": {
+      "title": "Scratch Scenes",
+      "teaser": "Create a program that experiments with backdrops, like a story with multiple scenes or a slideshow",
+      "id": 25021
+    },
+    "24265": {
+      "title": "Scratch Surprise",
+      "teaser": "Welcome to Scratch Creative Computing! In this project, learners will make their first program in Scratch, register an account and make their first journal entry.",
+      "id": 24265
+    },
+    "24415": {
+      "title": "Step By Step",
+      "teaser": "Follow step-by-step tutorials to learn new skills in Scratch.",
+      "id": 24415
+    },
+    "25476": {
+      "title": "*Holiday Microproject: Scratch #CSforGood Impact Game",
+      "teaser": "Turn a Scratch Game into a game that brings attention to an issue you are passionate about.",
+      "id": 25476
+    },
+    "18582": {
+      "title": "Wild Digital Pet",
+      "teaser": "Code a digital pet in Scratch!",
+      "id": 18582
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
