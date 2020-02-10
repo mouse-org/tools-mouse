@@ -10,6 +10,11 @@ Help: Groups — Member Management
 5.  Find the Group Code under the name of your group.
 6.  Share this Group Code with your students. Note: the code is not case sensitive.
 
+#### The group code for this group is shown below the group name. It is "ABC123".
+![A screenshot of the group code on the group page.](/images/group-code-2.png)
+
+<br/>
+
 ### About the Members Table
 
 ![](/images/members-table.png)
