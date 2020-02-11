@@ -1,5 +1,80 @@
 [
     {
+        "date": "1/24/20",
+        "updates": [
+
+            "Bug Fix: When working with very large groups, you can now select any student in your group as a collaborator."
+        ]
+    },
+    { 
+        "date": "12/4/19",
+        "updates": [
+
+            "Change: Facilitation notes in projects now default to On for Educator accounts."
+        ]
+    },
+    {
+        "date": "9/18/19",
+        "updates": [
+
+            "Bug Fix: The microproject carousel in the Project Gallery has been optimized and will now load much faster."
+        ]
+    },
+    {
+        "date": "8/1/19",
+        "title": "Registration and Login Changes",
+        "updates": [
+            "Change: Users can now login to Mouse Create with either thier email address or their username.",
+            "Change: Birthday month and date, gender, and eithnicity are now optional on registration for students."
+        ]
+    },
+    {
+        "date": "6/21/19",
+        "title": "Registration Changes",
+        "updates": [
+            "Change: Users no longer have to fill in the city and state their school is in on registration.",
+            "Change: Users can no longer register with a username that is an email address. Users who registered previously can continue using their email address as their username."
+        ]
+    },
+    {
+        "date": "3/6/19",
+        "title": "Course Pages Release",
+        "updates": [
+            "New: Each Course on Mouse Create now has a page with information about the course and a list of the projects in the course, and projects recommended to be completed along side the course. This is in addition to the <a href='/course-directory/'>Course Directory.</a> on this help website."
+        ]
+    },
+    {
+        "date": "1/4/19",
+        "title": "Content Release: Scratch 3 Updates",
+        "updates": [
+
+            "New: Mouse's Serious Games course has been updated for Scratch 3. There is more information about this course and all other Mouse courses in the <a href='/course-directory/'>Course Directory.</a>"
+        ]
+    },
+    {
+        "date": "10/30/18",
+        "updates": [
+
+            "Bug Fix: The Group area loading has been optimized and should be faster.",
+            "Change: Users now see a note about membership types on projects their membership does not have access to."
+        ]
+    },
+    {
+        "date": "10/17/18",
+        "title": "Mouse Create Homepage Release",
+        "updates": [
+            "New: Mouse Create has a new homepage featuring information about the platform and a video."
+        ]
+    },
+    {
+        "date": "9/18/18",
+        "title": "Content Release: Video Creator",
+        "updates": [
+
+            "New: Mouse's new Video Creator course is now on Mouse Create! There is more information about this course and all other Mouse courses in the <a href='/course-directory/'>Course Directory.</a>"
+        ]
+    },
+    {
         "date": "6/15/18",
         "updates": [
             "Change: The project interface on Mouse Create is now easier to navigate. The 'Project Background' has become the Plan tab, and the 'Review and Submit' step has become the Submit Work tab.",
@@ -54,7 +129,8 @@
 
             "New: Mouse's new Sewable Tech course is now on Mouse Create! There is more information about this course and all other Mouse courses in the <a href='/course-directory/'>Course Directory.</a>"
         ]
-    }, {
+    }, 
+    {
         "date": "7/21/17",
         "title": "Release: My Work",
         "updates": [
@@ -63,7 +139,8 @@
             "New: Users are now able to categorize their work. Also on the My Work tab are custom categories for organizing and exporting work. Categories are created on the My Work tab, and deleted by clicking the “delete” button after clicking on the category name. Work is added to a category from the Manage tab of a project work page.",
             "New: Users are able to export work from Mouse Create in a .zip file. A single project is exported by clicking the “Export All” button at the bottom of the project work page. Projects collected into a category are exported by clicking the “Export” button at the top of the My Work page after clicking on a category name."
         ]
-    }, {
+    },
+    {
         "date": "5/25/17",
         "title": "Release: Comments and Notifications",
         "updates": [
@@ -75,7 +152,8 @@
             "New: Educators can now send short notifications to group members from their Group page in the Members area.",
             "New: Mouse Create administrators can send site-wide notifications to all users."
         ]
-    }, {
+    },
+    {
         "date": "2/7/17",
         "title": "Release: Navigation Changes, Group and Member management updates and Responsive Layout",
         "updates": [
@@ -103,40 +181,46 @@
             "Language Change: Public badge evidence pages now read 'Earned By:' instead of 'Users' before the list of users who collaborated.",
             "Change: The server error page now has a gif and prompts users to email help@mouse.org (formerly read 'Whoops, it looks like something went wrong')."
         ]
-    }, {
+    },
+    {
         "date": "12/8/16",
         "title": "",
         "updates": [
             "Bug Fix: Educator users no longer have to log out and back into Mouse Create after adding their first group to see it in the navigation.",
             "Bug Fix: Now when you click 'Next Step' or 'Previous Step' in a project, the page will scroll to the top of the step."
         ]
-    }, {
+    },
+    {
         "date": "11/21/16",
         "title": "",
         "updates": [
             "Bug Fix: Fixed a bug on the registration form where you wouldn't receive an error message if you entered a phone number incorrectly. This made it seem like the form was broken because the register button didn't seem to work.  Now, the phone number field only allows numbers and gives an error if you don't fill it in completely."
         ]
-    }, {
+    },
+    {
         "date": "11/16/16",
         "title": "",
         "updates": [
             "Change: Updated the account registration form to make it more clear for the user which type of account they are creating: a student or educator account.",
             "Bug fix: Resolved a bug where users would sometimes get a '404 undefined' error when clicking on a project from the Project Finder."
         ]
-    }, {
+    },
+    {
         "date": "11/3/16",
         "title": "",
         "updates": [
             "New: Educators can now edit students' usernames, emails and passwords from Manage Members area of Group page.",
             "Bug fix: Resolved an issue that prevented educators and students from viewing recent work submitted for different groups on other users' profiles. Now, when users submit a project, the group that you submitted the project to will be displayed on the project evidence and in the Recent Work Log on your profile."
         ]
-    }, {
+    },
+    {
         "date": "10/21/16",
         "title": "",
         "updates": [
             "New: Facilitation Notes feature added to all projects.  Users can now toggle on or off instructional notes on many project steps that support the facilitation of the project for an educator.  "
         ]
-    }, {
+    },
+    {
         "date": "10/19/16",
         "title": "",
         "updates": [
@@ -144,27 +228,31 @@
             "New: Published Mouse Educator Badge 1 and Mouse Educator Badge 2",
             "Update: Educator Project 1 renamed. The Educator Course is:  1. Educators: All about Mouse Create, 2. Educators: Awarding Badges, 3. Educators: Planning the Year"
         ]
-    }, {
+    },
+    {
         "date": "10/13/16",
         "title": "",
         "updates": [
             "New: The step you are on in a project is now highlighted with bold text in the list of steps."
         ]
-    }, {
+    },
+    {
         "date": "10/3/2016",
         "title": "",
         "updates": [
 
             "Bug fix: file attachments to project work now download correctly"
         ]
-    }, {
+    },
+    {
         "date": "9/29/2016",
         "title": "",
         "updates": [
 
             "New: October Microproject added “Haunted House Music” "
         ]
-    }, {
+    },
+    {
         "date": "9/28/2016",
         "title": "",
         "updates": [
@@ -172,7 +260,8 @@
             "New: added link to the Mouse Wire in the main navigation",
             "New: added new help site for Mouse Create: https://tools.mouse.org "
         ]
-    }, {
+    },
+    {
         "date": "9/22/2016",
         "title": "",
         "updates": [
@@ -181,20 +270,23 @@
             "New: usernames now appear in Group members area ",
             "New: added “Model Something Real in CAD” project to the Intro to Design course"
         ]
-    }, {
+    },
+    {
         "date": "9/20/2016",
         "title": "",
         "updates": [
 
             "Bug fix: users are now eligible for badges with projects they submitted as collaborators"
         ]
-    }, {
+    },
+    {
         "date": "9/19/2016 ",
         "updates": [
 
             "Bug fix: “Next Step” button no longer broken on Chrome"
         ]
-    }, {
+    },
+    {
         "date": "9/15/2016",
         "title": "",
         "updates": [
@@ -203,14 +295,16 @@
             "New: added “Welcome to Mouse Create” project in the Mouse Educator course",
             "New: added “Moving to the CAD World” project in the Intro to Design course"
         ]
-    }, {
+    },
+    {
         "date": "9/10/2016",
         "title": "",
         "updates": [
 
             "New: added “Mouse Create Scavenger Hunt” project"
         ]
-    }, {
+    },
+    {
         "date": "9/9/2016: Soft Launch of Mouse Create (Beta)",
         "updates": [
 
