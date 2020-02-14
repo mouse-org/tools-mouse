@@ -18,6 +18,7 @@
           <span v-html="course.course_description" />
           <br><br>
           <a
+            v-if="course.course_overview"
             :href="course.course_overview"
             target="_blank"
           >

@@ -190,6 +190,20 @@
       ]
     },
     {
+      "course_name": "Scratch Creative Computing 2",
+      "course_description": "Scratch Creative Computing 2 is a continuation of the learning completed in the Scratch Creative Computing Course, though this course is recommended for learners grade 6 and above. This course assumes the student has some familiarity with Scratch and approaches game design from a step-by-step computer science perspective. ",
+      "course_overview": "",
+      "projects": [
+        26322,
+        26351,
+        26380,
+        26409,
+        26438,
+        26467,
+        24386
+      ]
+    },
+    {
       "course_name": "Serious Games",
       "course_description": "The Serious Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
       "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",

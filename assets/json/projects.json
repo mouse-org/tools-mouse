@@ -1094,6 +1094,41 @@
       "title": "Wild Digital Pet",
       "teaser": "Code a digital pet in Scratch!",
       "id": 18582
+    },
+    "26322": {
+      "title": "Intro to Scratch Game Design",
+      "teaser": "Discover what games are made of, what a Game Designer is and hack a game.",
+      "id": 26322
+    },
+    "26351": {
+      "title": "Scratch Scoreboards",
+      "teaser": "Remix a fish catching game by adding a variable to keep score.",
+      "id": 26351
+    },
+    "26380": {
+      "title": "Win Condition",
+      "teaser": "Complete a Scratch game that never ends by giving it a win condition so that a player can win.",
+      "id": 26380
+    },
+    "26409": {
+      "title": "Remixing Games",
+      "teaser": "Remix three starter games to complete three challenges.",
+      "id": 26409
+    },
+    "26438": {
+      "title": "Scratch Puzzles",
+      "teaser": "Create a Scratch program for each of the nine interactive puzzles.",
+      "id": 26438
+    },
+    "26467": {
+      "title": "Debug it 4",
+      "teaser": "Put your Scratch skills to the test by debugging broken programs.",
+      "id": 26467
+    },
+    "24386": {
+      "title": "My Scratch Impact Game",
+      "teaser": "Create your own original impact game in Scratch!",
+      "id": 24386
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
