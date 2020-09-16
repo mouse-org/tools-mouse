@@ -22,7 +22,7 @@ Spark Membership plus:
 - [Green Tech](#green-tech)
 - [IT Admin](#it-admin)
 - [IT Essentials](#it-essentials)
-- [Serious Games](#serious-games)
+- [Impact Game Design](#impact-game-design)
 - [Sewable Tech](#sewable-tech)
 - [Tech Team](#tech-team)
 - [Web Literacy](#web-literacy)
