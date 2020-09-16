@@ -203,8 +203,8 @@
       ]
     },
     {
-      "course_name": "Serious Games",
-      "course_description": "The Serious Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
+      "course_name": "Impact Game Design",
+      "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
       "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",
       "projects": [
         6210,
@@ -217,6 +217,7 @@
         2768,
         3099,
         3500,
+        9663,
         10333,
         13263,
         13335
