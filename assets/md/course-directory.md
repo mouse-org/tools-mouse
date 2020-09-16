@@ -31,7 +31,7 @@ Spark Membership plus:
 
 Same as Full membership but with Serious Games replaced by:
 
-- [Impact Game Design](#impact-game-design)
+- [Impact Game Design (G4C)](#impact-game-design-g4c)
 
 #### STEM Summer in the City Membership:
 
