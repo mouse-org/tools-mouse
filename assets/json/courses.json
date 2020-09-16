@@ -92,6 +92,27 @@
       ]
     },
     {
+      "course_name": "Impact Game Design",
+      "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
+      "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",
+      "projects": [
+        6210,
+        6477,
+        4254,
+        5558,
+        4781,
+        5293,
+        5509,
+        2768,
+        3099,
+        3500,
+        9663,
+        10333,
+        13263,
+        13335
+      ]
+    },
+    {
       "course_name": "Impact Game Design (G4C)",
       "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
       "course_overview": "https://docs.google.com/document/d/1MS2HBpV7G_VW-N8llocR43bzIqfqZkvWiCwcrFOiKDU/edit",
@@ -203,27 +224,6 @@
       ]
     },
     {
-      "course_name": "Impact Game Design",
-      "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
-      "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",
-      "projects": [
-        6210,
-        6477,
-        4254,
-        5558,
-        4781,
-        5293,
-        5509,
-        2768,
-        3099,
-        3500,
-        9663,
-        10333,
-        13263,
-        13335
-      ]
-    },
-    {
       "course_name": "Sewable Tech",
       "course_description": "Sewable Tech combines STEM learning with artistic expression and crafting. Research shows that learning circuitry through this STEAM lens engages a wider audience than traditional circuit design and improves learner outcomes! In this 9-project course, students will learn to embed circuitry directly into fabric-- creating soft circuits, fabric switches and sewable sensors. The course will culminate in a final project that students will sew and program to help them set and achieve goals. Projects marked with * can be substituted for LilyPad based projects.",
       "course_overview": "https://docs.google.com/document/d/1tvBUnoM41YrMTq0LbSqz_WUpa0Ww1PG8XTToeKMw37Y",
@@ -290,7 +290,7 @@
     },
     {
       "course_name": "Video Creator",
-      "course_description": "In this age of Photoshop, social networks, and the spread of fake news, visual literacy is more important than ever. Mouse’s Video Creator course aims to equip students with the basic skills and insights needed to navigate today’s multimedia landscape. Students will learn shot and composition techniques for creating impactful images, create storyboards to plan for longer media pieces, practice recording good-quality sound, and combine various multimedia assets together to create meaningful visual stories.",
+      "course_description": "In this age of Photoshop, social networks, and the spread of fake news, visual literacy is more important than ever. Mouse’s Video Creator course aims to equip students with the basic skills and insights needed to navigate today’s multimedia landscape. Students will learn shot and composition techniques for creating ful images, create storyboards to plan for longer media pieces, practice recording good-quality sound, and combine various multimedia assets together to create meaningful visual stories.",
       "course_overview": "https://docs.google.com/document/d/1kKCg0GaeAz5lq05pauETo1zsqHKmsL4WljTT96CHn0A/edit?usp=sharing",
       "projects": [
         21211,
