@@ -33,13 +33,6 @@ Same as Full membership but with Impact Game Design replaced by:
 
 - [Impact Game Design (G4C)](#impact-game-design-g4c)
 
-#### STEM Summer in the City Membership:
-
-Same as Full membership plus:
-
-- [STEM Summer in the City: Evolved Creatures](#stem-summer-in-the-city-evolved-creatures)
-- [STEM Summer in the City: Future Humans](#stem-summer-in-the-city-future-humans)
-
 ### Adding courses to a playlist:
 
 After clicking on a course tag in the left sidebar, Educators will have the option to "Add Course to Playlist" by clicking a button in the top right of the course page. If the Educator adds the whole course to their group's playlist the projects will be added to the end of the playlist in the recommended order. Any projects that are already in the group’s playlist will be moved to correspond with the recommended order.
