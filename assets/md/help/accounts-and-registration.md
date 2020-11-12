@@ -55,6 +55,10 @@ If you do not have a Google account, you can still register normally by choosing
 11. Check the “I am not a robot" box. This is called a captcha and is required for our site’s security. You may or may not be required to complete a quick image test.
 12.  After you have created your new student account, you need your Group Code to get access to Mouse Create. Educators can find your Group Code at the top of the Group page.
 
+### Walkthrough of "Join with Google" Student account registration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HKogJuUBM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### How to register a standard Student account (without Google authentication)
 
 1.  Go to Mouse Create at https://create.mouse.org
@@ -66,9 +70,9 @@ If you do not have a Google account, you can still register normally by choosing
 7.  Check the “I am not a robot" box. This is called a captcha and is required for our site’s security. You may or may not be required to complete a quick image test.
 8.  After you have created your new student account, you need your Group Code to get access to Mouse Create. Educators can find your Group Code at the top of the Group page.
 
-### Walkthrough of Youth account registration
+### Walkthrough of standard Student account registration
 
-<video controls=""><source src="https://create-production.s3-us-west-2.amazonaws.com/content/Tools-Videos/student_account_1.mp4" type="video/mp4">Your browser does not support HTML5.</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6tzz4tvdZM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Adding Additional Educators to a group
 
@@ -105,7 +109,6 @@ If you still can not create accounts, contact help@mouse.org. Please share these
 ### How to log in with Google
 
 If you selected “Join with a Google Account” when you registered your new account on Mouse Create, or connected your standard account to your Google account from your Profile page, you do not need to enter a username and password each time you log in.  
-
 1.  Go to Mouse Create at https://create.mouse.org
 2.  Click “Login or Create an account”
 3.  Click “Log In With Google”
@@ -124,6 +127,10 @@ If you already have a standard account with a username and password, you can cho
 5.  On your Profile page, click the “Log In with Google” button
 6.  Follow the prompts to log into your Google account. 
 7.  Once that is complete, you will be able to select “Login with Google” the next time you visit Mouse Create.
+
+### Walkthrough of how to connect your standard account to a Google account so you can log in with Google
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O86y4kXKukU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How to login with a standard Mouse Create username and password
 
