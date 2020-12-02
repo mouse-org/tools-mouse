@@ -16,8 +16,6 @@ Awarded badges are issued through a third party site, [Acclaim](https://youraccl
 
 The badges table is used by Educators to view pending badges and award badges to members of their group. Student accounts can also view the badge table, but instead of the "Award Badge" buttons they will just see that the badge has not been awarded.
 
-![](/images/badge-table.png)
-
 *   **Date Eligible:** Shows the date the group member became eligible for the badge.
 *   **Badge Name:** Shows the name of the badge, and for awarded badges links to the publicly shareable URL.
 *   **Member Name:** Shows the avatar and real name of the group member eligible for or awarded the badge.
