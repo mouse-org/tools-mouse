@@ -12,6 +12,10 @@ Awarded badges are issued through a third party site, [Acclaim](https://youraccl
 *   More information on the value of [digital badges in teaching and learning.](https://mouse.org/news/improving-the-way-education-supports-learner-identity-digital-badges-the-information-age)
 *   Acclaim is the badge platform adopted by Mouse’s long term partner [Credly.com](https://info.credly.com/how-credly-works).
 
+### Mouse Create Badges Screencast: How to opt-in to earn badges and how to award them
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GL7sj5hxQrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### About the Badges Table
 
 The badges table is used by Educators to view pending badges and award badges to members of their group. Student accounts can also view the badge table, but instead of the "Award Badge" buttons they will just see that the badge has not been awarded.
@@ -60,6 +64,8 @@ When projects associated with a badge are added to a group’s playlist the badg
 ### Sharing Badges Publicly via Acclaim
 
 Once you’ve earned a digital badge on Mouse Create, you can go to [Acclaim](https://youracclaim.com/) to share it publicly on college and job applications, on social networks and with your school. When your educator awards you a new badge, you will receive an email from youracclaim.com to claim your badge through their website. Follow the link in that email (or log in to [Acclaim](https://youracclaim.com/) directly) to accept and share your badge. Your Acclaim login should be the email address you used to register for Mouse Create and the password you selected. More info is available on [Acclaim’s Help page](https://support.youracclaim.com/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKc-e5qAlaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Badges for Students under 13
 
