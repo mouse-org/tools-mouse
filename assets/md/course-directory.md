@@ -3,28 +3,23 @@ Mouse has designed several courses as recommended learning sequences for groups 
 
 You will have access to different sets of courses depending on the type of Mouse Create membership your site has. The list of membership types are below:
 
-#### Spark Membership:
+#### Full Membership:
 
 - [Circuitry & Electronics](#circuitry-electronics)
 - [Coding](#coding)
-- [Educator Course](#educator-course)
-- [Intro to Design](#intro-to-design)
-- [Scratch Creative Computing](#scratch-creative-computing)
-- [Scratch Creative Computing 2](#scratch-creative-computing-2)
-- [Video Creator](#video-creator)
-
-#### Full Membership:
-
-Spark Membership plus:
-
 - [Design with Purpose](#design-with-purpose)
 - [Digital Portfolios](#digital-portfolios)
+- [Educator Course](#educator-course)
 - [Green Tech](#green-tech)
+- [Impact Game Design](#impact-game-design)
+- [Intro to Design](#intro-to-design)
 - [IT Admin](#it-admin)
 - [IT Essentials](#it-essentials)
-- [Impact Game Design](#impact-game-design)
+- [Scratch Creative Computing](#scratch-creative-computing)
+- [Scratch Creative Computing 2](#scratch-creative-computing-2)
 - [Sewable Tech](#sewable-tech)
 - [Tech Team](#tech-team)
+- [Video Creator](#video-creator)
 - [Web Literacy](#web-literacy)
 
 #### Games for Change Membership:
