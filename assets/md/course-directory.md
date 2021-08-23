@@ -15,6 +15,7 @@ You will have access to different sets of courses depending on the type of Mouse
 - [Intro to Design](#intro-to-design)
 - [IT Admin](#it-admin)
 - [IT Essentials](#it-essentials)
+- [Per Scholas - Cybersecurity](#per-scholas---cybersecurity)
 - [Scratch Creative Computing](#scratch-creative-computing)
 - [Scratch Creative Computing 2](#scratch-creative-computing-2)
 - [Sewable Tech](#sewable-tech)
