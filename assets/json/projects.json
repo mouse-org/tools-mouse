@@ -1124,6 +1124,51 @@
       "title": "My Scratch Impact Game",
       "teaser": "Create your own original impact game in Scratch!",
       "id": 24386
+    },
+    "26983": {
+      "title": "Intro to Cybersecurity",
+      "teaser": "What is Cybersecurity? Meet Sam, a Cybersecurity analyst and learn about the importance of careers in security.",
+      "id": 26983
+    },
+    "26996": {
+      "title": "CIA Triad/Hardening",
+      "teaser": "Explore a Cybersecurity framework and deployment preparation for hardware.",
+      "id": 26996
+    },
+    "27048": {
+      "title": "Hackers and Motivations",
+      "teaser": "Explore the several types of hackers and the possible motivations behind cyber attacks.",
+      "id": 27048
+    },
+    "25919": {
+      "title": "Cyber Attacks",
+      "teaser": "Discover and learn about various types of cyber attacks industry professionals are responsible for preventing and resolving.",
+      "id": 25919
+    },
+    "27009": {
+      "title": "Exploring Tools",
+      "teaser": "Explore various Cybersecurity tools used in the industry.",
+      "id": 27009
+    },
+    "26259": {
+      "title": "Intro to Networking Analyzing & Telnet",
+      "teaser": "Explore the professional network traffic analyzer software called CloudShark and dissect a traffic stream.",
+      "id": 26259
+    },
+    "27022": {
+      "title": "File Transfer Protocol (FTP) Lab",
+      "teaser": "Use CloudShark to analyze an FTP network traffic stream.",
+      "id": 27022
+    },
+    "27061": {
+      "title": "HTTP Project",
+      "teaser": "Analyze a network traffic file, create an incident report, and generate a training presentation on security practices.",
+      "id": 27061
+    },
+    "27035": {
+      "title": "Careers in Cybersecurity",
+      "teaser": "Investigate Cybersecurity careers and the skills needed to pursue post-secondary paths in it",
+      "id": 27035
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
