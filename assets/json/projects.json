@@ -1126,47 +1126,47 @@
       "id": 24386
     },
     "26983": {
-      "title": "Cybersecurity 0: Intro to Cybersecurity",
+      "title": "Intro to Cybersecurity",
       "teaser": "What is Cybersecurity? Meet Sam, a Cybersecurity analyst and learn about the importance of careers in security.",
       "id": 26983
     },
     "26996": {
-      "title": "Cybersecurity 1: CIA Triad/Hardening",
+      "title": "CIA Triad/Hardening",
       "teaser": "Explore a Cybersecurity framework and deployment preparation for hardware.",
       "id": 26996
     },
     "27048": {
-      "title": "Cybersecurity 2: Hackers and Motivations",
+      "title": "Hackers and Motivations",
       "teaser": "Explore the several types of hackers and the possible motivations behind cyber attacks.",
       "id": 27048
     },
     "25919": {
-      "title": "Cybersecurity 3: Cyber Attacks",
+      "title": "Cyber Attacks",
       "teaser": "Discover and learn about various types of cyber attacks industry professionals are responsible for preventing and resolving.",
       "id": 25919
     },
     "27009": {
-      "title": "Cybersecurity 4: Exploring Tools",
+      "title": "Exploring Tools",
       "teaser": "Explore various Cybersecurity tools used in the industry.",
       "id": 27009
     },
     "26259": {
-      "title": "Cybersecurity 5: Intro to Networking Analyzing & Telnet",
+      "title": "Intro to Networking Analyzing & Telnet",
       "teaser": "Explore the professional network traffic analyzer software called CloudShark and dissect a traffic stream.",
       "id": 26259
     },
     "27022": {
-      "title": "Cybersecurity 6: File Transfer Protocol (FTP) Lab",
+      "title": "File Transfer Protocol (FTP) Lab",
       "teaser": "Use CloudShark to analyze an FTP network traffic stream.",
       "id": 27022
     },
     "27061": {
-      "title": "Cybersecurity 7: HTTP Project",
+      "title": "HTTP Project",
       "teaser": "Analyze a network traffic file, create an incident report, and generate a training presentation on security practices.",
       "id": 27061
     },
     "27035": {
-      "title": "Cybersecurity 8: Careers in Cybersecurity",
+      "title": "Careers in Cybersecurity",
       "teaser": "Investigate Cybersecurity careers and the skills needed to pursue post-secondary paths in it",
       "id": 27035
     }
