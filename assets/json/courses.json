@@ -181,6 +181,22 @@
       ]
     },
     {
+      "course_name": "Per Scholas - Cybersecurity",
+      "course_description": "This course is Module 3 of 3 in the Per Scholas Curriculum. In the Per Scholas - Cybersecurity course, students explore how and why cyber attacks occur and the effects they have on organizations.",
+      "course_overview": "",
+      "projects": [
+        26983,
+        26996,
+        27048,
+        25919,
+        27009,
+        26259,
+        27022,
+        27061,
+        27035
+      ]
+    },
+    {
       "course_name": "Scratch Creative Computing",
       "course_description": "Creative Computing is a style of education that promotes student agency and creativity while learning new skills. Through the use of the coding platform Scratch students will engage in creative computing to design their own programs.<br><br>The Scratch Creative Computing projects hosted here have been adapted, edited and expanded on from the curriculum released under a Creative Commons license by the ScratchEd team at the Harvard Graduate School of Education to promote further student engagement. The original curriculum can be found at the [Harvard Graduate School of Education Creative Computing website](https://scratched.gse.harvard.edu/guide/index.html) if you choose to use it as an additional resource.",
       "course_overview": "",
