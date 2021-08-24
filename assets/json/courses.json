@@ -40,6 +40,22 @@
       ]
     },
     {
+      "course_name": "Cybersecurity by Per Scholas",
+      "course_description": "In this course, students explore how and why cyber attacks occur and the effects they have on organizations.",
+      "course_overview": "",
+      "projects": [
+        26983,
+        26996,
+        27048,
+        25919,
+        27009,
+        26259,
+        27022,
+        27061,
+        27035
+      ]
+    },
+    {
       "course_name": "Design with Purpose",
       "course_description": "Groups working on the Design with Purpose course will research, brainstorm, prototype, and share their own technology innovation. By practicing and applying the Human-Centered Design process, youth will learn to empathize with their users and design technologies that address an authentic need.",
       "course_overview": "https://docs.google.com/document/d/1qok8C7eVzlxxudqUH28B2SzBp1NnajI_LPb0w4TEhNs/edit?usp=sharing",
@@ -178,22 +194,6 @@
         2218,
         5745,
         3443
-      ]
-    },
-    {
-      "course_name": "Per Scholas - Cybersecurity",
-      "course_description": "In the Per Scholas - Cybersecurity course, students explore how and why cyber attacks occur and the effects they have on organizations.",
-      "course_overview": "",
-      "projects": [
-        26983,
-        26996,
-        27048,
-        25919,
-        27009,
-        26259,
-        27022,
-        27061,
-        27035
       ]
     },
     {
