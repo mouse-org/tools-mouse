@@ -114,11 +114,13 @@ export default {
           url: '/help/check-in',
           class: 'menu-item'
         },
+        /*
         {
           name: 'Changes and Updates',
           url: '/updates',
           class: 'menu-item'
         },
+        */
         /*
         {
           name: 'Known Issues',
