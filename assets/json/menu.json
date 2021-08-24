@@ -75,11 +75,6 @@
       "class": "menu-item"
     },
     {
-      "name": "Changes and Updates",
-      "url": "/updates",
-      "class": "menu-item"
-    },
-    {
       "name": "iPad Tips",
       "url": "/ipad",
       "class": "menu-item"
