@@ -7,6 +7,7 @@ You will have access to different sets of courses depending on the type of Mouse
 
 - [Circuitry & Electronics](#circuitry-electronics)
 - [Coding](#coding)
+- [Cybersecurity by Per Scholas](#cybersecurity-by-per-scholas)
 - [Design with Purpose](#design-with-purpose)
 - [Digital Portfolios](#digital-portfolios)
 - [Educator Course](#educator-course)
@@ -15,7 +16,6 @@ You will have access to different sets of courses depending on the type of Mouse
 - [Intro to Design](#intro-to-design)
 - [IT Admin](#it-admin)
 - [IT Essentials](#it-essentials)
-- [Per Scholas - Cybersecurity](#per-scholas---cybersecurity)
 - [Scratch Creative Computing](#scratch-creative-computing)
 - [Scratch Creative Computing 2](#scratch-creative-computing-2)
 - [Sewable Tech](#sewable-tech)
