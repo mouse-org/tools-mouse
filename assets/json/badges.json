@@ -307,7 +307,7 @@
     },
     {
       "badge_url": "https://www.credly.com/org/mouse/badge/computer-networking-intro-to-network-topologies",
-      "badge_image": "static/images/badges/TCEP_Badges_Net_600.png",
+      "badge_image": "/images/badges/TCEP_Badges_Net_600.png",
       "badge_name": "Computer Networking: Intro to Network Topologies Badge",
       "projects": [27166]
     },
