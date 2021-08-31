@@ -64,7 +64,3 @@ You can change the order of the projects in your Group’s playlist by clicking 
 ### How do I switch from one group to another?
 
 If you are in multiple groups, it is easy to switch active groups without logging out of the site. Click the “More" menu in the top right corner of the site and select “My Groups". From there, you can switch to any group you are a member of and relaunch the site. You can also go to this area to create or join new groups.
-
-### Which projects are compatible with Chromebooks or iPads?
-
-[This spreadsheet](https://docs.google.com/spreadsheets/d/1tpFh32ZsngoccuSEEjZyI_4xu3_v6Ocvk_WgY9L35FY/edit#gid=236506175) lists all Mouse Create projects along with whether they are Chromebook and iPad compatible.
