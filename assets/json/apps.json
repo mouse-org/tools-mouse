@@ -24,10 +24,15 @@
       "thumbnail": "/images/apps/url.png",
       "url": "my-name-is-url"
     },
-    {
+     {
       "name": "Ports & Connections Match",
       "thumbnail": "/images/apps/portsMatch.png",
       "url": "ports-and-connections-match"
+    },
+    {
+      "name": "Remixable Space Invaders",
+      "thumbnail": "/images/apps/remixspaceinvader.png",
+      "url": "remixable-space-invader"
     },
     {
       "name": "You've Got The Power",
