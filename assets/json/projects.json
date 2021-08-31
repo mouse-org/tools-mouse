@@ -876,7 +876,7 @@
       "id": 19543
     },
     "19693": {
-      "title": "4C - It's the Remix",
+      "title": "G4C - It's the Remix",
       "teaser": "Find a fun Scratch game, and make it your own by creating a remix! Design your own characters, and background, and level up the challenge in your new version.",
       "id": 19693
     },
@@ -1169,6 +1169,21 @@
       "title": "Careers in Cybersecurity",
       "teaser": "Investigate Cybersecurity careers and the skills needed to pursue post-secondary paths in it",
       "id": 27035
+    },
+    "27274": {
+      "title": "I.T. Career Pathways",
+      "teaser": "Investigate a career in I.T. and the skills needed to pursue post-secondary paths",
+      "id": 27274
+    },
+    "27287": {
+      "title": "Project New Hire",
+      "teaser": "Create a Directory Tree Structure, applying new commands that maximize efficiencies",
+      "id": 27287
+    },
+    "27166": {
+      "title": "Networking Careers",
+      "teaser": "Investigate Computer Networking careers and the skills needed to pursue post-secondary paths",
+      "id": 27166
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
