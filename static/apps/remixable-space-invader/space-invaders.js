@@ -123,7 +123,7 @@ function setLabelValue(valueElement, value) {
 
 
 function setGameUrlAndHashFrom(params) {
-  var gameURL = params.gameURL.split("invader/")[0] + "/";
+  var gameURL = params.gameURL.split("invader/")[0] + "invader/";
   
   var hash = "";
   for (var i in params) {
