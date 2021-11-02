@@ -300,21 +300,21 @@
       "projects": [20478]
     },
     {
-      "badge_url": "https://www.credly.com/org/mouse/badge/i-t-support-intro-to-it-automation",
-      "badge_image": "/images/badges/TCEP_Badges_IT_600.png",
-      "badge_name": "I.T. Support: Intro to IT Automation Badge",
-      "projects": [27274, 27287]
+      "badge_url": "https://www.credly.com/org/mouse/badge/user-experience-ux-design-planning-an-app",
+      "badge_image": "/images/badges/User Experience UX badge.png",
+      "badge_name": "User Experience (UX) Design: Planning an App",
+      "projects": [899412, 907229, 921282]
     },
     {
-      "badge_url": "https://www.credly.com/org/mouse/badge/computer-networking-intro-to-network-topologies",
-      "badge_image": "/images/badges/TCEP_Badges_Net_600.png",
-      "badge_name": "Computer Networking: Intro to Network Topologies Badge",
-      "projects": [27166]
+      "badge_url": "https://www.credly.com/org/mouse/badge/user-interface-ui-design-designing-an-app",
+      "badge_image": "/images/badges/User Interface UI badge.png",
+      "badge_name": "User Interface (UI) Design: Designing an App",
+      "projects": [982994, 8569]
     },
     {
       "badge_url": "https://www.credly.com/org/mouse/badge/cybersecurity-intro-to-network-analysis",
       "badge_image": "/images/badges/TCEP_Badges_Cyber_600.png",
-      "badge_name": "Cybersecurity: Intro to Network Analysis Badge",
+      "badge_name": "Cybersecurity: Intro to Network Analysis",
       "projects": [27061, 27035]
     }
   ]
