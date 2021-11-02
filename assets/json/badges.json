@@ -27,7 +27,7 @@
       "badge_url": "https://www.credly.com/org/mouse/badge/brainstorm-finding-great-ideas",
       "badge_image": "/images/badges/brainstorm_badge-01.png",
       "badge_name": "Brainstorm: Finding great ideas",
-      "projects": [8317, 8289, 6813]
+      "projects": [8317, 8289]
     },
     {
       "badge_url": "https://www.credly.com/org/mouse/badge/circuit-design-electronic-build-out",
@@ -99,7 +99,7 @@
       "badge_url": "https://www.credly.com/org/mouse/badge/human-centered-design-empathizing-with-users",
       "badge_image": "/images/badges/hcd_badge-01.png",
       "badge_name": "Human Centered Design: Empathizing with Users",
-      "projects": [1874, 5573, 6991, 6070]
+      "projects": [1874, 5573, 6991]
     },
     {
       "badge_url": "https://www.credly.com/org/mouse/badge/javascript-code-programming-the-interactive-web",
@@ -159,7 +159,7 @@
       "badge_url": "https://www.credly.com/org/mouse/badge/prototyping-testing-and-evolving-iterations",
       "badge_image": "/images/badges/prototyping_badge-01.png",
       "badge_name": "Prototyping: Testing and Evolving Iterations",
-      "projects": [8088, 7841, 8569]
+      "projects": [8088, 936257, 7841]
     },
     {
       "badge_url": "https://www.credly.com/org/mouse/badge/raspberry-pi-circuits-microcontroller-programming",
@@ -300,16 +300,16 @@
       "projects": [20478]
     },
     {
-      "badge_url": "https://www.credly.com/org/mouse/badge/i-t-support-intro-to-it-automation",
-      "badge_image": "/images/badges/TCEP_Badges_IT_600.png",
-      "badge_name": "I.T. Support: Intro to IT Automation Badge",
-      "projects": [27274, 27287]
+      "badge_url": "https://www.credly.com/org/mouse/badge/user-experience-ux-design-planning-an-app",
+      "badge_image": "/images/badges/User Experience UX badge.png",
+      "badge_name": "User Experience (UX) Design: Planning an App",
+      "projects": [899412, 907229, 921282]
     },
     {
-      "badge_url": "https://www.credly.com/org/mouse/badge/computer-networking-intro-to-network-topologies",
-      "badge_image": "/images/badges/TCEP_Badges_Net_600.png",
-      "badge_name": "Computer Networking: Intro to Network Topologies Badge",
-      "projects": [27166]
+      "badge_url": "https://www.credly.com/org/mouse/badge/user-interface-ui-design-designing-an-app",
+      "badge_image": "/images/badges/User Interface UI badge.png",
+      "badge_name": "User Interface (UI) Design: Designing an App",
+      "projects": [982994, 8569]
     },
     {
       "badge_url": "https://www.credly.com/org/mouse/badge/cybersecurity-intro-to-network-analysis",
