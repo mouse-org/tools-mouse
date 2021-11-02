@@ -152,7 +152,7 @@
     },
     "6070": {
       "title": "Design a Better World",
-      "teaser":  "Make hundreds of sandwiches in 30 mins with lots of ridiculous rules to make it fun. This project connects design to its most critical purpose & brings teams together.",
+      "teaser":  "Plan, organize, research, design, and share a digital zine about an issue you and your team care about.",
       "id": 6070
     },
     "16304": {
@@ -181,8 +181,8 @@
       "id": 9479
     },
     "6991": {
-      "title": "Empathy & Assistive Tech",
-      "teaser":  "​Experience through simulations how empathy makes it possible to design things for other people, including people with disabilities.​",
+      "title": "Empathy in Design",
+      "teaser":  "Experience through simulations how empathy makes it possible to design things for other people.",
       "id": 6991
     },
     "9149": {
@@ -192,7 +192,7 @@
     },
     "5046": {
       "title": "Design your own Digital Circuit",
-      "teaser":  "​Design an original Arduino circuit, with a blueprint and parts list.",
+      "teaser":  "Design an original Arduino circuit, with a blueprint and parts list.",
       "id": 5046
     },
     "17298": {
@@ -201,13 +201,13 @@
       "id": 17298
     },
     "8219": {
-      "title": "Design Story",
+      "title": "Pitch Perfect",
       "teaser":  "Engage audiences by telling a strong design story featuring great documentation.",
       "id": 8219
     },
     "7841": {
-      "title": "Playtesting",
-      "teaser":  "Design a quick ‘race-to-the-end’ game with a friend while you build the key design skill of playtesting.",
+      "title": "Usability Testing",
+      "teaser":  "Test out and improve your app design with a usability test - a user experience (UX) technique.",
       "id": 7841
     },
     "12188": {
@@ -352,7 +352,7 @@
     },
     "8088": {
       "title": "Paper Prototyping",
-      "teaser":  "Experiment with paper prototyping by reverse-engineering everyday objects to get a glimpse into how they were designed.",
+      "teaser":  "Demonstrate and test your design ideas using simple materials.",
       "id": 8088
     },
     "8757": {
@@ -697,7 +697,7 @@
     },
     "6813": {
       "title": "Design in a Bag",
-      "teaser":  "Turn a design challenge and bag of random items into a rapid prototype.",
+      "teaser":  "Make a rapid prototype to solve a design challenge using random items.",
       "id": 6813
     },
     "5996": {
@@ -776,8 +776,8 @@
       "id": 12465
     },
     "8569": {
-      "title": "Iterations & Feedback",
-      "teaser": "Create and document 3 increasingly technical iterations of a design prototype incorporating feedback from users.",
+      "title": "Interface Design",
+      "teaser": "Create and test 2 iterations of an app mockup applying user interface (UI) design techniques and incorporating user feedback.",
       "id": 8569
     },
     "18770": {
@@ -1170,20 +1170,40 @@
       "teaser": "Investigate Cybersecurity careers and the skills needed to pursue post-secondary paths in it",
       "id": 27035
     },
-    "27274": {
-      "title": "I.T. Career Pathways",
-      "teaser": "Investigate a career in I.T. and the skills needed to pursue post-secondary paths",
-      "id": 27274
+    "895222": {
+      "title": "Welcome to Design League",
+      "teaser": "Join a national network of student innovators creating apps that make a positive change.",
+      "id": 895222
     },
-    "27287": {
-      "title": "Project New Hire",
-      "teaser": "Create a Directory Tree Structure, applying new commands that maximize efficiencies",
-      "id": 27287
+    "983532": {
+      "title": "Who Are Your Users?",
+      "teaser": "Choose a theme that you care about and a user group to interview for your app design project.",
+      "id": 983532
     },
-    "27166": {
-      "title": "Networking Careers",
-      "teaser": "Investigate Computer Networking careers and the skills needed to pursue post-secondary paths",
-      "id": 27166
+    "899412": {
+      "title": "UX/UI & Storyboarding",
+      "teaser": "Create a simple 3-panel storyboard of your app idea as an introduction to User Experience and User Interface (UX/UI) design.",
+      "id": 899412
+    },
+    "907229": {
+      "title": "Happy Path",
+      "teaser": "Create a 'happy path' diagram for an app - a user experience (UX) design technique.",
+      "id": 907229
+    },
+    "921282": {
+      "title": "Competitive Analysis",
+      "teaser": "Do a competitive analysis of your app by comparing it to existing apps that have similar goals and features.",
+      "id": 921282
+    },
+    "936257": {
+      "title": "Create a Wireframe",
+      "teaser": "Make a digital wireframe of an app using professional UX (User Experience) techniques.",
+      "id": 936257
+    },
+    "982994": {
+      "title": "Style Guide",
+      "teaser": "Choose a color palette, fonts and icons that match your app's visual identity.",
+      "id": 982994
     }
   },
   "optionalProjects": [15720, 15484, 14468, 15247, 15326, 15456]
