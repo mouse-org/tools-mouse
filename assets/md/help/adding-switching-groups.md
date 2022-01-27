@@ -5,15 +5,18 @@ Help: Groups — Adding & Switching
 
 ![](/images/creategroup.gif)
 
-After creating a new educator account, and entering your [Educator Code](https://tools.mouse.org/help/accounts-and-registration/), you will have 2 choices to gain full access to the site, Join a Group or Create a Group:
+After creating a new educator account, and entering your Educator Code, you will have 2 choices– Join a Group or Create a Group:
 
 1.  Scroll down the page to fill in the "Create a Group" form.
 2.  Name your Group, review, check the Permission Agreement, and click the button to create your first group!
-3.  The playlist on your Group page will be empty until you add projects.
+3.  You will automatically become the “Group Manager” for all groups you create. [Learn more about this role here.](’/help/group-members/’)
+4.  The playlist on your Group page will be empty until you add projects.
 
 Your group name must be unique across all groups on Mouse Create. If you try to create a group and receive an error message, please try again using a more unique group name. We are working on making this error message more user friendly.
 
-**Joining an Existing Group:** If you do not want to start your own group, you can also join an existing group that was created by a different Mouse educator. You will need that group’s Group Code to join. The educator within the group you wish to join can find the Group Code underneath the group’s name on the group page. Joining any group as an educator will give you full access to manage the group’s playlist and students.
+**Joining an Existing Group:** If you do not want to start your own group, you can also join an existing group that was created by a different Mouse educator. You will need that group’s Group Code to join. The Group Manager within the group you wish to join can find the Group Code underneath the group’s name on the group page. To join, go to the More menu in the upper right corner and select “My Groups”.  Choose the “Add Group” button.  Enter the Group Code into the “Join a Group” form.
+
+**Becoming a Group Manager of an Existing Group:** If you would like full access to edit and manage a group that you did not create yourself, the Group Manager can give you “Group Manager” status from the “Actions” section of the “Members” area.  Once you have been made a Group Manager you will have full access to manage the group’s playlist and students.
 
 ### Joining or Creating Multiple Groups
 
