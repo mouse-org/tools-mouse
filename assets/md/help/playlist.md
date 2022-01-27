@@ -3,9 +3,9 @@ Help: Groups — Playlist
 
 ### About the Playlist
 
-The playlist is a set of projects chosen by a group’s educator or educators that is saved on the group page. Mouse recommends using the playlist feature to help students find projects, and complete them in a specific order.
+The playlist is a set of projects chosen by the educator who created the group, or any other Group Manager, that is saved on the group page. Mouse recommends using the playlist feature to help students find projects, and complete them in a specific order.
 
-### Add a Course to your Group's Playlist (Educators only)
+### Add a Course to your Group's Playlist (Group Managers only)
 
 Watch this screencast or read the steps below:
 
@@ -15,9 +15,7 @@ Watch this screencast or read the steps below:
 2.  Select the course in the Project Finder, or “Filter Projects” menu on smaller devices.
 3.  On the course page, click the “Add Course to Playlist” button.  This will add each of the course’s projects in the correct order onto your active group’s playlist.
 
-
-
-### Add a Project to your Group’s Playlist (Educators only)
+### Add a Project to your Group’s Playlist (Group Managers only)
 
 1.  Click on "Projects" at the top of the page (you will not see this until you have created or joined a Group).
 2.  Browse the projects, and find the one youwant to add. You can filter projects according to specific skills or by setting (time and size of group) using the Project Finder tags. On some smaller devices the Project Finder tags will not be visible, click “Filter Projects" at the top of the list to expand the list.
