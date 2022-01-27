@@ -7,29 +7,25 @@ Mouse Create is an online learning platform for youth to create technology with 
 
 ### What is a project?
 
-Projects on Mouse Create are learning activities, makes, lessons, or games delivered in a step-by-step interface designed to be flexible to different styles of facilitation. Many projects can be self-directed by students or groups of students, with minimal facilitation, these projects are tagged “Do It Yourself" in the Project Finder. Other projects are meant to be lead by an educator, tagged “With a Group". In these projects, the facilitator can easily use the project’s steps as slides to be projected from the front of the room.
+Projects on Mouse Create are learning activities, makes, lessons, or games delivered in a step-by-step interface designed to be flexible to different styles of facilitation. Many projects can be self-directed by students or groups of students, with minimal facilitation, these projects are tagged “Do It Yourself" in the Project Finder. Other projects are meant to be led by an educator, tagged “With a Group". In these projects, the facilitator can easily use the project’s steps as slides to be projected from the front of the room.
 
-### How do I use my Educator Codes and my Group Code?
+### How do I use my Educator Code and my Group Code?
 
-Every Mouse member site will be emailed an Educator Code that you can share with all educators at your site to create accounts. Each Educator will be able to create Groups for each of their classes, clubs, or teams, or join other Groups to help other Educators run Mouse projects. Each Group will have a unique Group code that Educators can use to add Learners to their groups.
+Every Mouse member site will be emailed an **Educator Code** that you can share with all educators at your site to create accounts. Each Educator will be able to create their own groups for each of their classes, clubs, or teams.  When an Educator creates a group, they automatically become the “Group Manager” with full access to manage the group’s settings.  Each Group will have a unique **Group Code** that can be shared with students or other educators to allow them to join that group.  
 
 ### Where is my Group Code?
 
-Educators can find their group code below the group name at the top of the group page. Students do not see the group code on the group page.
+Educators can find their group’s Group Code below the group name at the top of the group page. Students do not see the group code on the group page.
 
 ![](/images/group-code.png)  
 
 ### How do I use my Group's Playlist?
 
-Each Group on Mouse Create will have a customizable Playlist of projects created by the Educators in the group. Learners on Mouse Create will be able to work through the playlist throughout the year, or do one-off projects on their own or in small groups. Educators and Learners can filter projects through tags about competency areas, time limits and skills.
+Each group on Mouse Create will have a customizable playlist of projects created by the Group Manager in the group. Learners on Mouse Create will be able to work through the playlist throughout the year, or do one-off projects on their own or in small groups. Educators and Learners can filter projects through tags about competency areas, time limits and skills.
 
 ### How will students document their work on Mouse Create?
 
-As students work on a project they can choose to submit evidence of their progress (as images, text reflections, or attachments) in the “Show your Work" area at the bottom of the project interface. At the end of the project, on the “Review and Submit" step, students can look over and add to their work, and confirm any collaborators, before submitting it. Submitted projects are sent to the Project Review area of your group page, and to the student’s profile.
-
-### Do students have to upload work on every step in the “Show Your Work" area?
-
-No, think of the “Show your Work" area as a digital notebook for storing documentation and reflection as they work. For most steps, this area is optional but sometimes there are specific required prompts under the “Show your Work" banner, asking students to upload evidence or reflect.
+As students work on a project they can choose to submit evidence of their progress (as images, text reflections, or attachments) at the bottom of steps that are labeled as “required”. At the end of the project, in the “Submit Work" area, students can look over and add to their work, and confirm any collaborators, before submitting it. Submitted projects are sent to the “Group Work” area of your group page, and to the student’s profile.
 
 ### How do educators train youth to use Mouse Create? Are there activities that introduce the platform?
 
@@ -49,13 +45,9 @@ Once you have created an account you will enter your Educator Code on the Dashbo
 
 Any educators who will be working with students should follow the same procedure using the same Educator Code. Educators who create Groups will get another unique Group Code to share with their students so that the students can join the Group.
 
-### If I created my Credly account using Facebook or LinkedIn how do I connect my Mouse Create account?
-
-You can login to Credly using either Facebook or LinkedIn, then edit your Credly profile to add an email address and a password. You will now be able login to Credly through Mouse Create using the new email and password.
-
 ### How do I find my Group’s playlist? How can I see which students are in my Group?
 
-The projects playlist is available on your Group page, this way you can have a different playlist for each Group. You can access your Group page by clicking on your Group name in the black header at the top of the page.
+The projects playlist is available on your Group page, this way you can have a different playlist for each Group. You can access your active Group page by clicking on your Group name at the top of the page, or by selecting the “Group” button.  
 
 ### Can I edit my Group’s playlist?
 
