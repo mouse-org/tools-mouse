@@ -1,7 +1,7 @@
 Help: Groups — Reviewing Group Work
 ===================================
 
-### Educators Only: Reviewing Projects & Leaving Feedback
+### Group Managers Only: Reviewing Projects & Leaving Feedback
 
 You will receive a notification when your group members have submitted a project. You can click the message from the Notifications Area to review the work and leave feedback there, or you can use the Group Work tab within your Group area to see and filter all work submitted by members of your group.
 
@@ -16,7 +16,7 @@ You will receive a notification when your group members have submitted a project
 
 ### Filtering and Sorting the Group Work Table
 
-The Group Work able is both sortable and filterable. Sorting the table will change the order that the project work submissions appear. Filtering the table will hide project work submissions that do not match the filter criteria.
+The Group Work table is both sortable and filterable. Sorting the table will change the order that the project work submissions appear. Filtering the table will hide project work submissions that do not match the filter criteria.
 
 #### Sort the work in the Group Work table, by clicking the heading of the following columns:
 
