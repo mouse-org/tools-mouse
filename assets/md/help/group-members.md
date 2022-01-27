@@ -19,17 +19,41 @@ Help: Groups — Member Management
 
 ### About the Members Table
 
-![](/images/members-table.png)
+![](/images/members-table-group-manager.png)
 
-*   **Name (Username):** Shows each group member’s avatar, their real name, and their Mouse Create username in parentheses.
-*   **Role:** Shows whether each group member is a student or an educator.
-*   **Age:** Shows the age of student group members.
-**Credly Connected:** Shows either ‘Yes’ or ‘No’ depending on whether the group member listed has connected their Mouse Create account to a Credly account. Users can connect to Credly on their profile.*   **Last Login:** Shows the date each group member last logged in to Mouse Create.
-*   **Actions:** For educators shows links for Editing student accounts and for archiving students from the group, for students shows “None".
+* **Name (Username):** Shows each group member’s avatar, their real name, and their Mouse Create username in parentheses.
+* **Type:** Shows which members are students, educators, or group managers.  Only Group Managers are able to edit the settings of the group. By default, the educator who created the group is the “Group Manager”.  
+* **Last Login:** Shows the date each group member last logged in to Mouse Create.
+* **Actions:** Group Managers can see links to edit student accounts, to archive members from the group, and to give group manager status to another educator account.  For students, and educators without group manager status, this area shows “None".
+
+### Group Membership Types: Managers, Educators, and Students
+**Group Manager:** This role is given to the educator who first created a group and can be assigned to other educators who join the group.  Group Managers can: 
+  * Change the name of the group
+  * Delete the group
+  * Share the group code for students and educators to join
+  * Add/remove projects in the group playlist
+  * Review student work
+  * Award badges
+  * Get notifications about the group
+  * Edit student group members accounts
+  * Add/remove “Group Manager” status for other educators in the group
+
+**All group members (students and educators*) can:**
+  * View projects in the group playlist
+  * Submit work to the group
+  * Add other group members as collaborators on work they submit within the group
+  * View work submitted by all group members from the “Group Work” area
+  * Add comments on any member’s work submitted to the group
+  * Receive notifications about their own work in the group
+  * Receive badges
+  * View the “Members” area 
+  * View the profile pages of other group members
+  * Edit their own account settings
+* **Note:** Educators who join a group they did not create have no special privileges unless they are given “Group Manager” status by the person who created the group. 
 
 ### Editing Students’ Accounts: Passwords, Usernames and Emails
 
-Any Educator in the same group as a student can change that student’s password, username, email address, avatar or bio. To edit a student account:
+Group Managers in the same group as a student can change that student’s password, username, email address, avatar or bio. To edit a student account:
 
 *   Go to the Members tab of the group page.
 *   In that student’s row in the Members table, click the “Edit Account" link in the Actions column.
@@ -37,7 +61,7 @@ Any Educator in the same group as a student can change that student’s password
 
 ### Archiving Students from your Group
 
-When a student is no longer participating in your Mouse group, you can archive them on Mouse Create. To archive a student from your group
+When a student is no longer participating in your Mouse group, you can archive them on Mouse Create. To archive a student from your group:
 
 *   Go to the Members tab of the group page.
 *   In that student’s row in the Members table, click the “Archive user from Group" link in the Actions column.
