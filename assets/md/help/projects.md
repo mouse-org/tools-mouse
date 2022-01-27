@@ -2,10 +2,7 @@
 
 ### Getting Started: Finding the Right Projects
 
-Mouse Create has 200+ projects across 30+ competency areas (You may see fewer projects than this when browsing the "Projects" area depending on whether you have a Full Membership or a Spark Membership. Visit [https://mouse.org/join](https://mouse.org/join) for more info). 
-
-To help you find the right projects for your group, we recommend these steps:
-
+Mouse Create has hundreds of projects across many competency areas. To help you find the right projects for your group, we recommend these steps:
 * **Educators:** Take the Mouse Educator Course: Select the "Projects" button in the top menu. Within the Project Finder, select the “Educator Course". Then complete each project within the course.
 
 * Use the Project Finder (in the "Projects" area) to navigate to course pages about each Mouse Create course, or to filter the projects by skill or setting tags.
@@ -15,6 +12,8 @@ To help you find the right projects for your group, we recommend these steps:
 * On a course page, you can explore the outcomes, materials and instruction time requirements for each course, as well as the digital badges earned within, the projects for the course in order and a list of optional, related projects.
 
 * To add an entire course to your group’s playlist, click the "Add Course to Playlist" button at the top of the page.
+
+* **Note:** You can only add projects and courses to groups where you are the “Group Manager”.  If you created the group yourself, you are automatically the Group Manager.  If you joined a group created by another educator, the Group Manager can give you “Group Manager” status from the “Members” area under “Actions”.
 
 ### Educators: Preparing to Facilitate a Project
 
@@ -48,9 +47,9 @@ To help you find the right projects for your group, we recommend these steps:
 
 * Creators: If students are working in teams, or as a whole group, they can tag other users in your group as "collaborators" before submitting the project. This will give those users credit for having completed the project as well.
 
-### Educators: Reviewing Student Work
+### Group Managers: Reviewing Student Work
 
-* Submitted projects need to be reviewed by the group educator. You can find these projects on your group page in the "Group Work" tab. 
+* Submitted projects need to be reviewed by a Group Manager. You can find these projects on your group page in the "Group Work" tab. 
 
 * For more information see the [Reviewing Student Work](https://tools.mouse.org/help/group-work) page.
 
