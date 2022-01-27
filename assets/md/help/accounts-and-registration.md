@@ -12,9 +12,9 @@ If you are a Mouse member site, but have not received your site’s Educator Cod
 
 ### Creating an account: standard registration vs. joining with Google
 
-Mouse Create allows educators and students to authenticate and link a Google Account (examples: Gmail and Google Suite for Education) to their Mouse Create account.  When you choose to register using your Google account, each time you go to Mouse Create, you will be able to quickly login by verifying your Google account.  You will not need to remember a separate username and password just for Mouse Create. 
+Mouse Create allows educators and students to authenticate and link a Google Account (examples: Gmail and Google Suite for Education) to their Mouse Create account. When you choose to register using your Google account, each time you go to Mouse Create, you will be able to quickly login by verifying your Google account. You will not need to remember a separate username and password just for Mouse Create.
 
-If you do not have a Google account, you can still register normally by choosing a username and password for Mouse Create. 
+If you do not have a Google account, you can still register normally by choosing a username and password for Mouse Create.
 
 ### “Join with Google” - How to register Educator accounts using Google Single Sign On
 
@@ -49,11 +49,11 @@ If you do not have a Google account, you can still register normally by choosing
 4.  You will be prompted to select and log into a Google Account of your choice.  If you have more than one Google Account, make sure you choose the account you want to use to login to Mouse Create in the future.  
 5.  After authenticating your Google account, you will return to Mouse Create to complete the account creation process. 
 6.  “What kind of account do you want to make?": Student
-8.  Make sure to fill in all required fields
-9.  Choose a username: this is the display name that will be shown when you submit work and post comments.  
-10.  Review and check the Terms of Service box
-11. Check the “I am not a robot" box. This is called a captcha and is required for our site’s security. You may or may not be required to complete a quick image test.
-12.  After you have created your new student account, you need your Group Code to get access to Mouse Create. Educators can find your Group Code at the top of the Group page.
+7.  Make sure to fill in all required fields
+8.  Choose a username: this is the display name that will be shown when you submit work and post comments.  
+9.  Review and check the Terms of Service box
+10. Check the “I am not a robot" box. This is called a captcha and is required for our site’s security. You may or may not be required to complete a quick image test.
+11.  After you have created your new student account, you need your Group Code to get access to Mouse Create. Educators can find your Group Code at the top of the Group page.
 
 ### Walkthrough of "Join with Google" Student account registration
 
@@ -140,7 +140,7 @@ If you registered without connecting a Google or G Suite account, when you signe
 2.  Click “Login or Create an account”
 3.  Click “Log In With Google”
 4.  Enter your Mouse Create username or the email address you added when you registered.
-5. Enter your Mouse Create password.
+5.  Enter your Mouse Create password.
 
 ### How to change your own Mouse Create Password (for non-Google users)
 
@@ -170,13 +170,11 @@ If you did not provide an email address when you made your Mouse Create account,
 
 ### Resetting Student Passwords (for non-Google users)
 
-Any educator in the same group as a student can reset that student's password. To reset a student's password follow the steps below:
+Any Group Manager in the same group as a student can reset that student's password. To reset a student's password follow the steps below:
 
 1.  Go to the Group Page of the group the student is in.
-2.  Scroll down to the Members section of the Group Page.
-3.  Click on the "Manage" link next to the word "Members".
-4.  Find the student in the list of Active Group Members and click "Edit Account" in the "Actions" column.
-5.  Type the student's new password in both the "Password" field and the "Confirm Password field". Note: You can also edit the student's username, email address, profile image, or bio if necessary.
-6.  At the bottom of the page click the "Update Profile" button.
-7.  If the student wants to change their password again to something only they know, they can do this from their own profile page after logging in with the password you gave them.
-
+2.  Select the “Members” tab within the Group page.
+3.  Find the student in the list of Active Group Members and click "Edit Account" in the "Actions" column.
+4.  Type the student's new password in both the "Password" field and the "Confirm Password field". Note: You can also edit the student's username, email address, badge status, profile image, or bio if necessary.
+5.  At the bottom of the page click the "Update Profile" button.
+6.  If the student wants to change their password again to something only they know, they can do this from their own profile page after logging in with the password you gave them.
