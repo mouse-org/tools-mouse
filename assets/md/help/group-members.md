@@ -38,6 +38,8 @@ Help: Groups — Member Management
   * Edit student group members accounts
   * Add/remove “Group Manager” status for other educators in the group
 
+<iframe width="560" height="315" src="https://youtu.be/t7MPEGVeZH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **All group members (students and educators*) can:**
   * View projects in the group playlist
   * Submit work to the group
