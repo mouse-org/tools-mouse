@@ -38,7 +38,7 @@ Help: Groups — Member Management
   * Edit student group members accounts
   * Add/remove “Group Manager” status for other educators in the group
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=t7MPEGVeZH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t7MPEGVeZH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **All group members (students and educators*) can:**
   * View projects in the group playlist
