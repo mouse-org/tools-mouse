@@ -109,11 +109,6 @@ export default {
           url: '/help/projects',
           class: 'menu-item'
         },
-        {
-          name: 'Help: Schedule a Check-In',
-          url: '/help/check-in',
-          class: 'menu-item'
-        },
         /*
         {
           name: 'Changes and Updates',
