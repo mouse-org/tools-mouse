@@ -6,7 +6,6 @@
 </template>
 
 <script>
-/*
 import Menu from '~/components/Menu.vue'
 import md from '~/assets/md/help/check-in.md'
 
@@ -20,5 +19,4 @@ export default {
     }
   }
 }
-*/
 </script>
