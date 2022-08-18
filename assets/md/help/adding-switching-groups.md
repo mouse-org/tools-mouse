@@ -25,7 +25,7 @@ Your group name must be unique across all groups on Mouse Create. If you try to 
 If you are working with various classes or clubs, you can create or join multiple groups.
 
 1.  Select the "More" button from the top menu and go to "My Groups".
-2.  Below your original group name, select "Add Group".
+2.  Below your original group name, select "Add Group"
 3.  From here you can join a group with a Group Code, or educators can scroll down to create another group by filling out the form.
 4.  **When creating a new group, make sure that the site listed above the Group Name is the site you want the group to be associated with. If you do not see the correct site listed please see the instructions below.**
 
