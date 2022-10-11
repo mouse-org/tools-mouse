@@ -1,0 +1,321 @@
+[
+    {
+      "course_name": "Circuitry & Electronics",
+      "course_description": "The Circuitry & Electronics course encourages teams to design, create, tinker, and build with technology. Youth build analog circuits using LEDs, transistors, and sensors, and learn to program an Arduino microcontroller to create a digital music maker and light chaser. The course ends with participants designing and building a digital circuit prototype. Projects marked with * can be substituted for Arduino based projects.",
+      "course_overview": "https://drive.google.com/open?id=1hGSfULCeDobJB0NEPVPM3pmM-TTEhQpgpfQ92h62S5I",
+      "projects": [
+        2488,
+        2093,
+        3996,
+        4201,
+        4397,
+        4380,
+        4920,
+        6021,
+        6859,
+        5046,
+        5000,
+        14468,
+        15456,
+        15247,
+        15326
+      ]
+    },
+    {
+      "course_name": "Coding",
+      "course_description": "Mouse’s Coding course allows groups to get familiar with one of today’s most valuable 21st century skills. This course starts by focusing on front-end web design skills with activities on HTML, CSS and JavaScript. Learners then move to the command line where they get experience with a few languages and basic computer programming processes.",
+      "course_overview": "https://drive.google.com/open?id=1xUEF0R2fFrOKtHuVUL1S5XDe8R0cJpW8upk_MjzZ4MU",
+      "projects": [
+        2348,
+        2017,
+        1935,
+        18820,
+        7697,
+        6269,
+        7864,
+        3714,
+        4586,
+        2150,
+        7382
+      ]
+    },
+    {
+      "course_name": "Cybersecurity by Per Scholas",
+      "course_description": "In this course, students explore how and why cyber attacks occur and the effects they have on organizations.",
+      "course_overview": "",
+      "projects": [
+        26983,
+        26996,
+        27048,
+        25919,
+        27009,
+        26259,
+        27022,
+        27061,
+        27035
+      ]
+    },
+    {
+      "course_name": "Design with Purpose",
+      "course_description": "Groups working on the Design with Purpose course will research, brainstorm, prototype, and share their own technology innovation. By practicing and applying the Human-Centered Design process, youth will learn to empathize with their users and design technologies that address an authentic need.",
+      "course_overview": "https://docs.google.com/document/d/1qok8C7eVzlxxudqUH28B2SzBp1NnajI_LPb0w4TEhNs/edit?usp=sharing",
+      "projects": [
+        895222, 
+        6813, 
+        1874, 
+        5573, 
+        6070, 
+        983532, 
+        6991, 
+        7058, 
+        7629, 
+        7968, 
+        8317, 
+        8289, 
+        899412, 
+        907229, 
+        921282, 
+        8088, 
+        936257, 
+        7841, 
+        982994, 
+        8569, 
+        8219
+      ]
+    },
+    {
+      "course_name": "Digital Portfolios",
+      "course_description": "Accomplishments go far beyond what you see on a school transcript. That's why Mouse and DreamYard Project have teamed up to develop a course aimed at helping students design digital learning portfolios that will allow them to track successes that embody the full breadth of their interests whether in school or out. Students will learn what it takes to document projects, reflect on accomplishments and design high-quality digital portfolios that they can confidently show off to employers or college admissions counselors.",
+      "course_overview": "https://docs.google.com/document/d/1NkMWbv-jJ-K7YrSZOVeXdVsl0Bwfmv0R7ltMahARPEU/edit?usp=sharing",
+      "projects": [
+        11846,
+        11874,
+        11939,
+        12188,
+        11787,
+        12118
+      ]
+    },
+    {
+      "course_name": "Green Tech",
+      "course_description": "The Green Tech course turns groups into sustainable technology leaders in their community. Youth build electricity generators, make batteries with everyday materials, and add solar panels to electric toys in order to better navigate the science behind eco-friendly technology. Youth will also experiment to improve the technology carbon footprint at their school and lead a action campaign with their findings.",
+      "course_overview": "https://docs.google.com/document/d/1T-sbWtmXJ6BFqc8vM366MiDywqNLuopqPh8rgTDbNFc/edit?usp=sharing",
+      "projects": [
+        8971,
+        44,
+        105,
+        134,
+        155,
+        176,
+        195,
+        237,
+        249,
+        260
+      ]
+    },
+    {
+      "course_name": "Impact Game Design",
+      "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
+      "course_overview": "https://drive.google.com/open?id=1mVoQv0tI9mL8S8UEtMXgqdlG4MrO61S1qlOAUhzoBTM",
+      "projects": [
+        6210,
+        6477,
+        4254,
+        5558,
+        4781,
+        5293,
+        5509,
+        2768,
+        3099,
+        3500,
+        9663,
+        10333,
+        13263,
+        13335
+      ]
+    },
+    {
+      "course_name": "Impact Game Design (G4C)",
+      "course_description": "The Impact Game Design course introduces youth to the building blocks of game design and the world of socially responsible gaming. Participants then research, design, and code a game prototype in Scratch.",
+      "course_overview": "https://docs.google.com/document/d/1MS2HBpV7G_VW-N8llocR43bzIqfqZkvWiCwcrFOiKDU/edit",
+      "projects": [
+        20478,
+        20483,
+        19083,
+        19175,
+        20830,
+        19289,
+        19446,
+        19543,
+        19693,
+        19337,
+        19831,
+        19890,
+        20487
+      ]
+    },
+    {
+      "course_name": "Intro to Design",
+      "course_description": "The Intro to Design course gives youth the skills they need to begin creating original graphics, visual displays, animations, and models. Participants learn the essential elements to consider when engaging in graphic and 3D design. They use color wheels to choose color schemes, practice design layout techniques, and create an original typeface. They also learn how to draw shapes and objects in 3D and to create models in 3D CAD (computer-assisted design) software.",
+      "course_overview": "https://docs.google.com/document/d/1VM_jE66-7zlee1JfpnE6KhcaBvWzCHWZoLiwFPke_Sc/edit?usp=sharing",
+      "projects": [
+        7298,
+        8104,
+        8263,
+        7494,
+        8540,
+        8738,
+        8879,
+        9149,
+        9479,
+        10455,
+        10645
+      ]
+    },
+    {
+      "course_name": "IT Admin",
+      "course_description": "The IT Admin course is a follow-up to the IT Essentials course. Youth learn the structure and design of networks and the internet while exploring interfaces through peripherals, operating systems and app design.",
+      "course_overview": "https://drive.google.com/open?id=1qME0PvO_rZ1LycncbGohyYKsATjEi8uvxEZwlBfOaXo",
+      "projects": [
+        3018,
+        3782,
+        5158,
+        6343,
+        3855,
+        2418,
+        5667,
+        5786
+      ]
+    },
+    {
+      "course_name": "IT Essentials",
+      "course_description": "The IT Essentials course is an introduction to working with technology in hands-on and innovative ways. Youth start by exploring computer hardware and software, then build on these skills by designing new ways of interacting with technology.",
+      "course_overview": "https://drive.google.com/open?id=1Ps1L2faNbLbQ3-OcEESA8UBw2l4e77naC5flq23eRgM",
+      "projects": [
+        3142,
+        1815,
+        2904,
+        5267,
+        3917,
+        2218,
+        5745,
+        3443
+      ]
+    },
+    {
+      "course_name": "Scratch Creative Computing",
+      "course_description": "Creative Computing is a style of education that promotes student agency and creativity while learning new skills. Through the use of the coding platform Scratch students will engage in creative computing to design their own programs.<br><br>The Scratch Creative Computing projects hosted here have been adapted, edited and expanded on from the curriculum released under a Creative Commons license by the ScratchEd team at the Harvard Graduate School of Education to promote further student engagement. The original curriculum can be found at the [Harvard Graduate School of Education Creative Computing website](https://scratched.gse.harvard.edu/guide/index.html) if you choose to use it as an additional resource.",
+      "course_overview": "",
+      "projects": [
+        24235,
+        24265,
+        21037,
+        24295,
+        24415,
+        24444,
+        24473,
+        24789,
+        24818,
+        24847,
+        24876,
+        24905,
+        24934,
+        24963,
+        24992,
+        25021,
+        25050,
+        25079,
+        25108,
+        25137,
+        25166,
+        25195
+      ]
+    },
+    {
+      "course_name": "Scratch Creative Computing 2",
+      "course_description": "Scratch Creative Computing 2 is a continuation of the learning completed in the Scratch Creative Computing Course, though this course is recommended for learners grade 6 and above. This course assumes the student has some familiarity with Scratch and approaches game design from a step-by-step computer science perspective. ",
+      "course_overview": "",
+      "projects": [
+        26322,
+        26351,
+        26380,
+        26409,
+        26438,
+        26467,
+        24386
+      ]
+    },
+    {
+      "course_name": "Sewable Tech",
+      "course_description": "Sewable Tech combines STEM learning with artistic expression and crafting. Research shows that learning circuitry through this STEAM lens engages a wider audience than traditional circuit design and improves learner outcomes! In this 9-project course, students will learn to embed circuitry directly into fabric-- creating soft circuits, fabric switches and sewable sensors. The course will culminate in a final project that students will sew and program to help them set and achieve goals. Projects marked with * can be substituted for LilyPad based projects.",
+      "course_overview": "https://docs.google.com/document/d/1tvBUnoM41YrMTq0LbSqz_WUpa0Ww1PG8XTToeKMw37Y",
+      "projects": [
+        11078,
+        10935,
+        11039,
+        11238,
+        11320,
+        11473,
+        11208,
+        11565,
+        11680,
+        15484,
+        15720
+      ]
+    },
+    {
+      "course_name": "Tech Team",
+      "course_description": "The Tech Team course is for groups looking to provide technical and user support at their site as a help desk. In addition to completing both IT courses, Tech Team groups participate in team building activities, build troubleshooting skills, develop routines and professional communication, and give back through community service.",
+      "course_overview": "https://drive.google.com/open?id=1OrfPN11uNAlUt42tYOX83MKo6WHpEPcqgfDkdFkxcTU",
+      "projects": [
+        3537,
+        5554,
+        2508,
+        4114,
+        4747,
+        3263,
+        5548,
+        5194,
+        1769,
+        2289
+      ]
+    },
+    {
+      "course_name": "Video Creator",
+      "course_description": "In this age of Photoshop, social networks, and the spread of fake news, visual literacy is more important than ever. Mouse’s Video Creator course aims to equip students with the basic skills and insights needed to navigate today’s multimedia landscape. Students will learn shot and composition techniques for creating ful images, create storyboards to plan for longer media pieces, practice recording good-quality sound, and combine various multimedia assets together to create meaningful visual stories.",
+      "course_overview": "https://docs.google.com/document/d/1kKCg0GaeAz5lq05pauETo1zsqHKmsL4WljTT96CHn0A/edit?usp=sharing",
+      "projects": [
+        21211,
+        21240,
+        21269,
+        21066,
+        21095,
+        21124,
+        21153,
+        21182,
+        16590,
+        16730,
+        16812,
+        16895,
+        17075,
+        21298
+      ]
+    },
+    {
+      "course_name": "Web Literacy",
+      "course_description": "Mouse’s Web Literacy course is all about transforming youth from casual web users to savvy participants who can think critically, participate safely, and demonstrate good citizenship online. Groups will learn about data on the web as it relates to users and privacy, develop the knowledge and skills needed to keep safe online, and explore the issues of policy, choice, and research on the web.",
+      "course_overview": "https://drive.google.com/open?id=1rQR5gSp9C2HZtfrSQPluMv_HB5BtpduGG349kbnYkc0",
+      "projects": [
+        2451,
+        7023,
+        6144,
+        6858,
+        6507,
+        2438,
+        3220,
+        2458,
+        2499,
+        2477
+      ]
+    }
+  ]

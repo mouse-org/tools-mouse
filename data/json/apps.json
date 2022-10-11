@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Awkward! Dealing With Strangers Online",
+      "thumbnail": "/images/apps/awkward.gif",
+      "url": "awkward-dealing-with-strangers-online"
+    },    
+    {
+      "name": "My Name is URL",
+      "thumbnail": "/images/apps/url.png",
+      "url": "my-name-is-url"
+    },
+    {
+      "name": "Game Mechanic Generator",
+      "thumbnail": "/images/apps/gamemechanicgenerator.png",
+      "url": "game-mechanic-generator"
+    },
+    {
+      "name": "Hacking Smogville's Sustainable Future",
+      "thumbnail": "/images/apps/smogville.png",
+      "url": "hacking-smogvilles-future"
+    },
+    {
+      "name": "Phish Market",
+      "thumbnail": "/images/apps/phishMarket.png",
+      "url": "phish-market"
+    },
+    {
+      "name": "Ports & Connections Match",
+      "thumbnail": "/images/apps/portsMatch.png",
+      "url": "ports-and-connections-match"
+    },
+    {
+      "name": "Remixable Space Invaders",
+      "thumbnail": "/images/apps/remixspaceinvader.png",
+      "url": "remixable-space-invader"
+    },
+    {
+      "name": "Social Network Sort",
+      "thumbnail": "/images/apps/socialNetworkSort.png",
+      "url": "social-network-sort"
+    },
+    {
+      "name": "You've Got The Power",
+      "thumbnail": "/images/apps/youve-got-the-power.png",
+      "url": "youve-got-the-power"
+    }
+]
