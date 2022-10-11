@@ -1,1 +1,0 @@
-![](http://bestanimations.com/Animals/Birds/bird-animated-gif-8.gif)
