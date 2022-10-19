@@ -12,7 +12,7 @@
         error:null,serverRendered:true
     };
 </script>
-<script src="/site.js" defer></script>
+<!-- <script src="/js/site.js" defer></script> -->
 </body>
 </html>
 

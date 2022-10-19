@@ -6,6 +6,10 @@ namespace Composer\Autoload;
 
 class ComposerStaticInitf8f5be13c02270848a116b0007731d8d
 {
+    public static $files = array (
+        '7dea74e502f47e6868fe6d7ab115481c' => __DIR__ . '/..' . '/erusev/parsedown/Parsedown.php',
+    );
+
     public static $prefixesPsr0 = array (
         'P' => 
         array (

@@ -146,7 +146,7 @@ function buildBoard() {
   shuffleBoard(img_array);
   for (var i in img_array) {
     var img = img_array[i];
-    $( "#memory-board" ).append("<div class='card' state='unshown' cardName='" + img.name + "' cardType='" + img.type + "' id="+ img.name + img.type +"><div class = 'background-image'><img src = 'card-images/card-background.png'></div><div class='card-image'><img src=\"" + img.image+"\"></div>"+"</div>")
+    $( "#memory-board" ).append("<div class='card' state='unshown' cardName='" + img.name + "' cardType='" + img.type + "' id="+ img.name + img.type +"><div class = 'background-image'><img src = '/apps/ports-and-connections-match/card-images/card-background.png'></div><div class='card-image'><img src=\"/apps/ports-and-connections-match/" + img.image+"\"></div>"+"</div>")
   var node = document.createElement("LI");
     node.id = "credit-Link"+i;
     node.innerHTML = img.name+" "+img.type+" by <a href="+img.creditLink+" target='_blank'>"+img.credit+"</a>"

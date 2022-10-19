@@ -21,7 +21,7 @@
     <ul class="project-list">
         <?php foreach($badge['projects'] as $projectId): ?>
         <li>
-            <a href="https://create.mouse.org/project/<?php echo $projectId; ?>" target="_blank">
+            <a href="https://create.mouse.org/project/<?php echo $projectId; ?>/step/1" target="_blank">
                 <?php echo $projects[$projectId]['title']; ?>
             </a>
         </li>

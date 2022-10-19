@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   var socialNetworkHTML;
 
   for (i in networkList) {
-    socialNetworkHTML = "<li onclick='chooseNetwork(" + i + ")' class='social-network-choice' id='" + networkList[i].name + "'>" + "<img class='logo' src='images/logos/" + networkList[i].imageURL + "'><br>" + networkList[i].name + "</li>";
+    socialNetworkHTML = "<li onclick='chooseNetwork(" + i + ")' class='social-network-choice' id='" + networkList[i].name + "'>" + "<img class='logo' src='/apps/social-network-sort/images/logos/" + networkList[i].imageURL + "'><br>" + networkList[i].name + "</li>";
     socialNetworkList.insertAdjacentHTML("beforeend", socialNetworkHTML);
   }
 
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     statusUpdateHTML += "<div class='status-update-category drag-container' id='" + cat + "-updates'>";
 
     for (j = 0; j < updates[cat].length; j++) {
-      statusUpdateHTML += "<div class='status-update'><div class='close-status'>x</div><div class='status-avatar'><img src='images/speaking-user.png'></div><div class='status-text'>" + updates[cat][j][0] + "</div>";
+      statusUpdateHTML += "<div class='status-update'><div class='close-status'>x</div><div class='status-avatar'><img src='/apps/social-network-sort/images/speaking-user.png'></div><div class='status-text'>" + updates[cat][j][0] + "</div>";
       if (updates[cat][j].length > 1) {
         if (updates[cat][j][1] == "text") {
           statusUpdateHTML += "<div class='status-preview'>" + updates[cat][j][2] + "</div>";
@@ -111,7 +111,7 @@ function chooseNetwork(networkID) {
 
   network.style.background = socialNetwork.color;
   networkName.insertAdjacentHTML("afterbegin", socialNetwork.name);
-  networkName.insertAdjacentHTML("afterend", "<img src='images/logos/" + socialNetwork.imageURL + "' class='logo-small'>");
+  networkName.insertAdjacentHTML("afterend", "<img src='/apps/social-network-sort/images/logos/" + socialNetwork.imageURL + "' class='logo-small'>");
   firstStatus.insertAdjacentHTML("beforeend", socialNetwork.name);
 
   numberOfNetworksChosen += 1;

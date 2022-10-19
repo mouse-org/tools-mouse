@@ -19,3 +19,10 @@ function getJsonData($filename)
     $json = file_get_contents(JSON_DATA_DIR . '/' . $filename);
     return json_decode($json, true);
 }
+
+function generateSlug($title)
+{
+    $title = strtolower($title);
+    $title = str_replace('& ', '', $title);
+    return str_replace(' ', '-', $title);
+}

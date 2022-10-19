@@ -16,7 +16,7 @@
     foreach($courses as $course):
 ?>
 <div>
-    <h3 id="">
+    <h3 id="<?php echo generateSlug($course['course_name']); ?>">
         <?php echo $course['course_name']; ?>
     </h3>
     <p>
@@ -27,7 +27,7 @@
     <ol>
         <?php foreach($course['projects'] as $projectId): ?>
         <li>
-            <a href="https://create.mouse.org/project/<?php $projectId; ?>" target="_blank">
+            <a href="https://create.mouse.org/project/<?php echo $projectId; ?>/step/1" target="_blank">
                 <?php if (in_array($projectId, $optionalProjects)): ?>
                     <span>
                         *&nbsp;
