@@ -70,6 +70,11 @@
       "class": "menu-item"
     },
     {
+      "name": "Help: Schedule a Check-In",
+      "url": "/help/check-in",
+      "class": "menu-item"
+    },
+    {
       "name": "iPad Tips",
       "url": "/ipad",
       "class": "menu-item"

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload": {
+        "files": ["vendor/erusev/parsedown/Parsedown.php"]
+    }
+}
