@@ -1,0 +1,116 @@
+
+<!--
+
+Thanks to Dragula for drag and drop functionality
+https://bevacqua.github.io/dragula/
+
+-->
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>You've Got The Power Sorting Game</title>
+    <link rel="stylesheet" href="/apps/youve-got-the-power/style.css">
+    <link rel="stylesheet" href="/apps/youve-got-the-power/dragula.css">
+  </head>
+  <body>
+   <img id="logo" width="200" src="/apps/youve-got-the-power/mouse_logoRGB.png">
+    <h1>
+     You've Got The Power
+    </h1> 
+    <div  id="instructions">
+      <h2>
+        Arrange the Power Story cards in the correct order to get electricity to the International Center for Tropical Yetis. You can either print them out, or download the digital versions and rearrange them on your computer!
+      </h2>
+    </div>
+    <div id="check-button">
+      <button class="button" onclick="checkOrder()">Check the Order!</button>
+    </div>
+    <div id="step-list">
+     
+      <div id="1" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide1.png">
+        </div>
+        <div class="slide-caption">
+          <strong>This is the first card:</strong> find the correct order for the rest of the slides to help save the Yetis!
+        </div>
+      </div>
+      
+      <div id="8" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide8.png">
+        </div>
+        <div class="slide-caption">
+          <strong>The Yeti Sisters’ Air Conditioner:</strong> This machine requires power to keep the Yetis nice & cool. Air conditioners use lots of electricity, so always make sure you turn yours off when you don’t need it!
+
+        </div>
+      </div>
+
+      <div id="2" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide2.jpg">
+        </div>
+        <div class="slide-caption">
+          <strong>Fossil Fuel (Coal):</strong> Fuel made from ancient plants & animals that are dug out from deep in the Earth.  
+
+        </div>
+      </div>
+
+      <div id="7" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide7.jpg">
+        </div>
+        <div class="slide-caption">
+          <strong>Power Lines:</strong> Power lines connect electricity from where it is made to where it needs to go.
+        </div>
+      </div>
+
+      <div id="3" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide3.jpg">
+        </div>
+        <div class="slide-caption">
+          <strong>Furnace:</strong> A furnace produces heat by burning stuff.  To determine which step the furnace is, think about how we might keep the fire burning and what we might do with the heat it creates.
+
+        </div>
+      </div>
+
+      <div id="6" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide6.jpg">
+        </div>
+        <div class="slide-caption">
+          <strong>Generator:</strong> A generator is a large magnet surrounded by copper wire. As it spins, it produces electricity. To determine which step a generator is, think about what it needs to make it spin.
+
+        </div>
+      </div>
+
+      <div id="4" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide4.jpg">
+        </div>
+        <div class="slide-caption">
+          <strong>Boiler:</strong> A boiler is like a giant pot or tea kettle. It boils water to turn it into steam.
+        </div>
+      </div>
+
+      <div id="5" class="sortable">
+        <div class="slide-image">
+          <img src="/apps/youve-got-the-power/Slides/Slide5.jpg">
+        </div>
+        <div class="slide-caption">
+          <strong>Turbine:</strong> A turbine is made up of blades that spin when steam is pushed through them.  As the turbine spins, it is connected to another spinning part that produces electricity
+
+        </div>
+      </div>
+    </div>
+
+    <script src="/apps/youve-got-the-power/dragula.js"></script>
+    <script src="/apps/youve-got-the-power/script.js"></script>
+  </body>
+</html>

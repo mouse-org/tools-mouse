@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<!--
+To Dos:
+- Add Public/Private to Printable version
+- Add more instructions below if necessary
+- CSS comments
+- Fix box alignment
+- Better styles
+- Responsive layout
+- Condense Status Update Library Button code
+# Fix update text that breaks out of boxes
+-->
+
+
+
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sort</title>
+    <link rel="stylesheet" href="/apps/social-network-sort/style.css">
+    <link rel="stylesheet" href="/apps/social-network-sort/dragula.css">
+  </head>
+  <body>
+    <div id="printable-buttons">
+      <div class="print-button" onClick="printList()">
+        <img src="/apps/social-network-sort/images/printer.png" class="printer-icon">Click to Print
+      </div>
+      <div class="print-button" onClick="backToSort()" style="display: none;">
+        <img src="/apps/social-network-sort/images/arrow.png" class="arrow-icon">Back to Sorting
+      </div>
+    </div>
+    <div id="printer-friendly">
+    </div>
+    <div id="main-container">
+      <div id="loading">
+        <img src="/apps/social-network-sort/images/gear-animation-500.gif">
+      </div>
+      <h2 id="counters">
+        <div id="c0">
+        </div>
+        <div id="c1">
+        </div>
+        <div id="c2">
+        </div>
+      </h2>
+      <h1 id="directions">
+        Pick 3 Social Networks that you use!
+      </h1>
+      <ul id="social-network-list">
+
+      </ul>
+
+
+      <div id="chosen-networks">
+        <div id="networks">
+          <div id="network0" class="network set-public">
+            <h2 id="network0-name" class="network-name"></h2>
+            <div class="privacy-sliders">
+              <div class="slider">
+                <div class="public">
+                  <div class="priv-text">Public</div>
+                  <div class="slide-ball">
+                  </div>
+                </div>
+                <div class="private">
+                  <div class="slide-ball">
+                  </div>
+                  <div class="priv-text">Private</div>
+                </div>
+              </div>
+           </div>
+           <div class="status-list">
+              <div class="drag-container">
+                <div class="status-update">
+                  <div class="close-status">
+                    x
+                  </div>
+                  <div class="status-avatar">
+                    <img src="/apps/social-network-sort/images/speaking-user.png"></div>
+                  <div id="network0-first-status" class="status-text">
+                    Hello World! This is my first post on
+                  </div>
+                </div>
+                <div class="status-update blank-status-update">
+                  +
+                </div>
+                <span class="clear"></span>
+              </div>
+            </div>
+         </div>
+         <div id="network1" class="network set-public">
+            <h2 id="network1-name" class="network-name"></h2>
+            <div class="privacy-sliders">
+              <div class="slider">
+                <div class="public">
+                  <div class="priv-text">Public</div>
+                  <div class="slide-ball">
+                  </div>
+                </div>
+                <div class="private">
+                  <div class="slide-ball">
+                  </div>
+                  <div class="priv-text">Private</div>
+                </div>
+              </div>
+            </div>
+            <div class="status-list">
+              <div class="drag-container">
+                <div class="status-update">
+                  <div class="close-status">
+                    x
+                  </div>
+                  <div class="status-avatar">
+                    <img src="/apps/social-network-sort/images/speaking-user.png"></div>
+                  <div id="network1-first-status" class="status-text">
+                    Hello World! This is my first post on
+                  </div>
+                </div>
+                <div class="status-update blank-status-update">
+                  +
+                </div>
+                <span class="clear"></span>
+
+              </div>
+
+            </div>
+          </div>
+          <div id="network2" class="network set-public">
+            <h2 id="network2-name" class="network-name"></h2>
+            <div class="privacy-sliders">
+              <div class="slider">
+                <div class="public">
+                  <div class="priv-text">Public</div>
+                  <div class="slide-ball">
+                  </div>
+                </div>
+                <div class="private">
+                  <div class="slide-ball">
+                  </div>
+                  <div class="priv-text">Private</div>
+                </div>
+              </div>
+            </div>
+            <div class="status-list">
+              <div class="drag-container">
+                <div class="status-update">
+                  <div class="close-status">
+                    x
+                  </div>
+                  <div class="status-avatar">
+                    <img src="/apps/social-network-sort/images/speaking-user.png"></div>
+                  <div id="network2-first-status" class="status-text">
+                    Hello World! This is my first post on
+                  </div>
+                </div>
+                <div class="status-update blank-status-update">
+                  +
+                </div>
+                <span class="clear"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="status-updates-container">
+          <div id="status-updates-library-header">
+            <h2>Status Update Library</h2>
+            <div id="type-updates-buttons">
+              <div class='updates-button' id='text-updates-button'>Text</div><div class='updates-button' id='image-updates-button'>Images</div><div class='updates-button' id='video-updates-button'>Videos</div><div class='updates-button' id='media-updates-button'>Audio</div><div class='updates-button' id='new-updates-button'>&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;</div>
+            </div>
+          </div>
+          <div id="status-updates">
+
+            <div id="status-list" class="status-list">
+
+              <div id="status-update-library">
+
+                <div id="update-categories">
+                  <div class="status-update-category drag-container" id="new-updates">
+                    <div class='status-update new-status-update'><div class='status-avatar'><img src='/apps/social-network-sort/images/speaking-user.png'></div><div id="new-status-text" class='status-text'></div><div id="new-status-preview" class='status-preview'><img id="new-status-image" src="#"></div></div>
+                    <div id="new-status-form">
+                      <label>Status:</label><br>
+                      <input type="text" id="new-status-text-input" class="new-status-input" onkeyup="populateNewStatus()"></input><br>
+                      <label>Image:</label><br>
+                      <input type="text" id="new-status-image-input" class="new-status-input"></input><br>
+                      <button id="new-status-image-button" onclick="addImageToStatus()">Add Image</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/apps/social-network-sort/jquery-3.1.1.min.js"></script>
+    <script src="/apps/social-network-sort/dragula.js"></script>
+    <script src="/apps/social-network-sort/data/statuses.js"></script>
+    <script src="/apps/social-network-sort/data/networks.js"></script>
+    <script src="/apps/social-network-sort/script.js"></script>
+  </body>
+</html>
