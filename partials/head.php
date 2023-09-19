@@ -24,4 +24,6 @@
      img{max-width:100%}
      #site-title{font-size:2em}
     </style>
+
+    <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6JCRJFLFHJ"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-6JCRJFLFHJ'); </script>
 </head>
