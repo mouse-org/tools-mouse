@@ -1,7 +1,7 @@
 ## Courses
 Mouse has designed several courses as recommended learning sequences for groups that want to focus on competency areas that complement one another thematically. Users can view the projects associated with each course by selecting the course’s tag in the [Project Finder](https://create.mouse.org/projects).
 
-You will have access to different sets of courses depending on the type of Mouse Create membership your site has. The list of membership types are below:
+You will have access to different sets of courses depending on the type of Mouse Create membership your site has. The list of membership types is below:
 
 #### Full Membership:
 
@@ -10,7 +10,7 @@ You will have access to different sets of courses depending on the type of Mouse
 - [Cybersecurity by Per Scholas](#cybersecurity-by-per-scholas)
 - [Design with Purpose](#design-with-purpose)
 - [Digital Portfolios](#digital-portfolios)
-- [Educator Course](#educator-course)
+- [Educator Course](#educator-course) *This Course is only for Educators (not explained on this page)*
 - [Green Tech](#green-tech)
 - [Impact Game Design](#impact-game-design)
 - [Intro to Design](#intro-to-design)
