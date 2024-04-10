@@ -316,5 +316,17 @@
       "badge_image": "/images/badges/TCEP_Badges_Cyber_600.png",
       "badge_name": "Cybersecurity: Intro to Network Analysis Badge",
       "projects": [27061, 27035]
+    },
+    {
+      "badge_url": "https://www.credly.com/org/mouse/badge/i-t-support-intro-to-it-automation",
+      "badge_image": "/images/badges/TCEP_Badges_IT_600.png",
+      "badge_name": "I.T. Support: Intro to IT Automation",
+      "projects": [27287, 27274]
+    },
+    {
+      "badge_url": "https://www.credly.com/org/mouse/badge/computer-networking-intro-to-network-topologies",
+      "badge_image": "/images/badges/TCEP_Badges_Net_600.png",
+      "badge_name": "Computer Networking: Intro to Network Topologies",
+      "projects": [27166]
     }
   ]
