@@ -246,18 +246,6 @@
       "projects": [9802, 9842]
     },
     {
-      "badge_url": "https://credly.com/org/mouse/badge/future-humans",
-      "badge_image": "/images/badges/future-humans.png",
-      "badge_name": "Future Humans",
-      "projects": [18797]
-    },
-    {
-      "badge_url": "https://credly.com/org/mouse/badge/evolved-creatures",
-      "badge_image": "/images/badges/evolved-creatures.png",
-      "badge_name": "Evolved Creatures",
-      "projects": [18770]
-    },
-    {
       "badge_url": "https://credly.com/org/mouse/badge/viral-media",
       "badge_image": "/images/badges/viralmedia_badge.png",
       "badge_name": "Viral Media",
