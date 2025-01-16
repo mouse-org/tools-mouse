@@ -10,11 +10,6 @@
       "class": "menu-item"
     },
     {
-      "name": "Badge Directory",
-      "url": "/badge-directory",
-      "class": "menu-item"
-    },
-    {
       "name": "Forms & Certificates",
       "url": "/forms",
       "class": "menu-item"
