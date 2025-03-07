@@ -20,11 +20,6 @@
       "class": "menu-item"
     },
     {
-      "name": "Help: Badges and Acclaim",
-      "url": "/help/badges",
-      "class": "menu-item"
-    },
-    {
       "name": "Help: FAQ",
       "url": "/help/faq",
       "class": "menu-item"
